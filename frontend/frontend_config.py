@@ -4,4 +4,4 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-BACKEND_URL = os.getenv("BACKEND_URL", "http://localhost:5000/api/chatbot")
+BACKEND_URL = os.getenv("BACKEND_URL", "http://localhost:8080/api/chatbot")
