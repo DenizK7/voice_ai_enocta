@@ -1,0 +1,986 @@
+{
+    "segments": [
+        {
+            "end": 14.299,
+            "speaker": "speaker_0",
+            "start": 14.259,
+            "text": "(intro müziği)"
+        },
+        {
+            "end": 19.719,
+            "speaker": "speaker_1",
+            "start": 14.299,
+            "text": "Merhaba, ben Hilmi Güvenal. Tecrübe bugün konuğum Taner Özdeş. Hoş geldin Taner."
+        },
+        {
+            "end": 21.059,
+            "speaker": "speaker_2",
+            "start": 19.719,
+            "text": "Hoş bulduk. Teşekkür ediyorum."
+        },
+        {
+            "end": 29.079,
+            "speaker": "speaker_1",
+            "start": 21.059,
+            "text": "internet, bilişim, güvenlik konusunda çözümler üreten Genel Müdürüsüsün yirmi yıldır."
+        },
+        {
+            "end": 30.159,
+            "speaker": "speaker_2",
+            "start": 29.079,
+            "text": "Infotech, evet."
+        },
+        {
+            "end": 42.779,
+            "speaker": "speaker_1",
+            "start": 30.159,
+            "text": "burada eğitimci, kitap yazarı, seminerler veren hatta sonunda kendi akademinide kuran birini konuk ediyoruz bugün. Taner Özdeş Akademi diye de-"
+        },
+        {
+            "end": 42.819,
+            "speaker": "speaker_2",
+            "start": 42.779,
+            "text": "Evet."
+        },
+        {
+            "end": 50.599,
+            "speaker": "speaker_1",
+            "start": 42.819,
+            "text": "-bir kurumın var. Eğitim çalışmaları verdiğin, liderlik eğitimleri veriyorsun. Duygusal zeka, böyle esas başlangıcında satış eğitimleriydi."
+        },
+        {
+            "end": 51.579,
+            "speaker": "speaker_2",
+            "start": 50.599,
+            "text": "Çok doğru."
+        },
+        {
+            "end": 63.139,
+            "speaker": "speaker_1",
+            "start": 51.579,
+            "text": "Şimdi istersen önce güncel bir konuyla başlayalım. Senin de gün içinde herhalde en çok uğraştığın profesyonel olarak konu bu siber güvenlik konusu."
+        },
+        {
+            "end": 63.159,
+            "speaker": "speaker_2",
+            "start": 63.139,
+            "text": "Doğru."
+        },
+        {
+            "end": 87.039,
+            "speaker": "speaker_1",
+            "start": 63.159,
+            "text": "burada daha önce konuk olan TÜSİAD eski başkanı, Allianz Yönetim Kurulu Başkanı Cansen Başaran, kendilerinin yaptığı bir araştırmada dünya üzerinde birinci sırayı doğal afetlerden ve ekonomik sıkıntılardan önce siber tehditlerin aldığını söylemişti. Ne oluyor? Yani sizin firma yirmi yıldır var, çalışma yapıyorsunuz, başka firmalar var. Neye yetişemiyorsunuz?"
+        },
+        {
+            "end": 126.299,
+            "speaker": "speaker_2",
+            "start": 87.039,
+            "text": "Şimdi. Her halu-- ben üçe ayırmak lazım siber güvenliği. Siber güvenlik esasında bilişim altyapısınınna verilen bir ad. Yani bilişim altyapısı olan kurumların siber şirketler deniyor. Yani buna adı siberin altında bilişim altyapısına sahip şirketlerden bahsediyoruz. bu sektöre başladığımda o zamanlar ün sahibi olmak için yani amaç itibar kazanmak, en iyi hacker ödülünü almak. Ama amaç parasal bir şey yapmak değil, yani ismi yaymaktı. Fakat bugün dünyada üç tane tehdit var. Bir tanesi bildiğimiz yine ama bu sefer bunlar para kazanmak için-Korsan evet. Bunlar ünden daha çok birebir para kazanmak için yapılıyor."
+        },
+        {
+            "end": 127.839,
+            "speaker": "speaker_1",
+            "start": 126.299,
+            "text": "Tehdit de ediyorlar para istiyorlar."
+        },
+        {
+            "end": 201.199,
+            "speaker": "speaker_2",
+            "start": 127.839,
+            "text": "Çalıyorlar. Yok direkt çalıyorlar. Tabii, tabii makinenize bunlar bir fishing saldırıyla, buna olta diyorlar Türkçesinde. Olta saldırısıyla yani email, e-posta veya web sayfası veya bir download veya yanlış sahte üretilmiş bir web sitesine sizi yönlendirmek suretiyle bilgilerinizi çalıp kısa bir süre sonra makinenize giriyorlar. Makinenize girdikten sonra bunlar buradan para karşılığında ya reklamcılar için reklamları tıklamak suretiyle reklamcı-reklamcıların para kazanmasını sağlıyorlar. O bannerlara tıklıyorlar veya da herhangi bir devlet adına veya başka bir şirket adına saldırı yapıyorlar. Yani yüz binlerce makine double w işte ne şirket com saldırıyor. Hatta biz bunun simülasyonlarını yapıyorlarki başladık. Diyoruz ki mesela hangi hızda, ne kadar sürede saldırı yapmamı istiyorsunuz? Ben bunu bana parasını veriyorsunuz. Ben sizin şirketinize gerçek bir saldırmış gibi bunu yapıyorum. Yani ne kadar dayanabileceğinize bakıyoruz. Yani ne kadar büyük bir saldırıya. Şimdi en büyük saldırı biliyorsunuz bu politik zamanlarında internetini kapattılar. Yani Türkiye aşağı yukarı iki üç saat internete hiç kimse çıkamadı. Yani kapattılar."
+        },
+        {
+            "end": 202.759,
+            "speaker": "speaker_1",
+            "start": 201.199,
+            "text": "Sonra bankalara saldırdılar."
+        },
+        {
+            "end": 216.359,
+            "speaker": "speaker_2",
+            "start": 202.759,
+            "text": "Ee sonra iki bankayı bankadan para bile çekemedik. Hatta yirmi dokuz oldu bu. Bankanın adını vermeyeyim. Doğru olmadığı zaman o banka gittiğim zaman ben hiç ne para çekebildim, ne sayfa-kendi sayfama girebildim. Tamamen orasını kapattılar yani."
+        },
+        {
+            "end": 218.459,
+            "speaker": "speaker_1",
+            "start": 216.359,
+            "text": "Hava Yolları şirketlerine yapılıyor."
+        },
+        {
+            "end": 219.119,
+            "speaker": "speaker_2",
+            "start": 218.459,
+            "text": "Yapılıyor."
+        },
+        {
+            "end": 226.699,
+            "speaker": "speaker_1",
+            "start": 219.119,
+            "text": "Sigorta şirketlerine yapılıyor. Bilhassa yani anlık işlem yapan ve anlık işlemlerin durmasından zarar görecek--balan şirketlere."
+        },
+        {
+            "end": 241.539,
+            "speaker": "speaker_2",
+            "start": 226.699,
+            "text": "Yani şimdi durduğu zaman siteniz sizin para kaybediyorsunuz doğal olarak. İnsanlar mesela diyelim x şirketine gideceğine diyelim mesela süt almak istediğiniz evinize o siteye gidiyorsun. Orası kapalı. Hemen rakibe gidiyorsun. Bu şekilde rakibinize belki daha hoşuna gidecek derbi komple kaybediyorsunuz."
+        },
+        {
+            "end": 247.299,
+            "speaker": "speaker_1",
+            "start": 241.539,
+            "text": "Tabii yani demin bahsettiğin gibi bankadaki paranı çekememek veya havale edememek de çok büyük bir sıkıntı."
+        },
+        {
+            "end": 247.499,
+            "speaker": "speaker_2",
+            "start": 247.299,
+            "text": "Aynen"
+        },
+        {
+            "end": 249.199,
+            "speaker": "speaker_1",
+            "start": 247.499,
+            "text": "Bir hizmete ulaşamamak da-"
+        },
+        {
+            "end": 251.239,
+            "speaker": "speaker_2",
+            "start": 249.199,
+            "text": "Tabii firmalar müşteri kaybeder-"
+        },
+        {
+            "end": 254.579,
+            "speaker": "speaker_1",
+            "start": 251.239,
+            "text": "Hangi firmalar bunları başka önemsiyor? Bahsettiğimiz bankalar dışında."
+        },
+        {
+            "end": 294.719,
+            "speaker": "speaker_2",
+            "start": 254.579,
+            "text": "üç sektör var çok önemseyen. Bir tanesi bankalar. O, o zaman vazgeçilmez bir şey. İkincisi enerji şirketleri. Çünkü enerji şirketlerine saldırılar oluyor ve enerji şirketleri çok daha artık önemli hale geldiler. Bir de endüstriyel şirketler, yani özellikle bu ne bilim elektrik üreten, bir şey üreten şirketler. Yani belli bir yazılım var SCADA diye dünyada. Bu bir özel bir sistem. Bunun üzerinde yazılımlar var. Direkt olaraktan bu SCADA sistemine, yani eskiden Microsoft Windowstu yani Şimdi bu hedef alıyorlar. Onun üzerinden yine sizin sistemlerinize uçak düşürüyorlar. Nükleer santrali bombalıyorlar. Her şey olabilir yani bugün. Yani bunda-bunda yapacakları şey, sınır yok."
+        },
+        {
+            "end": 301.619,
+            "speaker": "speaker_1",
+            "start": 294.719,
+            "text": "Peki bunu engellemeye çalışmak konusu var. Bunlar için simülasyon yapmak. Yani bir gün böyle bir şey olursa-"
+        },
+        {
+            "end": 301.819,
+            "speaker": "speaker_2",
+            "start": 301.619,
+            "text": "Evet."
+        },
+        {
+            "end": 306.619,
+            "speaker": "speaker_1",
+            "start": 301.819,
+            "text": "-diye. ne yapıyorsunuz siz böyle bir şey yapmak için? Piyasadan hacker mı topluyorsunuz? İşe alıyorsunuz?"
+        },
+        {
+            "end": 309.279,
+            "speaker": "speaker_2",
+            "start": 306.619,
+            "text": "Yoo, elimizde yazılımlar var. O yazılımlarla saldırıyoruz."
+        },
+        {
+            "end": 309.739,
+            "speaker": "speaker_1",
+            "start": 309.279,
+            "text": "Hmmm..."
+        },
+        {
+            "end": 332.999,
+            "speaker": "speaker_2",
+            "start": 309.739,
+            "text": "Yani. Yani bir de sızma testleri var. Yani sizin sisteminize girmeye çalışıyor. Yani iki türü var. Bir saldırı şekli oluyor, bir tanesi de ben usul-- bir şekilde şirketinize girmeyi deniyorum, Girebiliyor muyum ona bakıyorum. Giriyorsam neden dolayı giriyorum? Oradaki siz daha sonra girip açıkları kapatıyorsunuz. Sen bi ev düşünün. Ben öyle daha basit anlatayım. Evin penceresi, kapısı var. Tamam buna nereden gireceğime bakıyorum. Cam açıksa camdan giriyorum, kapı açıksa kapıdan giriyorum."
+        },
+        {
+            "end": 333.739,
+            "speaker": "speaker_1",
+            "start": 332.999,
+            "text": "Bacadan giriyorsunuz."
+        },
+        {
+            "end": 337.399,
+            "speaker": "speaker_2",
+            "start": 333.739,
+            "text": "Bacadan giriyorsunuz. İşte oradan-- o zaman siz komple evinizi koruma altına almanız lazım."
+        },
+        {
+            "end": 340.099,
+            "speaker": "speaker_1",
+            "start": 337.399,
+            "text": "Ben şu anda senin düşmanın olsam ne yapardım? Seni çok etmeyeyim."
+        },
+        {
+            "end": 353.879,
+            "speaker": "speaker_2",
+            "start": 340.099,
+            "text": "Daha da ileri götürüyoruz. Siz evin etrafında dolaşmaya başladığınız anda sizi tehdit-- eve gel-mene-girmenize gerek yok. Benim etrafımda üç tur attığı zaman diyorum ki bu benim için bir tehdit diyorum. Hemen size karşı korunmaya geçiyorum artık. Yani artık biraz daha artık yapay zekaya gidiyor dünya."
+        },
+        {
+            "end": 355.439,
+            "speaker": "speaker_1",
+            "start": 353.879,
+            "text": "He bu işin de yapay zekası var."
+        },
+        {
+            "end": 362.419,
+            "speaker": "speaker_2",
+            "start": 355.439,
+            "text": "Var tabii. Yani siz etrafımda dolaşıyorsunuz diyorum. Bu niye dolaşıyor etrafımda? Yani benim evimin etrafında bu adamın ne işi var diyorum. Ben kendimi garantiye alayım diyorum."
+        },
+        {
+            "end": 363.359,
+            "speaker": "speaker_1",
+            "start": 362.419,
+            "text": "Evet, çok enteresan."
+        },
+        {
+            "end": 373.799,
+            "speaker": "speaker_2",
+            "start": 363.359,
+            "text": "Evet, yani girmeniz yani illa anahtarı sokmanıza veya camı zorlamanıza gerek kalmıyor. Ben direkt olarak etrafta dolaşan, yakınında dolaşan, yarım beş yüz metre içindeki her insan benim için bir tehdittir."
+        },
+        {
+            "end": 380.459,
+            "speaker": "speaker_1",
+            "start": 373.799,
+            "text": "Evet, bu Çin ile Amerika arasında bu konu bir hacker mücadelesinden bahsediliyor."
+        },
+        {
+            "end": 380.799,
+            "speaker": "speaker_2",
+            "start": 380.459,
+            "text": "Evet."
+        },
+        {
+            "end": 407.659,
+            "speaker": "speaker_1",
+            "start": 380.799,
+            "text": "Geçen Amerikan seçimlerinde Rusya ile Amerika arasında seçimlerin etkilenmesi. Bir tarafta tabii ki sosyal medyanın kullanım bacağı vardı, bir taraftan da acaba bir hacker saldırısı da oldu mu diye. Siyasi olarak da bunların yapılabileceğini ve başarılı olabileceğini düşünür müsün? Yani güvenlik açısından, siyasi konularda, idari konularda tehdit altında mı? Maddi konuları anladım. Maddi konularda-"
+        },
+        {
+            "end": 408.099,
+            "speaker": "speaker_2",
+            "start": 407.659,
+            "text": "Evet."
+        },
+        {
+            "end": 411.599,
+            "speaker": "speaker_1",
+            "start": 408.099,
+            "text": "-bir çıkar elde ediyorsun. Ya korsanlık yaparak-Ya da çalarak."
+        },
+        {
+            "end": 412.419,
+            "speaker": "speaker_2",
+            "start": 411.599,
+            "text": "Doğru, doğru."
+        },
+        {
+            "end": 414.979,
+            "speaker": "speaker_1",
+            "start": 412.419,
+            "text": "Ama siyasi ve idari olarak da bunlar yapılabilir mi?"
+        },
+        {
+            "end": 470.039,
+            "speaker": "speaker_2",
+            "start": 414.979,
+            "text": "E tabii, tabii sonuç iten yani benim eğer oy, oy mekanizması, yani ben kişisel bilgisayarlardan insanlar oy kullanıyorsa, aynı şey e-devlet için de geçerli bankalar için de geçerli. Ben o makineyi ele geçirdiğim zaman o makinenın-nın eee-eee gerçek sahibiyle hacker arasındaki kişiyi son kullanıcı, yani banka veya kimse e-devlet bunu anlayamayız. En büyük sıkıntı bizim şu an, bizim en çok üzerinde çalıştığımız şey. Diyoruz ki, son kullanıcılar kendini koruyacak bilgi, tecrübe ve yazılıma sahip değiller. O zaman diyorum ben, ben bir bankaysam, bir e-ticaret sitesi isem, ben benimle alışveriş yapan kişinin güvenliğini sağlamak zorunda. Eskiden bankalarda bir sorumluluğu yok, gene sorumlu yok bankaların. Ya şimdi makineniz hacklenmişse ve biri sizin şifrenizi alıp gidip bankadan paranızı çekmişse bankanın da bir sorumluluğu yok. Yani daha akıllı sistemlerle biraz daha yine tehditleri algılamaya çalışıyorlar. Ama nihai sorun sizin hani kredi kartınızı alıp birisinin kredi kartı harcaması yapmış gibi. Yani aynı mantıkta."
+        },
+        {
+            "end": 476.899,
+            "speaker": "speaker_1",
+            "start": 470.039,
+            "text": "Bu yirmi yılda neler öğrendin, nelere şaşırdın? Bu güvenlik konusunda desem neler gelir aklına?"
+        },
+        {
+            "end": 520.735,
+            "speaker": "speaker_2",
+            "start": 476.899,
+            "text": "şaşırdım. Iıı yaa devamlı değişme olduğu için güvenlikte.Yani biz çok önceden her şeyi, yani biz sonuç olarak ee, den önce biz bunun uluslararası boyuttaki eğitimlerini aldığımız için ve oradaki bildiğimiz için Türkiye bu zaman beş on sene sonra geliyor. O yüzden yani bizi şaşırtacak bir şey olmuyor. Ben zaten bunu ilk önce görüyorum. tehditler bize daha sonra geliyor. Ha ben niye şaşırıyorum esasında? Bu kadar tehdide rağmen hâlâ bu konuda hiçbir,ee, eyleme geçmemesi, yani bu konuda yatırım yapmaması, aynı şekilde büyük patronların da en ucuz donanım ve yazılım almak suretiyle hâlâ bunu bir maliyet olarak görmesi."
+        },
+        {
+            "end": 521.215,
+            "speaker": "speaker_1",
+            "start": 520.735,
+            "text": "Evet."
+        },
+        {
+            "end": 546.255,
+            "speaker": "speaker_2",
+            "start": 521.215,
+            "text": "Maliyet olarak görüyor. Patronlar böyle görüyor, maliyet olarak görüyor. Bankalar harici herkes bu bir maliyet kalemidir. Ben burada en ucuzunu almak zorundayım. Çünkü harcadığım her para çöpe gidiyor diye düşünüyor. Bence tam tersi. Bu bir bence bir kurumun rekabetçi olması için veya daha çok pazar payına sahip olması için mecbur yatırım yapması gereken bir alan. Ama Türkiye bunu yatırım alanı görmekten daha çok bir maliyet kalemi olarak görüyor. Yani sanki bir kalem, silgi alıyorsun şirketine, öyle görüyor. (güler)"
+        },
+        {
+            "end": 548.415,
+            "speaker": "speaker_1",
+            "start": 546.255,
+            "text": "Eğitim dedin burada-"
+        },
+        {
+            "end": 548.655,
+            "speaker": "speaker_2",
+            "start": 548.415,
+            "text": "Evet."
+        },
+        {
+            "end": 552.655,
+            "speaker": "speaker_1",
+            "start": 548.655,
+            "text": "Önemli. Ve sen de yirmi yıl önce bu eğitim işine girdin."
+        },
+        {
+            "end": 553.075,
+            "speaker": "speaker_2",
+            "start": 552.655,
+            "text": "Evet, doğru."
+        },
+        {
+            "end": 555.515,
+            "speaker": "speaker_1",
+            "start": 553.075,
+            "text": "Ve bilhassa da satış eğitimleriyle-"
+        },
+        {
+            "end": 555.915,
+            "speaker": "speaker_2",
+            "start": 555.515,
+            "text": "Doğru."
+        },
+        {
+            "end": 566.775,
+            "speaker": "speaker_1",
+            "start": 555.915,
+            "text": "Başlamıştın. Daha sonra diğer eğitimleri de vermeye başladın. Ben,ee, elli yaşındayken yazdığın Elli Yaş Gözüyle adlı kitap, ki o da yanımda da var."
+        },
+        {
+            "end": 567.255,
+            "speaker": "speaker_2",
+            "start": 566.775,
+            "text": "Evet."
+        },
+        {
+            "end": 571.135,
+            "speaker": "speaker_1",
+            "start": 567.255,
+            "text": "Eğer yönetmenimiz de şöyle alabilirse Elli Yaş-"
+        },
+        {
+            "end": 573.335,
+            "speaker": "speaker_2",
+            "start": 571.135,
+            "text": "Gözlük de var işte. Elli Yaş Gözüyle, sanki bir de gözlük koydu oraya."
+        },
+        {
+            "end": 578.535,
+            "speaker": "speaker_1",
+            "start": 573.335,
+            "text": "Elli Yaş Gözüyle, Taner Bunu dört beş yıl önce yazdığı bir kitaptır."
+        },
+        {
+            "end": 597.295,
+            "speaker": "speaker_2",
+            "start": 578.535,
+            "text": "Çoğu insan tabi almıyordu. Çünkü bir gün hatta imza günü bir kadın geldi bana Duygusal Zeka aldı elli yaşında, niye almadın dedim. Ben kırk dokuz yaşındayım, dedi. Ya ne alakası var? Ben dedim bu kitabı, bu kitabı ben insanların on sekiz yaşındaki çocuğun da okuması için aldım ki elli yaşında benim yaşadıklarımı yaşamasın diye."
+        },
+        {
+            "end": 602.595,
+            "speaker": "speaker_1",
+            "start": 597.295,
+            "text": "Ama ilk yazdığın, ee, kitap yazdığın Satışın On Altın Kuralı idi."
+        },
+        {
+            "end": 603.495,
+            "speaker": "speaker_2",
+            "start": 602.595,
+            "text": "Evet, aynen."
+        },
+        {
+            "end": 606.495,
+            "speaker": "speaker_1",
+            "start": 603.495,
+            "text": "Şimdi açıkçası satış hakkında kitaplar çok vardır."
+        },
+        {
+            "end": 606.535,
+            "speaker": "speaker_2",
+            "start": 606.495,
+            "text": "Doğru."
+        },
+        {
+            "end": 616.9549999999999,
+            "speaker": "speaker_1",
+            "start": 606.535,
+            "text": "Yani gerek İngilizce olarak yazılmış veya diğer dillerde veya de. Bunu yazarken, yazmaya başladığında korkmadın mı, neyi hedefledin, neyi farklı yazacağını düşündün?"
+        },
+        {
+            "end": 644.615,
+            "speaker": "speaker_2",
+            "start": 616.9549999999999,
+            "text": "Vallahi o kadar bilincim olmadığı için korkacak kadar bilincim yoktu. Fakat ben yıllarca Maksi köşe yazarlığı yaptım. Kendi blogum vardı. Yani yazma alışkanlığını,ee, edinmiştim. Ee, kitabı da zaten vermiş olduğum eğitimlerden yarattığım için kitap zaten anlattığım bir şeyi sadece yazılı hale getirdim. Yani kitap yazmak için ekstra bir efor sarf etmedim. On yıl boyunca vermiş olduğum eğitimlerdeki en ilgi çekici noktaları bir kitap altında topladım."
+        },
+        {
+            "end": 661.495,
+            "speaker": "speaker_1",
+            "start": 644.615,
+            "text": "Peki,ee, bu eğitimlerde ve kitabı yayınladıktan sonra başına gelenleri şöyle değerlendirdiğin zaman, insanların satıcı olmakla ilgili güdüleri nedir? İnsanlar satıcı olmak isterler mi yoksa mecbur kaldıkları için mi satıcı olurlar? O yüzden mi eğitim önemlidir?"
+        },
+        {
+            "end": 703.615,
+            "speaker": "speaker_2",
+            "start": 661.495,
+            "text": "Ee, iyi satıcılık bence olma halidir. Ee, yani satıcı olmak istemeyenler ise bence olmamalıdırlar. Yani aslında bu satıcılık daha çok bir kişilikle alakalı bir şey bence yetenekten çok. Yani yetenek de önemli ama esas bir kişiliktir. Yani sizin yaşam tarzınız,ee, ondan sonra insanlara bakışınız, ilişki kurma kapasiteniz, uyum sağlama kapasiteniz, insanları ikna etme- birçok yetenek havuzudur bence. Ee, insanların bence,ee, satıcı olmanın arkasında iki sebep var. Bir, inandıkları bir şeyi satmamaları bence. İkincisi, kendine güvenmemeleri. Bu satış kendine güvenmediğimizi o kadar çok ortaya çıkarıyor ki, insan o duyguyu yaşamamak için satış işinden kaçıyor."
+        },
+        {
+            "end": 707.575,
+            "speaker": "speaker_1",
+            "start": 703.615,
+            "text": "Peki öz güven eğitimi geliştirilebilir mi, yoksa zamanla başarıyla mı gelir?"
+        },
+        {
+            "end": 744.9549999999999,
+            "speaker": "speaker_2",
+            "start": 707.575,
+            "text": "Ee, özgüven eğitimleri ben veriyorum. Özgüven, kişinin,ee, bilinçli olaraktan ufak ufak başarılardan almış olduğu öğretilerden kendisine artmasıdır. Özgüven öğretilebilir bir şey değil bence. Ama öz güven için insanın risk alması lazım. Ee, yaptıkça da artıyor. Yani bu kendi kendine artan bir şey. Yani insanın olgun olması gibi. Yani nasıl yaşanmadan insan olgun olamıyorsa,ee, insan bence,ee, belli şeylere risk almadan, cesaret edinmeden veya,ee, başarısız olmadan da öz güven sahibi olamayan, öz güven olmanın sahibi bolca başarısız olmaktan geçiyor."
+        },
+        {
+            "end": 745.7149999999999,
+            "speaker": "speaker_1",
+            "start": 744.9549999999999,
+            "text": "Başarısız olmaktan."
+        },
+        {
+            "end": 753.935,
+            "speaker": "speaker_2",
+            "start": 745.7149999999999,
+            "text": "Başarısız olmaktan geçiyor. Kesinlikle başarı ilgisi yok. Başarısızlıktan aldığımızı, başarı olup ondan sonra kendimizi iyi hissetmemiz bence öz güven."
+        },
+        {
+            "end": 757.655,
+            "speaker": "speaker_1",
+            "start": 753.935,
+            "text": "Peki bu on altın kural içerisinde olmazsa olmaz dediğiniz hangisidir?"
+        },
+        {
+            "end": 758.755,
+            "speaker": "speaker_2",
+            "start": 757.655,
+            "text": "Aile."
+        },
+        {
+            "end": 760.755,
+            "speaker": "speaker_1",
+            "start": 758.755,
+            "text": "Aile? Nasıl? Açıklar mısın?"
+        },
+        {
+            "end": 779.175,
+            "speaker": "speaker_2",
+            "start": 760.755,
+            "text": "Benim için hayatta en önemli şey ailedir. Yani hayatta en çok değer verdiğimi şunu izliyorum. Ya ben hayattaki her şeyin geçici olduğunu düşünüyorum. Arkadaşlarım, dostlarım, işim, arabam neyse ama ailem benim için en önemli güç. Yani o yüzden de hayatta en çok yatırım yaptığım yer ailem. Hem sadece kendi ailem değil, hani bütün,ee, bütün akrabalarımı dahil."
+        },
+        {
+            "end": 781.095,
+            "speaker": "speaker_1",
+            "start": 779.175,
+            "text": "Sohbet etmek bir sanattır demişsin."
+        },
+        {
+            "end": 781.315,
+            "speaker": "speaker_2",
+            "start": 781.095,
+            "text": "Doğru."
+        },
+        {
+            "end": 782.035,
+            "speaker": "speaker_1",
+            "start": 781.315,
+            "text": "Kitabında."
+        },
+        {
+            "end": 782.4549999999999,
+            "speaker": "speaker_2",
+            "start": 782.035,
+            "text": "Doğru."
+        },
+        {
+            "end": 787.655,
+            "speaker": "speaker_1",
+            "start": 782.4549999999999,
+            "text": "Esasında satış eğitimlerinde de çok yapılandırılmış bir yöntem anlatıyorsunuz."
+        },
+        {
+            "end": 787.9549999999999,
+            "speaker": "speaker_2",
+            "start": 787.655,
+            "text": "Doğru."
+        },
+        {
+            "end": 789.015,
+            "speaker": "speaker_1",
+            "start": 787.9549999999999,
+            "text": "Satış şöyle yapılır diye."
+        },
+        {
+            "end": 790.015,
+            "speaker": "speaker_2",
+            "start": 789.015,
+            "text": "Doğru, çok doğru."
+        },
+        {
+            "end": 792.795,
+            "speaker": "speaker_1",
+            "start": 790.015,
+            "text": "Ee, bu sanat mı yoksa yöntem mi?"
+        },
+        {
+            "end": 811.855,
+            "speaker": "speaker_2",
+            "start": 792.795,
+            "text": "Sanat, yani insanın bence kendisini doğru ifade edebilmesi lazım. Elbette sohbetin alt şeyi iletişimdir. Yani ilk önce bir kere doğru iletişim kurmasını bileceğim. İki, doğru dinlemesini bileceğim. Üç, doğru soru sormasını bileceğim. Dört, sabırlı olacağım. Ve en önemlisi kendimi unutup karşıya iyi göstereceğim."
+        },
+        {
+            "end": 815.2149999999999,
+            "speaker": "speaker_1",
+            "start": 811.855,
+            "text": "İnsanlar en, en zor ne tarafını öğreniyor bu bahsettiğinizin?"
+        },
+        {
+            "end": 821.175,
+            "speaker": "speaker_2",
+            "start": 815.2149999999999,
+            "text": "Karşıya ilgi göstermek. Bence orada kaybediyorlar. Kendisini unutmakta yani. Kendimi, ben karşıya ilgi duyduğum an zaten-"
+        },
+        {
+            "end": 823.535,
+            "speaker": "speaker_1",
+            "start": 821.175,
+            "text": "Kendini unutmak derken kendini geri çekip karşı tarafı-"
+        },
+        {
+            "end": 829.9549999999999,
+            "speaker": "speaker_2",
+            "start": 823.535,
+            "text": "Egomu, egomu, kendi düşüncelerimi, kendi önyargılarımı, kendi önceliklerimi yapıp onun yerine daha çok karşıya ilgi göstermek."
+        },
+        {
+            "end": 832.075,
+            "speaker": "speaker_1",
+            "start": 829.9549999999999,
+            "text": "Karşısının faydasını ön plana çıkarmak mı?"
+        },
+        {
+            "end": 845.375,
+            "speaker": "speaker_2",
+            "start": 832.075,
+            "text": "Çok doğru. Aynen karşının ilgisini, faydasını,ee, çekecek konuları bulup sanki o konular kendinmiş gibi onunla birlikte o paylaşıma birlikte o hazzı birlikte almak."
+        },
+        {
+            "end": 846.915,
+            "speaker": "speaker_1",
+            "start": 845.375,
+            "text": "Liderlik eğitimleri de veriyorsun."
+        },
+        {
+            "end": 847.435,
+            "speaker": "speaker_2",
+            "start": 846.915,
+            "text": "Doğru."
+        },
+        {
+            "end": 850.5550000000001,
+            "speaker": "speaker_1",
+            "start": 847.435,
+            "text": "Liderlik, eğitimle verilebilen bir şey midir?"
+        },
+        {
+            "end": 929.395,
+            "speaker": "speaker_2",
+            "start": 850.5550000000001,
+            "text": "Şimdi liderliği biz tabii çok boyutta anlatıyoruz. Liderlik, ben sorumluluk almak olaraktan daha çok anlatıyorum. Ee, daha çok verdiğim sektörde perakende sektör daha çok. Mesela en son verdim. Mesela örnek olaraktan. Yani orada biz şeyi öğretiyoruz liderlikte. Kişinin,ee, kurallar, süreçlerden daha çok kişinin, ee, belli görmüş olduğu fırsatları değerlendirerekten veya başka insanlar destek olmak suretiyle sorumluluk alaraktan, ee, o kurumdaki her türlü sorumluluğu, alabileceği her tür sorumluluğu almasını diyoruz liderlik esasında. Yoksa yani bir Atatürk gibi bir liderlikten bahsetmiyorum. Yani esasında bizim en çok karıştırdığımız şey politik liderlikle normal bir insanın liderliği. Yani hep biz esasında askeri, politik liderliği anlıyoruz. Ama liderlik esasında her insan mesela burada da her insan her bulunduğu ortamda lider olabilir. Yaa onu anlatmaya çalışıyoruz. Çok böyle çok büyükmişmiş anlatılıyor. Ama liderlik esasında kişinin cesurca elinden gelenin en iyisini yapması,ee, dışında eğer üst kademeye çıktığımız zaman da vizyon sahibi olması ve insanlara da müdahale etmeden, öz gücü onların da aynı vizyonda arkasından sürükleyen kişi oluyor. Yani onun için esasında kişi ve CEO veya kurumdaki en üst kişinin liderlik becerileri farklı şeyler tabii ki."
+        },
+        {
+            "end": 933.9549999999999,
+            "speaker": "speaker_1",
+            "start": 929.395,
+            "text": "Bu Satışın On Altın yaklaşık on beş yıl önce yazmıştın."
+        },
+        {
+            "end": 934.595,
+            "speaker": "speaker_2",
+            "start": 933.9549999999999,
+            "text": "Evet."
+        },
+        {
+            "end": 938.1949999999999,
+            "speaker": "speaker_1",
+            "start": 934.595,
+            "text": "Şuralarını bugün farklı yazardım diyor musun? Yoksa değişmedi mi bir şey?"
+        },
+        {
+            "end": 971.751,
+            "speaker": "speaker_2",
+            "start": 938.1949999999999,
+            "text": "Şimdi Satışın On Altın bugün işte yirmi üçüncü baskısı basılıyor. O kitap hep gidecek o kitap, yüz yıl sonra da okunacak o kitap. Çünkü temeldir o. Ben şimdi ikincisini yazdım. O da bu sene çıkacak. beri de Satışın On Altın devamını yazıyorum. Adı daha koyulmadı. O da aşağı yukarı üç yüz sayfa falan oldu. Orada günümüzdeki yani bu internet teknoloji dünyasındaki satışçılar için yazdığım o kitabı da bambaşka. O kitabındaki öğretilerde bu yeni yazdığım arası çok farklı. Onun için o kitabın değiştirmiş yok. Çünkü o bireysel, nasıl Dale Kazanmaz Sanırım diye bir kitap vardır."
+        },
+        {
+            "end": 972.311,
+            "speaker": "speaker_1",
+            "start": 971.751,
+            "text": "Evet."
+        },
+        {
+            "end": 987.452,
+            "speaker": "speaker_2",
+            "start": 972.311,
+            "text": "Veya Napoleon Düşün ve Zengin Ol. Bunlar hiçbir zaman için yüz yıl sonra da değişmeyecek. Çünkü bunlar en temeldir. Yürümeyi öğretmek gibi yani satış olarak konuşur, satışta yürümeyi öğretiyor. Şimdi insanlara bugünkü şartlarda ne yapması gerektiğini yazıyorum."
+        },
+        {
+            "end": 994.372,
+            "speaker": "speaker_1",
+            "start": 987.452,
+            "text": "Peki sen nasıl değiştin bu yirmi yıl içerisinde bu eğitimleri verirken? Eğitimci olmak seni nasıl etkiledi?"
+        },
+        {
+            "end": 1028.212,
+            "speaker": "speaker_2",
+            "start": 994.372,
+            "text": "Daha, daha sabırlı, daha sakin, daha dinleyen, bence, daha duyarlı, oldum düşünüyorum. Ve tabii ki birçok yazma, yani iletişim becerilerimi çok daha ilerlettim. en önemlisi, yani verdiğim enerji bence insanlara vermiş olduğum enerji çok daha farklılar geldi. Esas hani A, B tipleri vardı ya ben daha agresifdim, daha ben odaklıydım. Şimdi biraz daha bence, daha verici taraftayım. Yani daha çok, yani daha çok verme tarafında yer alıyorum. Eskiden daha çok alma tarafında yer alıyordum."
+        },
+        {
+            "end": 1034.731,
+            "speaker": "speaker_1",
+            "start": 1028.212,
+            "text": "Şimdi bu Elli Yaş Gözüyle kitabını okudum. Onu da birinci bölümde \"Ben kimim?\" diye bir soru soruyorsun."
+        },
+        {
+            "end": 1035.311,
+            "speaker": "speaker_2",
+            "start": 1034.731,
+            "text": "Evet."
+        },
+        {
+            "end": 1038.511,
+            "speaker": "speaker_1",
+            "start": 1035.311,
+            "text": "İnsan bunu kendine sorarak öğrenebilir mi?"
+        },
+        {
+            "end": 1076.951,
+            "speaker": "speaker_2",
+            "start": 1038.511,
+            "text": "bununla ilgili testler var. Yani aslında bunda bilimsel testler var. E tabi insan-- ben kimim? Esasında daha çok duygularla alakalıdır. Yani insanın kimliğini daha çok duyguları belirler. Yani sizin hangi duyguyu yaşıyorsanız o anda o kişisiniz. Ben cevabı da esas şudur, benim güçlü yanlarım nedir? Bunun için iki şey var. Okuyarak bulabilirsiniz, eğitime giderek bulabilirsiniz veya en yakın dostlarınızdan geri bildirim alarak bulabilirsiniz. En güçlü yanım nedir? Zayıf yanlarım nedir? Ben ne istiyorum? Ben kiminle olmak istiyorum? Ben, nerede olmak istiyorum ilerisi için? Zamanımı kimlerle ve nasıl geçirmek istiyorum? Bunların hepsinin cevabı ben kimim? Çıkıyor."
+        },
+        {
+            "end": 1080.951,
+            "speaker": "speaker_1",
+            "start": 1076.951,
+            "text": "Peki bu meşhur beş yıl sonra nerede olmak istiyorsun sorusu gibi-"
+        },
+        {
+            "end": 1081.411,
+            "speaker": "speaker_2",
+            "start": 1080.951,
+            "text": "Evet."
+        },
+        {
+            "end": 1086.211,
+            "speaker": "speaker_1",
+            "start": 1081.411,
+            "text": "Bugün nerede olmak istiyorsun? Sorusu da var. Birçok insan beş yıl sonrası için-"
+        },
+        {
+            "end": 1086.411,
+            "speaker": "speaker_2",
+            "start": 1086.211,
+            "text": "Evet."
+        },
+        {
+            "end": 1089.831,
+            "speaker": "speaker_1",
+            "start": 1086.411,
+            "text": "Plan yapıyor. Ama bugünle ilgili o kadar da mutlu değil."
+        },
+        {
+            "end": 1090.231,
+            "speaker": "speaker_2",
+            "start": 1089.831,
+            "text": "Değil."
+        },
+        {
+            "end": 1094.331,
+            "speaker": "speaker_1",
+            "start": 1090.231,
+            "text": "Şimdi mutluluğun altı anahtarı demişsin kitabında. Nedir bu altı anahtar?"
+        },
+        {
+            "end": 1154.171,
+            "speaker": "speaker_2",
+            "start": 1094.331,
+            "text": "O altı anahtarı ben gördüm. Ama onu, onu tekrar etmek yerine bir hikaye anlatmak istiyorum bu konuda. Bir gün beş yüz kişi bir seminere katılıyor. Diyorlar ki, herkes balonun ü-balonun üzerine kendi adını yazsın. Tamam, herkes yazıyor ve balonları atıyorlar havaya beş yüz tane balonu. Şimdi herkese beş dakika içinde kendi yazdığı balonu bulması söyleniyor. Kimse bulamıyor bunu. Sonra diyorlar ki aynı şeyi farklı yapalım. Ben başka bir insanın üzerindeki adı yazılı balonu sana veriyorum. Herkese başkasının adı olan balonu veriyorlar. Şimdi diyorlar git bunun sahibini bul diyorlar. Ve insanlar bir, iki dakikada bütün balonlar gerçek sahiplerini buluyorlar. Yani şu da esasında mutluluk esasında herkesin peşinden koştuğu bir şey. Ama esasında mutluluk başkalarının mutluluğunda gizli. Yaa benim temel kavramım bu. Yani mutluluğu daha çok ben başka insanda kadar-- yani mutluluğu daha çok başka insan üzerinden elde ettiğim bir şey. Kendi üzerinden insanın mutlu olması bence imkansız.Hazzla mutluluğu karıştırıyoruz."
+        },
+        {
+            "end": 1156.3310000000001,
+            "speaker": "speaker_1",
+            "start": 1154.171,
+            "text": "İnsanın en büyük engeli kendisidir."
+        },
+        {
+            "end": 1158.111,
+            "speaker": "speaker_2",
+            "start": 1156.3310000000001,
+            "text": "Doğru.Yani zihnidir, yani düşüncesidir."
+        },
+        {
+            "end": 1160.091,
+            "speaker": "speaker_1",
+            "start": 1158.111,
+            "text": "Bu kadardı."
+        },
+        {
+            "end": 1160.411,
+            "speaker": "speaker_2",
+            "start": 1160.091,
+            "text": "Yani insan-"
+        },
+        {
+            "end": 1165.991,
+            "speaker": "speaker_1",
+            "start": 1160.411,
+            "text": "Onun dışında insanın dış, dış etkenleri sebep göstermesi-Ve insanın kendisiyle alakalı bir şey."
+        },
+        {
+            "end": 1217.431,
+            "speaker": "speaker_2",
+            "start": 1165.991,
+            "text": "Kesinlikle var tabi. İnsan tabi yüzde elli, altmış genetik kodudur, DNA diyoruz ona. Ondan sonra insanın çevresi, yani yaşadığı ülke, aile, eğitim çevre aşağı yukarı yüzde sekseni bizim kontrolümüz dışında gelişiyor. İşte o dış dünya ve bize doğduğumuz andan itibaren verilmiş olan genetik kod. Yüzde yirmi ise bizim kendi hayallerimiz, kendi çabalarımız, zaten kendimizi geliştirmemiz. Yani o ama yüzde yirmi insanı gerçekten farklı bir yere götürebiliyor. Yani sizin içe dönüklüğünüz dışı dönük olamazsınız. Eğer negatif iseniz pozitif de olamazsınız. Bunlar kişiliğinizdir. Bunlar değişmez. Ama ne değişir? Davranışınız değişir. O zaman esasında en basit anlamda ne diyoruz esasında? Düşünce, duygu, davranış. Ben davranış değiştirmek istiyorsam gidip düşünceyi değiştirmem lazım. Peki düşüncemi nasıl değiştireceğim? Çok basit. İnanç ve değerlerle. Yani değerlerimiz değişince, inancımız değişince davranışlarımız değişiyor. O zaman biz değişiyoruz."
+        },
+        {
+            "end": 1225.411,
+            "speaker": "speaker_1",
+            "start": 1217.431,
+            "text": "Peki insanların bu değişimle ilgili, ciddi bir konu da zamanı yönetmedir."
+        },
+        {
+            "end": 1225.611,
+            "speaker": "speaker_2",
+            "start": 1225.411,
+            "text": "Evet."
+        },
+        {
+            "end": 1231.891,
+            "speaker": "speaker_1",
+            "start": 1225.611,
+            "text": "Zamanı yönetemeyince değişimi de pek yönetemiyorsun. Zamanı yönetmekle ilgili ne tavsiyelerde bulunuyorsun eğitimlerinde?"
+        },
+        {
+            "end": 1260.991,
+            "speaker": "speaker_2",
+            "start": 1231.891,
+            "text": "Ben zaman yönetimi üzerine ciddi eğitimler vermeye başladım ve çok da güzel geri bildirimler alıyorum. Zamanı yönetmek demek esasında önceliklerini yönetmektir. Ben nasıl yönetiyorum zamanımı? Mesela ben haftada yedi gün spor yapıyorum. Onu blokum, mesela her sabah yedi ile sekiz arasını sporuma ayırıyorum. altı buçukta yediye kitap okumaya ayırıyorum, gibi blokluyorum. Yani ben şu var, ben yapmak istediğim işin zamanı bir şekilde gün içinde bloklayıp ona başka insanların müdahale etmesini engelliyorum. Diğer şeyleri ise akışa bırakıyorum. Öyle yapıyorum yani."
+        },
+        {
+            "end": 1266.571,
+            "speaker": "speaker_1",
+            "start": 1260.991,
+            "text": "Duygusal Zeka kitabını yazdın. Duygusal zeka da birçok kişinin yazdığı bir konu."
+        },
+        {
+            "end": 1266.751,
+            "speaker": "speaker_2",
+            "start": 1266.571,
+            "text": "(güler)"
+        },
+        {
+            "end": 1270.191,
+            "speaker": "speaker_1",
+            "start": 1266.751,
+            "text": "Sen neden yazmak ihtiyacı hissettin? Duygusal Zeka kitabı."
+        },
+        {
+            "end": 1314.231,
+            "speaker": "speaker_2",
+            "start": 1270.191,
+            "text": "Çok güzel soru. Ben şöyle esasında bilmek ve yapmak. almış olduğum eğitimlerde aynı şey oluyor. İnsanlar biliyor ama yapamıyor. Niye yapamıyor? Hiç araştırdığım zaman duygusal zeka, yani biz duygularımızı yönetemediğimiz noktada ne kadar zeki olursak olalım, o duygularımızın ötesine geçip de o davranışı yapamıyoruz. Ya korktuğumuz için yapamıyoruz. Duygusal zeka, duygularımızı olumlu yönde kullanmak için insanın duygularının farkına varıp önce kendi duygularını yönetmesi, daha sonra öz motivasyonla sürekliliğin sağlanması, daha sonra karşımızdaki insanın duygularını okuma becerisi, empati diyoruz buna, daha sonra da ilişki yönetimi diyoruz. Hem sizin hem kendi duygularınızı yönetmek suretiyle bu ilişkinin sürdürülebilir olmasını sağlamak."
+        },
+        {
+            "end": 1319.231,
+            "speaker": "speaker_1",
+            "start": 1314.231,
+            "text": "İstanbul doğumlusun.Avusturya lisesi, arkasından Boğaziçi, arkasından Amerika."
+        },
+        {
+            "end": 1321.531,
+            "speaker": "speaker_2",
+            "start": 1319.231,
+            "text": "University of Miami.Miami. Evet."
+        },
+        {
+            "end": 1325.351,
+            "speaker": "speaker_1",
+            "start": 1321.531,
+            "text": "University of Miami. Sonra da, bankacılıkla başlayan-"
+        },
+        {
+            "end": 1325.8310000000001,
+            "speaker": "speaker_2",
+            "start": 1325.351,
+            "text": "Doğru."
+        },
+        {
+            "end": 1334.491,
+            "speaker": "speaker_1",
+            "start": 1325.8310000000001,
+            "text": "çeşitli şirketlerde devam eden bir kariyerin var. Bu seçimlerinde, tercihlerinde ailenin nasıl bir etkisi olmuştur?"
+        },
+        {
+            "end": 1350.571,
+            "speaker": "speaker_2",
+            "start": 1334.491,
+            "text": "Şimdi şöyle, ailem yardımcı oldu ama kendi kararın-- yani bir arkadaşımdan esinlenerekten gitme kararı aldım. O benim kendi kararımdı. Evlenme, spontane oldu. Yani yirmi iki yaşında evleneceğimi bilmiyordum yani. Hani hiç aklıma da gelmezdi."
+        },
+        {
+            "end": 1352.071,
+            "speaker": "speaker_1",
+            "start": 1350.571,
+            "text": "Ama herhalde bir tercihti."
+        },
+        {
+            "end": 1354.971,
+            "speaker": "speaker_2",
+            "start": 1352.071,
+            "text": "Kesinlikle ve iyi bir tercihtik. Hâlâ devam ediyor. (güler)"
+        },
+        {
+            "end": 1355.371,
+            "speaker": "speaker_1",
+            "start": 1354.971,
+            "text": "Otuz--"
+        },
+        {
+            "end": 1362.771,
+            "speaker": "speaker_2",
+            "start": 1355.371,
+            "text": "Otuz beş, otuz beş yıl oldu. Evlilik bence hayatı çok olumlu yönde etkiledi. En azından, yapacaklarımı daha kolay yapmamı sağladı, evlilik."
+        },
+        {
+            "end": 1363.8110000000001,
+            "speaker": "speaker_1",
+            "start": 1362.771,
+            "text": "İki oğlun var."
+        },
+        {
+            "end": 1364.291,
+            "speaker": "speaker_2",
+            "start": 1363.8110000000001,
+            "text": "İki oğlum var."
+        },
+        {
+            "end": 1366.591,
+            "speaker": "speaker_1",
+            "start": 1364.291,
+            "text": "Onlara tavsiye ediyor musun? Erkene evlenin diye?"
+        },
+        {
+            "end": 1373.231,
+            "speaker": "speaker_2",
+            "start": 1366.591,
+            "text": "Onlar evlendiler.Evet. Bir tanesi yirmi dokuz yaşında evlendi, öbürüsü de bu sene, önümüzdeki yıl evlenecek."
+        },
+        {
+            "end": 1377.151,
+            "speaker": "speaker_1",
+            "start": 1373.231,
+            "text": "Ve, onlar da meslek olarak senden tavsiye aldılar mı?"
+        },
+        {
+            "end": 1394.751,
+            "speaker": "speaker_2",
+            "start": 1377.151,
+            "text": "Şimdi birisi yaşıyor, o daha çok kendini insanlığa adadı. Yani insan-- daha çok eşimin insani tarafı çok güçlüdür. Eşimin tamamen karakterini aldığı için şu anda yeryüzündeki diğer insanlara yardım etmek gibi misyon edindi. Yani iş hayatıyla fazla ilgisi yok. Öbür oğlum da benim spor tarafımı aldı. O da fitness profesörüne ulaştı."
+        },
+        {
+            "end": 1395.191,
+            "speaker": "speaker_1",
+            "start": 1394.751,
+            "text": "Hmmm."
+        },
+        {
+            "end": 1403.031,
+            "speaker": "speaker_2",
+            "start": 1395.191,
+            "text": "Yani o da bankacılık okudu özliğinde. Fakat daha öncesinde ben iş hayatını sevmiyorum, sporcu olmaya karar verdi. İkisi de bambaşka işler yaptılar yani."
+        },
+        {
+            "end": 1407.431,
+            "speaker": "speaker_1",
+            "start": 1403.031,
+            "text": "Şimdi bankacılığa, tüketim malzeme-"
+        },
+        {
+            "end": 1407.431,
+            "speaker": "speaker_2",
+            "start": 1407.431,
+            "text": "(güler)"
+        },
+        {
+            "end": 1418.911,
+            "speaker": "speaker_1",
+            "start": 1407.431,
+            "text": "Malzemelerinden internet, internet güvenliğine kadar farklı farklı işlerde çalışmışsın. Bunlardan bazılarına geriye dönüp baktığında şu işe hiç girmesem de olurdu der misin?"
+        },
+        {
+            "end": 1466.411,
+            "speaker": "speaker_2",
+            "start": 1418.911,
+            "text": "Valla hepsi esasında biraz, ben master yapamadım yani esasında o maddi gücüm yetmedi. Eğitim sistemi çok iyi de bir eğitim de çok da iyi olmadığım için burslu olamadım. daha çok bilgi edinmek için ve, bunları öğrenmek için kullandım. Ha tabii ki bankacılık kendi tercihimdi ama sonra sıkıldığımı fark ettim bankacılıktan. şöyle söyleyeyim bir noktada girişim-- daha girişimci olmam gerekirdi. Olamadım. Yani o cesareti kendimde bulamadım. Yani girişimci olmam lazımdı esasında. Şimdi yine yani profesyonel girişimciyim şu anda. Yani hem kendi-- genel müdürlük yapıyorum hem kendi-Hobi olarak yapıyorum. Yani gerçek iş gibi yapmıyorum. Yani bence bir şekilde bu eğlence dünyası, işte şu anda ben kendi bir konuk programı başlattım. Yani ben eğlence dünyasına, insanların sohbet etmesini, eğitilmemi seviyorum. Daha çok zamanım olsun isterdim."
+        },
+        {
+            "end": 1478.8110000000001,
+            "speaker": "speaker_1",
+            "start": 1466.411,
+            "text": "Peki ben programımın sonunda tüm konuklarıma soruyorum, nasıl anılmak istersin diye. Bu eğitimci yanımla mı anılmak istersin, yoksa başka şeyler yapmayı daha planlıyorsun? Onlarla mı hatırlanmak istiyorsun? Elli yıl sonra? Yüz yıl sonra?"
+        },
+        {
+            "end": 1493.171,
+            "speaker": "speaker_2",
+            "start": 1478.8110000000001,
+            "text": "Bununla ilgili evet, hep düşündüğüm bir şey var aslında ben üç şey olmak isterim esasında; iyi bir aile babası, iyi bir lider. Yani lider derken esasında yaptığım her şeyde liderlik yapmayı seviyorum. Öncü olmayı seviyorum ve iyi bir insan. Yani hangisi? Üçünden bir tanesini seçseniz iyi bir insan olarak anılmak isterdim."
+        },
+        {
+            "end": 1494.711,
+            "speaker": "speaker_1",
+            "start": 1493.171,
+            "text": "Anladım. Çok teşekkür ederim."
+        },
+        {
+            "end": 1496.1109999999999,
+            "speaker": "speaker_2",
+            "start": 1494.711,
+            "text": "Ben teşekkür ederim davetiniz için."
+        },
+        {
+            "end": 1510.511,
+            "speaker": "speaker_1",
+            "start": 1496.1109999999999,
+            "text": "Çok güzel şeyler öğrendim senden. Umarım izleyicilerimiz de keyifli, bir tat almışlardır. Efendim sürçülisa ettiysek affola. Televizyoncu Haftaya burada konuşmaya devam edecek. Sağlıcakla kalın."
+        },
+        {
+            "end": 1523.3310000000001,
+            "speaker": "speaker_unknown",
+            "start": 1510.511,
+            "text": "(outro müziği)"
+        }
+    ],
+    "video_metadata": {
+        "title": "Tecrübe Konuşuyor - Taner Özdeş | 06.03.2020",
+        "url": "https://www.youtube.com/watch?v=AY4IdMm0ZQ8&list=PLCi3Q_-uGtdlCsFXHLDDHBSLyq4BkQ6gZ&index=4"
+    }
+}

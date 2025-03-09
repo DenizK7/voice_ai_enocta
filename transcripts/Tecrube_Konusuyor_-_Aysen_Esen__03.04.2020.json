@@ -1,0 +1,554 @@
+{
+    "segments": [
+        {
+            "end": 13.639,
+            "speaker": "speaker_0",
+            "start": 0.079,
+            "text": "(intro müziği)"
+        },
+        {
+            "end": 18.739,
+            "speaker": "speaker_1",
+            "start": 13.639,
+            "text": "Merhaba, ben Hilmi Güvenal. Tecrübe bugün konuğum Ayşen Esen. Hoş geldin Ayşen."
+        },
+        {
+            "end": 19.819,
+            "speaker": "speaker_2",
+            "start": 18.739,
+            "text": "Hoş bulduk Hilmi."
+        },
+        {
+            "end": 26.319,
+            "speaker": "speaker_1",
+            "start": 19.819,
+            "text": "Ee, bu programa daha önce, ee, okuldan, iş hayatından tanıdığım arkadaşlarım çıktı. Herhalde sen en eskisin."
+        },
+        {
+            "end": 26.619,
+            "speaker": "speaker_2",
+            "start": 26.319,
+            "text": "Ne güzel."
+        },
+        {
+            "end": 36.36,
+            "speaker": "speaker_1",
+            "start": 26.619,
+            "text": "beri Boğaziçi beri tanıdığım, iş hayatında da beraber bir dönem çalıştığımız ve şimdi İstanbul Altın tepe yöneticisisin."
+        },
+        {
+            "end": 36.52,
+            "speaker": "speaker_2",
+            "start": 36.36,
+            "text": "Evet."
+        },
+        {
+            "end": 71.499,
+            "speaker": "speaker_1",
+            "start": 36.52,
+            "text": "Yönetim kurulu başkan vekilisin. Önce altından başlayalım-Ee, istiyorum. Tabii dünyada bu, ee, korku, kaos, ee, enflasyon, virüsün yarattığı ortam, ee, altına, ee, hucumu başlatmıştı. Sonra tekrar fiyatı düştü. Şimdi tekrar acayip yerlere çıkacak. Altın gündemde. Eee, altın tabi bir ziynet eşyası. Bir taraftan yatırım aracı-Bir taraftan en güvenilir son durak. Bütün paralara bir şey olur, altına olmaz. Ee, fakat sonuçta sınırlı bir madde. Sen nasıl değerlendiriyorsun altını?"
+        },
+        {
+            "end": 110.719,
+            "speaker": "speaker_2",
+            "start": 71.499,
+            "text": "Aslında şöyle son kelimenle başlayacak olursam, ee, sınırlı değil aslında. Çünkü cycle eden bir ürün. Yani altın sonuçta madenlerden çıkar aslen. Ee, bunun dışında madenlerden çıkarılan altının dışında sürekli bir hurda altın dediğimiz geri dönüşüm altını vardır. Ve bu geri dönüşüm altını da, ee, çeşitli kaynaklardan, yani sanayiye giden altın da geri döner. Mücevhere giden altın da geri döner ve zaten rafine edilemeyen her aşamada devreye girer. Çünkü, ee, madenden çıkan altının da rafine edilmesi gerekir. Hurdadan gelen altının da rafine edilmesi gerekir. Dolayısıyla da aslında sonsuz bir cycle var."
+        },
+        {
+            "end": 112.359,
+            "speaker": "speaker_1",
+            "start": 110.719,
+            "text": "Rafine etmek ne demektir?"
+        },
+        {
+            "end": 172.919,
+            "speaker": "speaker_2",
+            "start": 112.359,
+            "text": "Şöyle söyleyeyim, aslında biz bir anlamda mesela yaptığı petrol rafine edilebilen işiyle aynı işi yapıyoruz. Yani doğadan çıkan bir materyal. Bu rafine edilmediği müddetçe gerçek hayatta kullanılamıyor. Nedir? Topraktan çıktığında petrolde de aynı şey var, altında da. Toprakla karışmış çeşitli minerallerin karışımından oluşan bir maden karışımı. Bu karışımın içinde çıktığı yere göre altın olur, bakır olur, işte kurşun olur, nikel olur, bir sürü şey olur içinde malzeme olur. Ve bunlar da tonda iki gram ya olduğu zaman bile o maden işletilmeye değer bulunur. Dolayısıyla çıkan toprak halindeki mal önce madende birtakım proseslerden geçirilir, toprak kısmından arındır-arındırılır ama mineraller içinde kalır. O mineraller metalik bir forma gelir. O metalik forma gelmiş karışım mineral bizlere gelir, rafineriye gelir. Rafineride bu bir süreçten geçer, işte ergitme süreci deriz, kimyasal süreci deriz. İşte çeşitli işlemlerin yapıldığı farklı farklı süreçler vardır."
+        },
+        {
+            "end": 173.339,
+            "speaker": "speaker_1",
+            "start": 172.919,
+            "text": "Hıhı."
+        },
+        {
+            "end": 178.199,
+            "speaker": "speaker_2",
+            "start": 173.339,
+            "text": "Bazı materyallerde bu elektroliz gibi farklı, ee, yöntemler de olabilir. Dört beş-"
+        },
+        {
+            "end": 179.619,
+            "speaker": "speaker_1",
+            "start": 178.199,
+            "text": "Ayırca-ayıracağınız materyale bağlı olarak-"
+        },
+        {
+            "end": 191.479,
+            "speaker": "speaker_2",
+            "start": 179.619,
+            "text": "Aynen öyle. Ayıracağımız materyale bağlı olarak değişir. Ve o yüzden rafine edilebilen süreci tek değildir. Yani gelen karışım nelerden ibaretse ona göre bir sürece tabi olur. Ve bu çok ciddi bir, ee, işlem."
+        },
+        {
+            "end": 195.579,
+            "speaker": "speaker_1",
+            "start": 191.479,
+            "text": "Bu, ee, altının doğadan çıktığı hali nasıl bir haldir?"
+        },
+        {
+            "end": 214.279,
+            "speaker": "speaker_2",
+            "start": 195.579,
+            "text": "Doğadan çıktığı hali bildiğin toprak. Yani toprağın içinde sen sadece pırıltıları, o da hani çok yüzeyde ise görebilirsin. Hatta bazen de pirit dediğimiz malzeme de pırıltılıdır, karıştırırsın. O yüzden bu önce, ee, tespit edilir. Tespitlerden sonra orada ne kadar altın olduğu bilinir, toprak formunda çıkar."
+        },
+        {
+            "end": 214.299,
+            "speaker": "speaker_1",
+            "start": 214.279,
+            "text": "Evet."
+        },
+        {
+            "end": 223.019,
+            "speaker": "speaker_2",
+            "start": 214.299,
+            "text": "Toprak formunda çıkan dediğim gibi önce madende bir prosesten geçer. Bize geldiğinde, ama siyah, ama kahverengi, böyle pis görüntülü bir metaldir."
+        },
+        {
+            "end": 227.959,
+            "speaker": "speaker_1",
+            "start": 223.019,
+            "text": "O madendeki proseslar bir tanesi meşhur siyanürlü proses. İki ana proses var."
+        },
+        {
+            "end": 228.439,
+            "speaker": "speaker_2",
+            "start": 227.959,
+            "text": "Evet."
+        },
+        {
+            "end": 231.799,
+            "speaker": "speaker_1",
+            "start": 228.439,
+            "text": "Bu siyanürlü proses tartışmasının neresindesiniz siz rafiner olarak?"
+        },
+        {
+            "end": 237.359,
+            "speaker": "speaker_2",
+            "start": 231.799,
+            "text": "Biz hiçbir yerinde değiliz. Çünkü, ee, bana gelen malzeme tamamen metalik formdaki malzeme. Yani-"
+        },
+        {
+            "end": 237.619,
+            "speaker": "speaker_1",
+            "start": 237.359,
+            "text": "Hıhı."
+        },
+        {
+            "end": 248.239,
+            "speaker": "speaker_2",
+            "start": 237.619,
+            "text": "Bizim sürecimizde siyanür kullanımı yok. Bizim sürecimizde tabi ki asit kullanımları var, farklı kimyasal kullanımları var. Çünkü metalleri birbirinden ayırmanın yöntemi, kimyasal yöntemler doğal olarak-"
+        },
+        {
+            "end": 248.679,
+            "speaker": "speaker_1",
+            "start": 248.239,
+            "text": "Evet."
+        },
+        {
+            "end": 256.139,
+            "speaker": "speaker_2",
+            "start": 248.679,
+            "text": "O yüzden kimyasal kullanımlar tabii ki var. Ama bizim fabrikalarımızın, rafinerilerimizin olduğu yerlerde muhakkak arıtma sistemleri olmak zorunda."
+        },
+        {
+            "end": 260.879,
+            "speaker": "speaker_1",
+            "start": 256.139,
+            "text": "Zaten sorun da bu. Altın rafinerisinden nasıl çıkar altın?"
+        },
+        {
+            "end": 262.779,
+            "speaker": "speaker_2",
+            "start": 260.879,
+            "text": "Şimdi, eee, altın sonuçta-"
+        },
+        {
+            "end": 263.999,
+            "speaker": "speaker_1",
+            "start": 262.779,
+            "text": "Ya siz hep külçe mi üretiyorsunuz?"
+        },
+        {
+            "end": 287.939,
+            "speaker": "speaker_2",
+            "start": 263.999,
+            "text": "Biz külçe üretiriz. Biz gram altın dediğimiz, bu yarım gramdan başlayıp işte bir, iki buçuk, beş, on, yirmi, elli, yüz diye giden ara gramajlardaki gram altınları üretiriz. Bu da aslında bir nevi bizim çık-- yani bir nevi değil, bizim ilk defa çıkardığımız bir şey. İstanbul Altın Rafinerisi olarak. Geçmişte biliyorsun, halkımızın çok ciddi şekilde bir, ee, ziynet altını dediği, darphanenin-Ürettiği altınlar söz konusu."
+        },
+        {
+            "end": 287.979,
+            "speaker": "speaker_1",
+            "start": 287.939,
+            "text": "Evet."
+        },
+        {
+            "end": 291.239,
+            "speaker": "speaker_2",
+            "start": 287.979,
+            "text": "Hep bunlarla gitmiştir. Reşat altını, Cumhuriyet altını, Ata altını gibi-"
+        },
+        {
+            "end": 291.559,
+            "speaker": "speaker_1",
+            "start": 291.239,
+            "text": "Evet."
+        },
+        {
+            "end": 304.179,
+            "speaker": "speaker_2",
+            "start": 291.559,
+            "text": "Çeşitli isimlerde anılır. Bu altınlar açık satılır. Darphane tarafından üretilir ve yirmi iki ayardır. Yirmi iki ayar olduğu için bankalar kabul edemez. Bu sadece bir ziynet aracıdır ve yastık altında saklama aracıdır."
+        },
+        {
+            "end": 304.579,
+            "speaker": "speaker_1",
+            "start": 304.179,
+            "text": "Hıı."
+        },
+        {
+            "end": 329.519,
+            "speaker": "speaker_2",
+            "start": 304.579,
+            "text": "Artık günümüzde altının yastık altına gitmesini istemediğimiz için, biz bu gram altınları ürettik ve gram altından yirmi dört ayar, artı tamamen ambalajda yirmi dört ayar, tarafımızdan garantilenmiş ayar ve gramajlarda üretilmiş-Altınlar oluyor. Tabii ki. Yani bunu, ee, işte darphane kabul ediyor, bankalar kabul ediyor. Bankalar altın hesapları açtığında mevduatı alabiliyor. Çünkü her şeyi belirli standartlara bağlı."
+        },
+        {
+            "end": 329.799,
+            "speaker": "speaker_1",
+            "start": 329.519,
+            "text": "Hıhı."
+        },
+        {
+            "end": 339.899,
+            "speaker": "speaker_2",
+            "start": 329.799,
+            "text": "Standartlara bağlı olduğu için benim ürettiğim altının kaç gram olduğunu, ayarının gerçekten yirmi dört ayar olduğuna eminiz. Dolayısıyla da bunları bankalar kabul edebiliyorlar artık."
+        },
+        {
+            "end": 344.459,
+            "speaker": "speaker_1",
+            "start": 339.899,
+            "text": "Bankalar bu ziynet eşyalarını alıp da hesaba da geçiyorlar. Onu sizle mi yapıyorlar?"
+        },
+        {
+            "end": 401.659,
+            "speaker": "speaker_2",
+            "start": 344.459,
+            "text": "Şimdi, aynen öyle. Şimdi ziynet eşyasını aslında doğrudan hesaba geçmiyor. Ziynet eşyasını alırken de gene aynı şekilde bankalarla anlaşmam kapsamında benim eksperlerim değerlendiriyor. Çünkü bir banka personeli altından anlamaz. Sonuçta benim eksperlerim değerlendiriyor. Bu değerlendirmenin sonucunda halkın onayladığı ziynet altınlarını alıyor, bana geliyor. Biz rafineride rafine edilebilen tabi tutuyoruz. Alınan altın diyelim ki seksen gram has altınsa, ben seksen gram gram altın üretiyorum. Ve bu seksen gram altını bankaya teslim ediyorum. Dolayısıyla sen de sonuçta halktan bir kişi olarak seksen gram altınını getirip bankaya koyduysan, istediğin zaman da bunun yirmi gramını, otuz gramını, elli gramını, tamamını alabiliyorsun. Ve bankada altının dururken de bir mevduat hesabı olarak ister faiz, istersen sonuçta bir katkı payı, her neyse paranın veya altının değerlendirdiği, değerlendirildiği bir modelle bankada koruma altına almış oluyorsun."
+        },
+        {
+            "end": 413.499,
+            "speaker": "speaker_1",
+            "start": 401.659,
+            "text": "Ee, bu, bugüne kadar yüz bin ton altın çıkarılmış. Öyle bir, ee, rakam duydum. Ve elli bin ton daha maden varmış, ama bunun on bin on beş bin anca çıkar, ee, deniyor."
+        },
+        {
+            "end": 432.639,
+            "speaker": "speaker_2",
+            "start": 413.499,
+            "text": "Şimdi bu maden çıkarımı ile ilgili-Ee, şey-- Şimdi hepsi aslında zaman içinde çıkmaya yönelebilir. Ama tabii ki çıkarılmanın maliyetini hesapladığımızda mesela altın fiyatlarının sekiz yüz, dokuz yüz dolar olduğu günler de oldu.Bin dokuz yüz dolar senin için güzel de, madenciler için kötüydü, böyle söyleyeyim."
+        },
+        {
+            "end": 432.659,
+            "speaker": "speaker_1",
+            "start": 432.639,
+            "text": "Evet."
+        },
+        {
+            "end": 465.379,
+            "speaker": "speaker_2",
+            "start": 432.659,
+            "text": "Çünkü madeni çıkarmanın bir maliyeti var. Madeni çıkarmanın maliyeti atarak söylüyorum, sekiz yüz dolarsa o anda ve altının fiyatı da dokuz yüz dolarsa, o altını çıkarmamayı tercih eder madenci. Çünkü o aradaki yüz dolar, altının yolculuğuna yetmez. Daha madenden çıktıktan sonra birçok işlemden geçecek. Dolayısıyla rentable olmayacaktır. Bu nedenle de, ee, çok düşük fiyatlarda madeni çıkarmak çok rentable olmayabilir. Bu anlamda, ee, altının hepsini çıkarmak, varolduğunu bildiğimiz altının hepsini çıkarmak çok da mümkün sayılmaz."
+        },
+        {
+            "end": 467.639,
+            "speaker": "speaker_1",
+            "start": 465.379,
+            "text": "Ee, epey bir süredir bu işin başındasın."
+        },
+        {
+            "end": 468.279,
+            "speaker": "speaker_2",
+            "start": 467.639,
+            "text": "Sekiz yıldır, evet."
+        },
+        {
+            "end": 472.839,
+            "speaker": "speaker_1",
+            "start": 468.279,
+            "text": "Sekiz yıl oldu. Ee, daha önceden iyi bir altın yatırımcısı mıydın?"
+        },
+        {
+            "end": 473.299,
+            "speaker": "speaker_2",
+            "start": 472.839,
+            "text": "(gülüyor)"
+        },
+        {
+            "end": 475.959,
+            "speaker": "speaker_1",
+            "start": 473.299,
+            "text": "Altın, ee, tüketicisi miydin?"
+        },
+        {
+            "end": 477.019,
+            "speaker": "speaker_2",
+            "start": 475.959,
+            "text": "Hiç değildim. (gülüyor)"
+        },
+        {
+            "end": 477.799,
+            "speaker": "speaker_1",
+            "start": 477.019,
+            "text": "Değildin?"
+        },
+        {
+            "end": 500.432,
+            "speaker": "speaker_2",
+            "start": 477.799,
+            "text": "Gerçekten hiç değildim. Yani şöyle söyleyeyim, ee, hani yüzük, takı falan anlamında bile gümüş kullanan bir insandım, altın değil. Dolayısıyla altını hakikaten hiç bilmezdim. Ama tabii, ee, ne olursa olsun bizim işimiz kuyum değil.Bizim işimiz sanayi, rafinasyon bir sanayi dalı ve ben de sanayiciyim. Yani mühendis olduğum için bütün hayatım sanayide geçti ve sanayi yönetiminde geçiyor."
+        },
+        {
+            "end": 504.031,
+            "speaker": "speaker_1",
+            "start": 500.432,
+            "text": "Ne büyüklükte bir tesistir bu? Kaç kişi çalışır?"
+        },
+        {
+            "end": 530.612,
+            "speaker": "speaker_2",
+            "start": 504.031,
+            "text": "Şöyle söyleyeyim şimdi kişi olarak baktığımızda ortalama beş yüz kişi çalışıyor. az bir sayı değil. yedi katlı bir fabrika. Bu duruma göre biz kuyumcukentin içinde yerleşik olduğumuz için işte bu güvenlik olsun, şeyler olsun, arıtma sistemleri olsun. Bu sebeplerden dolayı ve havaalanına yakınlıktan dolayı kuyumcukentteyiz. Aslında dünyada rafineriler daha yatay sistemler halinde yapılırlar."
+        },
+        {
+            "end": 530.612,
+            "speaker": "speaker_1",
+            "start": 530.612,
+            "text": "Hımm."
+        },
+        {
+            "end": 554.171,
+            "speaker": "speaker_2",
+            "start": 530.612,
+            "text": "Bizde o yüzden dikey sistem, yedi katlı bir fabrika. Bu fabrika şu anda dünyanın kapasite açısından en büyük dokuzuncu rafinerisi. Dolayısıyla çok büyük bir rafineri. Yani gerçekten önemli bir işletme. tabii altın işi yaptığımız için emtia altın fiyatı yüksek. Bu anlamda cirolar çok yüksek. Ciro bazlı olarak baktığımızda şu anda en büyük on beşinci on altıncı firması konumundayız."
+        },
+        {
+            "end": 559.211,
+            "speaker": "speaker_1",
+            "start": 554.171,
+            "text": "Siz altını satın mı alıyorsunuz yoksa böyle bir başkası adına mı rafine ediyorsunuz?"
+        },
+        {
+            "end": 568.931,
+            "speaker": "speaker_2",
+            "start": 559.211,
+            "text": "prensipte satın alıyoruz demek gerekir daha çok. Ama tabii zaman zaman şu olur. Madenlerle anlaşma yaparız. Maden bize dahilde işlem dediğimiz sistemle gönderir."
+        },
+        {
+            "end": 568.931,
+            "speaker": "speaker_1",
+            "start": 568.931,
+            "text": "Hmmm."
+        },
+        {
+            "end": 577.1510000000001,
+            "speaker": "speaker_2",
+            "start": 568.931,
+            "text": "Yani altınımı sana gönderdim, sen rafine et, bana geri ver şeklinde gönderir.Madenin dediğin illaki Türkiye içindeki madenler-Yurt dışında da olabilir. O yüzden dahili de işlem-"
+        },
+        {
+            "end": 585.511,
+            "speaker": "speaker_1",
+            "start": 577.1510000000001,
+            "text": "Mesela ben gitmiştim çok altın madenleri vardır. Onların önemli gelirlerinden biridir Kırgızların. Onlar da mesela gönderirler mi buraya rafine olması için?"
+        },
+        {
+            "end": 605.731,
+            "speaker": "speaker_2",
+            "start": 585.511,
+            "text": "Elbette, elbette gönderirler. Ve şöyle de bir dünya da gerçek var. Dünya üstünde tüm dünyanın kabul ettiği altınlar LBMA akreditasyonuna sahiptir. LBMA dediğimiz kurum London Bullion Market Association, tüm dünyada altını akredite eden kurum ve bu kurumun içinde bankalar var, rafineriler var, büyük finans kuruluşları var."
+        },
+        {
+            "end": 606.1510000000001,
+            "speaker": "speaker_1",
+            "start": 605.731,
+            "text": "Hıhı."
+        },
+        {
+            "end": 658.331,
+            "speaker": "speaker_2",
+            "start": 606.1510000000001,
+            "text": "Bunların oluşturduğu bir grup, hiçbir yere bağlı değil. Ve bu dünyanın altın şeyini, kalitesini yöneten bir birim. Dolayısıyla bunun akredite ettiği Good Deliveries List Refinery denen altmış sekiz tane rafineri vardır tüm dünyada. Bu altmış sekiz rafineriden biriyiz ve bu altmış sekiz rafineriden biri olmanın dışında kapasite açısından en büyük ilk onun içindeyiz. Dolayısıyla da artık altın pazarı sadece Türkiye değil, global bir pazar. O yüzden de altının yolculuğu tüm dünyadan geçiyor. Bu anlamda şeyin akreditasyonu olan altınlar ancak bankalarda kabul edilebiliyor. Yani bir altın madenden çıkıyorsa, rafineride LBMA akreditasyonu olan bir rafineri değilse, altının eninde sonunda bir LBMA akreditasyonu olan rafineriye göndermesi lazım ki uluslararası pazara çıkabilsin."
+        },
+        {
+            "end": 658.831,
+            "speaker": "speaker_1",
+            "start": 658.331,
+            "text": "Hıhı."
+        },
+        {
+            "end": 670.711,
+            "speaker": "speaker_2",
+            "start": 658.831,
+            "text": "Kendi ülkesindeki kuyumcuya satabilir, kendi ülkesinde rafine edilen altını. Ama işte ne bileyim Hong bir yer, satamaz. Çünkü bankalar onu kullanamazlar."
+        },
+        {
+            "end": 672.711,
+            "speaker": "speaker_1",
+            "start": 670.711,
+            "text": "Kuyumcu ne formda alır altını?"
+        },
+        {
+            "end": 676.351,
+            "speaker": "speaker_2",
+            "start": 672.711,
+            "text": "Kuyumcu sonuçta bizden yirmi dört ayar altın alır."
+        },
+        {
+            "end": 676.671,
+            "speaker": "speaker_1",
+            "start": 676.351,
+            "text": "Hıhı."
+        },
+        {
+            "end": 714.031,
+            "speaker": "speaker_2",
+            "start": 676.671,
+            "text": "Yirmi dört ayar altını duruma göre bazen işte bullion şeklinde alır, bazen bizim çekili dediğimiz bu yassı böyle plakalar halinde alır.Hımm.Küçük kuyumcu çünkü onu küçük küçük keserek kullanabilir. Bir kilo kullanmayıp daha ufak miktarlar kullanabilir. Bir de granül dediğimiz bir form vardır. İşte gözünde canlanabilirsin boncuk boncuk granüller. O da aynı şekilde küçük kullanımlara müsaade eden bir sistemdir. Dolayısıyla bu sistemlerin herhangi birinde ama yirmi dört ayar alarak alır. Daha sonra kendisi bileziğini yirmi iki ayar üretecek ise, on sekiz ayar bir mücevher üretecek ise, on dört ayar bir mücevher üretecek ise ayarını kendisi içine gümüş katarak, içine başka malzemeler katarak yapar."
+        },
+        {
+            "end": 733.811,
+            "speaker": "speaker_1",
+            "start": 714.031,
+            "text": "Tüm endüstrilerde ya teknoloji ya tüketici davranışları ya da globalleşmenin etkisi, bazen üçünün birden etkisiyle büyük bir dönüşüm yaşanıyor son yirmi otuz senedir. Bu sektör en çok neden etkilenir? Tekn-- yani altın rafinerisi işi teknolojiden mi etkilenir, tüketici davranışlarından mı etkilenir, neden etkilenir?"
+        },
+        {
+            "end": 861.111,
+            "speaker": "speaker_2",
+            "start": 733.811,
+            "text": "Şimdi bu sektörün en çok etkilendiği şey elbetteki finans sektörü. Çünkü altının fiyatı finansal bir araç gibi değerlendirildiği için dolara bağlı. Artı aynen birçok borsa ürününde olduğu gibi ons bazında altın fiyatı her gün her saniye değişir. Biz hep şuna bakmışızdır. Altın, dolar ve petrol. Bu üçü bir şekilde birbiriyle bağlantılıdır. Yani dünyadaki-Tüm politik gelişmeler, tüm ekonomik, siyasal her türlü gelişme bir şekilde bunların fiyatlarını etkiler. O yüzden altının hareketi aslında öncelikle motivasyonu fiyattan kaynaklanıyor. Dolayısıyla da finansal sektörden kaynaklanıyor. Fakat bunun yanı sıra teknoloji elbette ki önemli. Çünkü altında saflık önemli. Altında hız önemli. Yani birçok ürüne göre şimdi biraz evvel ne dedim? Ciro açısından çok büyük rakamlar dönüyor ve hani onlarca milyar dolarlık cirolar dönüyor ve her işlem işte otuz milyon dolar, kırk milyon dolar. Dolayısıyla da bu büyüklükte iş yaptığınız zaman siz bir de şöyle düşünün. Cebinde yüz lira var, yüz lirayı yüz elli liraya satabilir misin? Normalde satamazsın. Ancak kara paraysa aklamaya çalışıyorsan falan satarsın. Dolayısıyla da altında da durum aynı. Sen elli bin dolarlık bir altını, yani bir kilo altın diyelim ki elli bin dolarsa altmış bin dolara satamazsın. Satabileceğin şey nedir? Elli bin dört yüz dolar. Elli bin üç yüz dolar. Ülkelerin kur durumlarına göre veya ihtiyaç durumlarına göre karşılanabilecek küçük rakamlar. Ve bu rakamlar cironun içinde küçük rakamlardır. Bindelerle gelen rakamlardır. O yüzden ne kadar çok hızla bu işi döndürürsen, yaptığın dönüşten ve hızdan esas para kazanırsın.O yüzden de bizim işimizde hız çok önemlidir. Yani sonuçta bir rafineri bir prosesi bir siparişi aldığından teslim edene kadar geçen süreyi diyelim ki dört günde yapıyorsa, ben İstanbul Altın Rafinerisi olarak bunu iki günde tamamlıyorsam ve kalitem de aynı kalitedeyse otomatikman İsviçreli rafinerinin önüne geçerim. Çünkü dört günde iki kere günde yapıyorsa iki kere tur attırabilir bunu yapacak adam."
+        },
+        {
+            "end": 870.611,
+            "speaker": "speaker_1",
+            "start": 861.111,
+            "text": "Bu bahsettiğin işte altmış yetmiş tane akredite, başka da akredite olmayan da birçok rafineri var. Bu bir erkekler dünyası mıdır?"
+        },
+        {
+            "end": 905.111,
+            "speaker": "speaker_2",
+            "start": 870.611,
+            "text": "(güler) şöyle söyleyeyim. Aslında bir LBMA toplantısına gittiğimiz zaman kadın nüfusu hiç de az değil. Ama bu işi bir sanayi olarak düşündüğümüz zaman evet, erkekler dünyası. Çünkü sanayi dalı olarak baktığımızda içinde asit kullanılan, içinde metalürji mühendislerinin çalıştığı, içinde kimya mühendislerinin çalıştığı, ağırlıklı olarak üretim tarafında mühendislerin yer aldığı ve ticaret tarafında da çok yoğun seyahatin olduğu, çok yoğun dünya pazarında yara-- var olmak gereken bir iş dalı. Böyle olduğu için de evet, erkekler dünyası."
+        },
+        {
+            "end": 907.671,
+            "speaker": "speaker_1",
+            "start": 905.111,
+            "text": "Ama sen zaten Boğaziçi İnşaattan da alışıksın."
+        },
+        {
+            "end": 907.711,
+            "speaker": "speaker_2",
+            "start": 907.671,
+            "text": "Aynen."
+        },
+        {
+            "end": 908.971,
+            "speaker": "speaker_1",
+            "start": 907.711,
+            "text": "Sınıfta iki kız mıydınız?"
+        },
+        {
+            "end": 909.571,
+            "speaker": "speaker_2",
+            "start": 908.971,
+            "text": "Tek."
+        },
+        {
+            "end": 911.071,
+            "speaker": "speaker_1",
+            "start": 909.571,
+            "text": "Ha evet, tek kızsın."
+        },
+        {
+            "end": 911.711,
+            "speaker": "speaker_2",
+            "start": 911.071,
+            "text": "Evet."
+        },
+        {
+            "end": 924.551,
+            "speaker": "speaker_1",
+            "start": 911.711,
+            "text": "Evet, arkasından inşaat sektöründe, yapı malzemeleri sektöründe-Alışıksın genelde erkekler dünyasında. Peki burada sektör olarak seni şaşırtan ne oldu? Yapı malzemelerinden buraya geçtikten sonra?"
+        },
+        {
+            "end": 1462.596,
+            "speaker": "speaker_2",
+            "start": 924.551,
+            "text": "Şimdi evet, aynen. Genelde sanayi her zaman için erkekler dünyasıdır. Ve yukarı doğru çıktıkça kadın nüfus azalır. Burası bir gerçek. O yüzden de ben zaten o dünyanın içinde yaşadım hep. O yüzden hiçbir şey bana bu anlamda yabancı değildi. Fakat ben biraz daha her halde insan faktörünü fazla önemseyen bir yöneticiyim ve çalışanlarıyla iyi irtibat kuran, genelde güvenmeyi ve birlik ruhu içinde çalışmayı seven bir yöneticiyim. Burada beni ilk bu şaşırttı. Yani en şaşırtıcı şeylerden bir tanesi bireyselliğin ön planda daha çok olduğu ve güven faktörünün her zaman için denetime tabi olduğu, sen birine güvenebilirsin ama hiç güvenmiyormuşcasına denetim yapmak zorundasın. Çünkü eee...Karakterim gereği. ve benim için bugüne kadar hani ışıklarda bile en o hani vahşi dönemimizi atlattıktan sonra hâlâ bir yüzde on boşum vardı. Yani ben böyle bir insanım. Kalıyor bir yerde bir şeyler. burada boş zamanım yok. Yani zamana karşı yarışıyorum. Hatta zaman zaman klonlayın beni diyelim."
+        },
+        {
+            "end": 1475.415,
+            "speaker": "speaker_1",
+            "start": 1462.596,
+            "text": "Ama iş de her şey değil sonuçta...Evet. (gülme) Yani elli yıl sonra, yüz yıl sonra, Ayşen Özen dendiğinde ne görülmesini istiyorsun diyorum internet tarayıcılarına yazıldığında."
+        },
+        {
+            "end": 1539.555,
+            "speaker": "speaker_2",
+            "start": 1475.415,
+            "text": "Valla çoğunluğu herhalde iş görünecek. Burası bir gerçek. Ben iş uğruna çocuk yapmayı da bir kenara bırakanlardan biriyim. bundan memnun muyum? Kesinlikle memnunum. En ufak bir pişmanlığım yok. Bu bilinçli bir karardı. ama bugün itibariyle baktığımda ben sosyal yanını çöpe atmadan bu, eee, yoğun iş ortamını yürütebilen bir insanım. Çevrem var, dostlarım var, arkadaşlarım var, ailem var. Bunları ihmal etmem, kendime kaliteli zaman ayırırım. Uzun ve çok değil, kaliteli. Ne bileyim, eşimle o da yurt dışında çalışıyor. Biz sık bir araya gelemeyiz. Yılda altı kere bir araya geliriz. Ama altı kere üç günü doya doya yaşarız. Yani bunları yapmaya çalışıyorum. Bunun yanı sıra işimin bana sağladığı müthiş bir güzellik var. Sosyal sorumluluk projeleri. Bunların da başında ben ve patronumuz var. Dolayısıyla bunları yapmanın müthiş bir huzuru, müthiş bir keyfi var. Biz okullar yaptırıyoruz, biz özürlü çocuklara değiyoruz. anlatmayı hatta çok fazla da istemediğim daha birçok şeyi yapıyoruz. Çünkü iyilikler ve güzellikler bence biraz da kapalı kaldığı zaman daha güzel ama."
+        },
+        {
+            "end": 1539.956,
+            "speaker": "speaker_1",
+            "start": 1539.555,
+            "text": "Evet."
+        },
+        {
+            "end": 1547.096,
+            "speaker": "speaker_2",
+            "start": 1539.956,
+            "text": "Söylemeyi şundan faydalı buluyorum. Önayak oluyorsun birilerine...Onun için. bunları yapmak bana müthiş bir gurur veriyor."
+        },
+        {
+            "end": 1556.115,
+            "speaker": "speaker_1",
+            "start": 1547.096,
+            "text": "Bizim gençliğimize göre tabii bu sayı çok arttı.Yani insanların sosyal sorumluluk projelerine ayırdıkları, eee, hem vakit hem nakit-"
+        },
+        {
+            "end": 1556.195,
+            "speaker": "speaker_2",
+            "start": 1556.115,
+            "text": "Doğru."
+        },
+        {
+            "end": 1578.155,
+            "speaker": "speaker_1",
+            "start": 1556.195,
+            "text": "Epey artmış durumda. Çok daha görünür durumda şahısların, ailelerin katkısı. Ayşen iyi ki geldin.Epey şey öğrendim ben. Umarım, eee, bizi izleyenler de hem öğrenmişlerdir hem de keyifli, eee, sohbetinden hoşlanmışlardır. Efendim, sürçi insan ettiysek affola. Tecrübe haftaya burada konuşmaya devam edecek. Sağlıcakla kalın."
+        },
+        {
+            "end": 1591.595,
+            "speaker": "speaker_unknown",
+            "start": 1578.155,
+            "text": "(müzik)"
+        }
+    ],
+    "video_metadata": {
+        "title": "Tecrübe Konuşuyor - Ayşen Esen | 03.04.2020",
+        "url": "https://www.youtube.com/watch?v=JQhkbN75Ohs&list=PLCi3Q_-uGtdlCsFXHLDDHBSLyq4BkQ6gZ&index=4"
+    }
+}
