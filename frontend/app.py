@@ -3,7 +3,7 @@ import requests
 import json
 from frontend_config import BACKEND_URL
 # BACKEND_URL: Backend API address
-BACKEND_URL = BACKEND_URL
+BACKEND_URL = BACKEND_URL +("/api/chatbot")
 
 # Streamlit title and page settings
 st.set_page_config(page_title="AI Chatbot", page_icon="🤖")
