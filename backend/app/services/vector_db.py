@@ -3,7 +3,7 @@ import json
 import numpy as np
 import faiss
 from openai import OpenAI
-from config import Config  # FAISS_SAVE_FOLDER should be defined in Config
+from backend.config import Config  # FAISS_SAVE_FOLDER should be defined in Config
 
 # Create the OpenAI client.
 client = OpenAI()

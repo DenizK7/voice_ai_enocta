@@ -4,7 +4,7 @@ from rank_bm25 import BM25Okapi
 from app.services.vector_db import search_transcripts, get_embedding, vector_db_instance
 from app.services.web_search import web_search  # Web search using Brave API
 from app.services.prompt_manager import PromptManager  # New prompt management
-from config import Config
+from backend.config import Config
 
 prompt_manager = PromptManager()
 client = OpenAI()

@@ -9,7 +9,7 @@ from flask import json
 import requests
 from elevenlabs.client import ElevenLabs
 from pytubefix import YouTube
-from config import Config
+from backend.config import Config
 
 config = Config()
 
