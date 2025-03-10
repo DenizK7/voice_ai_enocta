@@ -1,7 +1,7 @@
 import requests
 from brave import Brave
 from brave.goggles import thought_leadership
-from backend.config import Config  # API_KEY is retrieved from config
+from config import Config  # API_KEY is retrieved from config
 
 # Initialize the Brave API Client
 brave = Brave()

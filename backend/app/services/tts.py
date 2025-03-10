@@ -1,5 +1,5 @@
 import requests
-from backend.config import Config
+from config import Config
 ELEVENLABS_API_KEY = Config.ELEVENLABS_API_KEY  
 ELEVENLABS_VOICE_ID = Config.ELEVENLABS_VOICE_ID  
 ELEVENLABS_URL = "https://api.elevenlabs.io/v1/text-to-speech"

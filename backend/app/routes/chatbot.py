@@ -1,7 +1,7 @@
 import os
 from flask import Blueprint, Response, json, request, jsonify, send_file
 from app.services import llm, transcription, tts
-from backend.config import Config
+from config import Config
 import io
 from app.services.prompt_manager import PromptManager
 from app.services.vector_db import add_transcript_to_db, delete_by_video_url
