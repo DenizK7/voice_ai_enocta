@@ -1,0 +1,350 @@
+{
+    "segments": [
+        {
+            "end": 13.619,
+            "speaker": "speaker_0",
+            "start": 13.579,
+            "text": "(jenerik müziği)"
+        },
+        {
+            "end": 19.059,
+            "speaker": "speaker_1",
+            "start": 13.619,
+            "text": "Merhaba, ben Hilmi Güvenal. Tecrübe bugün konuğum Tayfun Bayazıt. Hoş geldin Tayfun."
+        },
+        {
+            "end": 20.139,
+            "speaker": "speaker_2",
+            "start": 19.059,
+            "text": "Hoş bulduk Hilmi."
+        },
+        {
+            "end": 61.819,
+            "speaker": "speaker_1",
+            "start": 20.139,
+            "text": "Ben otuz beş yıllık iş hayatımın herhalde yirmi beş yılında sen bir bankada genel müdürdün veya yönetim kurulu başkanıydın veya banka ve bıraktın. Şöyle bir sayarsak Interbank, BCP, Dış Bank, Fortis ve Yapı Kredi. Çok uzun bir banka genel müdürlüğü, ee, kariyeri, üst yöneticiliği. Şimdi, ee, dünyanın sayılı sigorta aracılık ve danışmanlık şirketlerinden Marshall Yönetim Kurulu Kendi danışmanlık şirketin var. TÜSİAD da Yüksek İstişare Çeşitli sivil toplum kuruluşlarında, ee, çalışmaların var. Yaklaşık 2011, dokuz yıl önce bıraktın bankacılığı."
+        },
+        {
+            "end": 62.64,
+            "speaker": "speaker_2",
+            "start": 61.819,
+            "text": "Doğru."
+        },
+        {
+            "end": 70.48,
+            "speaker": "speaker_1",
+            "start": 62.64,
+            "text": "Bugün, ee, bu ortamı değerlendirdğinde, ee, bugün keşke banka genel müdürü olsaydım, kalsaydım diyor musun?"
+        },
+        {
+            "end": 213.719,
+            "speaker": "speaker_2",
+            "start": 70.48,
+            "text": "Demiyorum. Bir, iki nedenle. Birincisi, ee, bu işi epey bir uzun süre ve epey bir kriz, büyüme, çalkantı dönemleri yaşadıktan sonra satın almalar, birleşmeler, entegrasyon süreçlerini yaşadıktan sonra 2011 yılında, ee, artık başka şeylere konsantre olma, ee, benim tercihimdi. Dolayısıyla bu tercihimi, ee, kullanmış olmaktan dolayı pişman değilim. Ee, doğru bir tercihti baktığımda. İkincisi, ee, yani tabii şu, o dokuz yıl içerisinde, ee, bankacılık sektöründe, özellikle ee, epey bir şey değişti. Ee, genelde küresel bağlamda baktığımız zaman bankacılık daha fazla regüle edilen, kuralları daha, ee, katı, ee, bir hale geliyor. Ama öte yandan da, ee, işin içerisine inovasyon, teknoloji çok daha fazla girmeye başladı. Verimliliği, ee, ön plana çıkartan bir yapı var. Dolayısıyla bankacılığın yapısı da, ee, önemli ölçüde değişiyor. Bankacılık yapma şekli, ee, değişiyor. Ee, benim ilk bankacılığa başladığım yıllarda aslında çok şanslı bir nesilin, ee, içinden geldiğini söylemek zorundayım. Hani bankacılık çok ilkeldi o zaman. İlk gelen yabancı bankalar epey bir şey, ee, bizlere öğrettiler. Daha sonra, ee, kurulan Türk bankaları, ee, gayet aktif bir şekilde bu piyasalara girdiler. Yani, ee, tasarruf ile, ee, kredi kullanan arasındaki ilişkiyi, ee, müşteri yaklaşımlarını daha iyi anlayabilen yapılar oluşmaya başladı.Onun sonrasında bir takım dışsal fark-- şoklar, birtakım içeride bizim yarattığımız şoklar, bu krizleri yarattı. O krizler de bankacılık sektörüne çok ciddi depremlere yol açtı. Bir sürü banka gitti, yenileri geldi vesaire. Dolayısıyla çok çalkantılı, yorucu. Ee, daha sonra sonra, ee, ortamın iyi olması, bankacılık sektörüne teveccühün fazla olması nedeniyle satın almalar, ee, epey hız- hızla ilerledi. O da başka bir dönem, yorucu bir dönem. Dolayısıyla yani o dönemleri yaşadığıma çok mutluyum. Çok ciddi, ee, tecrübeler, ee, çok enteresan, ee, gelişmelerin olduğu bir dönem. Ee, ama sonuçta şu anda başka bir şeyler yapıyorum. Değişik, farklı bir şeyler yapıyorum. Onu yapmaktan dolayı da mutluyum (gülme) ."
+        },
+        {
+            "end": 238.279,
+            "speaker": "speaker_1",
+            "start": 213.719,
+            "text": "Şu anda, ee, tabii 18 ay önce yaşanan ani bir devalüasyon faizlerin yükselmesinden sonra son altı aydır da hızla düşen faizler sonucunda en son geldiğimiz noktada şimdi artık, ee, reel faiz kaldı mı kalmadı mı, negatif mi diyoruz. Bankacı, banka yönetimi, banka hangisini tercih eder? Faizlerin yüksek olmasını mı, düşük olmasını mı?"
+        },
+        {
+            "end": 382.219,
+            "speaker": "speaker_2",
+            "start": 238.279,
+            "text": "Ya genel kanı faizlerin yüksek olmasıdır, ama bu tam doğru değil. Ee, tabii eğer, ee, banka-- geçmişten bahsedersek yani hatta bahsedersek. Bank-- o zaman banka bilançolarının çok önemli kısmı krediler değildi. Banka bilançolarının çok önemli bir kısım devlet iç borçlanma senetleri idi. Çünkü devlet borçlanmaya aç idi. Ee, bankacılık sektörünün de aslında çok fazla kredi tarafında penansiyasyon ihtiyacı yoktu. Dolayısıyla bu şekilde geliştiği zaman, ee, faizlerin düşmesini arzu edersiniz. Çünkü elinizdeki stoklardan, ee kağıt stoklarından para kazanırsınız. Fakat, ee, zaman ilerledikçe aktif pasif yönetimi aslında, ee, faizlerin yüksekliği, düşüklüğünden daha ziyade marjı doğru yönetmeyi gerekli kıldı. Ee, dolayısıyla, ee, bankacılık sektörünün tercihi aslında, ee, oynaklığın düşük olduğu, ee, yani kurların birdenbire çıktığı, birdenbire düştüğü, faizlerin birdenbire çıktığı, düştüğü bir ortamdan daha ziyade oynaklığın daha düşük olduğu, büyüme imkanının olduğu, ee, dolayısıyla böylece hem pazar payını artırabileceği hem kârlılığı artıralabileceği hem de bunu sürdürülebilir hale getirebileceği bir yapı, ee, daha fazla ortadadır. Tabii, geçmişle bugünün farkı, ee, geçmişte belki bu volatilitelere, bu oynaklıklar, ee, bankacılık sektörü kendi adına da önemli ölçüde, ee, bu işlerin ticaretini yaptığı için kendi bilançosunu kullanarak, ee, belki daha önemliydi.Ama bugün baktığımızda bugünkü dünyada, ee, bu giderek az. Hatta birçok yerde bununla ilgili çok ciddi regülasyonlar da kısıtlamalar var. Ee, dolayısıyla burada önemli olan siz müşteri hacminizi sağlıklı bir şekilde ne kadar büyütebiliyorsunuz? Aktiflerinizi, yani kredilerinizi ne kadar sağlıklı, burada sorunlu krediler oranı beklentileriniz oranında mı artıyor yoksa artmıyorsa onunla ilgili ne tedbirler alıyorsunuz? Aynı zamanda da bunu fonlayabilecek, ee, daha, ee, geniş yapılı bir finansman. Yani mevduat bazınızı, tasarruf bazınızı genişletebilmek, bütün bunları yönetebilmek daha mahir hale geliyor. Biraz karışık bir formül. Dolayısıyla faizlerin yüksekliği, düşüklüğü değil, bence faizlerin, ee, durağanlığı, enflasyonun düşüklüğü, dolayısıyla reel faiz ortamının olması, ee, arzulanan bir durum. Ha bugün bahsettiğiniz gibi, ee, geldiğimiz noktada negatif reel faiz sadece Türkiye için değil birçok ülke için geçerli bir konu."
+        },
+        {
+            "end": 385.199,
+            "speaker": "speaker_1",
+            "start": 382.219,
+            "text": "Ve önümüzdeki iki üç yılda da pek kolay değişmeyecek gibi gözüküyor."
+        },
+        {
+            "end": 385.659,
+            "speaker": "speaker_2",
+            "start": 385.199,
+            "text": "Öyle gözüküyor."
+        },
+        {
+            "end": 411.799,
+            "speaker": "speaker_1",
+            "start": 385.659,
+            "text": "Zira şu anda ya negatif faiz ya da sıfır, ee, tarafındalar. (Öksürme) 15 Ağustos 2018. Kurlar hızla çıkıyor. Biz sabah uyandık, yedi lira olmuş, ee, dolar. Ne düşündün, hangi krize benzettin? Mesela mi benzettin, Kara mı benzettin? Senin dönemine rastlayan... O sırada bankacı değildin ama."
+        },
+        {
+            "end": 412.299,
+            "speaker": "speaker_2",
+            "start": 411.799,
+            "text": "Evet."
+        },
+        {
+            "end": 416.599,
+            "speaker": "speaker_1",
+            "start": 412.299,
+            "text": "Hangisine benzettin? Şu anda olsam şunu yapardım. Neler geçti aklından?"
+        },
+        {
+            "end": 446.739,
+            "speaker": "speaker_2",
+            "start": 416.599,
+            "text": "Aslında, ee, 94 çok farklıydı. Ee, 2001 çok farklıydı. 2008 çok farklıydı. Aslında hiçbirine benzetemedim. Ağustos benim ilk aklıma gelen, ee, bu kadar fazla özel sektör döviz borcu var iken özel sektör döviz borcunun banka bilançolarında yaratacağı tahribat ne olacak? Bir. İkincisi, bunun önümüzdeki dönemde büyüme hikayesi ile ilgili nasıl etkileri olacak? Eee, onunla ilgilendi, şerhlerim oldu."
+        },
+        {
+            "end": 458.019,
+            "speaker": "speaker_1",
+            "start": 446.739,
+            "text": "Bankacılığı, ee, bu konu etkiliyor. de etkiliyor, yurt dışında etkiliyor. Yani, ee, bol ve ucuz para var. Bol ve ucuz paranın olduğu yerde en çok yapılan şey kötü yatırım denir."
+        },
+        {
+            "end": 458.059,
+            "speaker": "speaker_2",
+            "start": 458.019,
+            "text": "Doğru."
+        },
+        {
+            "end": 496.831,
+            "speaker": "speaker_1",
+            "start": 458.059,
+            "text": "Yani kötü yatırımlar çok yapılıyor. Aynı şekilde teknoloji etkiliyor. bankalar nispeten daha erken davranmışlardı. Birçok banka operasyon merkezini büyükşehirlerin dışına, plazaların dışına taşıyarak maliyetlerini düşürmeye çalıştı. Teknolojiyi kullanarak maliyetlerini. Eee, bir taraftan da, ee, sadece internet üzerinden işlem yapan bankalar çıkmaya başladı. Bilhassa Eee?Böyle bir baskı internet tarafından geliyor. Maliyet tarafından baskı var. Faizler düşük. Dolayısıyla müşteriye kullandıracak kredinin faizi çok yüksek olamıyor. Bankalar nasıl kar edecekler?"
+        },
+        {
+            "end": 574.731,
+            "speaker": "speaker_2",
+            "start": 496.831,
+            "text": "Tabii bu kolay bir soru. Cevabı olan bir soru değil. ama bu birdenbire oluşan bir olay değil. Yani biz bankacılık sektöründe, ee teknolojinin ağırlığının daha fazla artacağı, alternatif dağıtım kanallarının ağırlığının daha fazla artacağını Türk bankacılık sektörü epey bir zaman önce gördü. Aslında belki o açıdan bir avantaj da oldu. Bizim bu işe biraz hantal, o iri yatırımları yapmadan daha yeni teknolojilere adapte ederek bu işlere giriyor olmamız bir avantajdı oldu. Bugün baktığım zaman ben, yani biraz dışarıdakilerle de karşılaştırdığım zaman internet bankacılığı, mobil bankacılık, uygulamalar açısından aslında hiç geride olmadığımızı, birçok açıdan önde olduğumuzu da söyleyebilirim. Zaten bankalarımız dışarıda bu konulardaki yarışmalarda, karşılaştırmalarda ön plana çıkıyorlar. Ama şu bir gerçek ki, yani teknoloji hayatımızda insanlar şubelere gidip kuyruğa girip oranın havasını solumadan işlerini çok basit birkaç tuşa dokunarak yapma ama bunu da güvenli olarak yapma konusunda tercihlerini çok açık ortaya koyuyorlar. Dolayısıyla bu hizmeti en kolay, en ucuz, en rahat bir şekilde ulaştırma yönünde de bankacılık sektörü çok ciddi teknolojik yatırımlar yaptığı, yapmaya da devam ediyor."
+        },
+        {
+            "end": 592.571,
+            "speaker": "speaker_1",
+            "start": 574.731,
+            "text": "Şimdi bankalar çok yaygın, çok başarılı. Ama bankalar açısından bir sevilirlik, sevilme endeksi yapsak herhalde birbirleriyle aşağıda bir yerde yarışırlar. Dolayısıyla bir banka genel müdürü açısından bu kabullenilmiş bir şey midir? Yani bunu değiştirmeye çalışır mı bir banka genel müdürü? Benim bankamız sevinsin istiyorum der mi?"
+        },
+        {
+            "end": 670.591,
+            "speaker": "speaker_2",
+            "start": 592.571,
+            "text": "Yani bir kere tabii istediğiniz nispeten basit sıradan hizmetleri süratli ve sorunsuz almayı talep etmeniz son derece doğal. Bu sadece bankacılık sektöründe her sektörde de var. Dolayısıyla bu açıdan ben bankacılık sektörünün çok ciddi, aşama kaydettiğini, sevimsizlikten uzaklaştığını düşünüyorum. İkincisi, tabii ki bankacılık sektörü ekonominin büyümesi için fonlarını kullandıran bir kesim. Burada beklentileri daha yüksek olanlar, bu taleplerini bankaların karşılamadığını düşünenler olabilir. Ama bankalar da sonuçta ekonomik olarak arz ve talepten gelir içerisinde kendi fonlama olanakları çerçevesinde kullanmaya çalışıyor. Hiçbir banka kullandığı maliyetli mevduatın veya dışarıdan kullanmış olduğu kredinin bilançosunda daha düşük faizle durmasını istemez. Bunu kredi olarak vermek ister. Gerek bireylere, gerek kobilere, gerek büyük şirketlere. dolayısıyla bu açıdan bir sorun yok. ama yani burada bankacılık sektörü özellikle son yirmi yıl içerisinde müşteri memnuniyetini ölçme, bunu iyileştirme yönünde ciddi yatırımlar yapma ve efor sarf etme konusunda çok ciddi konsantre oldu. Dolayısıyla ben bu açıdan durumun biraz daha iyiye doğru gittiğini düşünüyorum."
+        },
+        {
+            "end": 691.531,
+            "speaker": "speaker_1",
+            "start": 670.591,
+            "text": "daha da enteresan. Çünkü Atilla Köksal buradaydı programımızda. Çok kısa vadeli mevduattan oluştuğundan bahsettik Türk halkının tasarruflarının. Ama sadakatler daha uzun. Yani çok kısa vadeli yatırıyor parasını ama aynı bankada belki kırk yıl bankacılık yapıyor. Bana çok enteresan geliyor. Nasıl değerlendiriyorsunuz bunu?"
+        },
+        {
+            "end": 757.671,
+            "speaker": "speaker_2",
+            "start": 691.531,
+            "text": "Doğrudur yani, bankalar da müşterileri o sadakatlarını ölçüp mümkün olduğu kadar kendilerine sadık tutmaya çalışıyorlar. Müşterilere çok daha fazla ürün sunarak müşteriyi daha kalıcı olmaya çalışıyorlar. Iıı bugün gerçi şu gerçeği de kabul etmemiz lazım yani bankada eğer faturalarınızı oradan ödüyorsanız, vergilerinizi oradan ödüyorsanız, tasarrufunu orada tutuyorsanız artı bankanın size iyi bir hizmet veriyorsa değiştirme yönünde, fiyatlama açısından da rekabetçi ise yani piyasaların acayip oynamadığı mevduat faizlerinin veya başka alacağınız ürünlere ödediğiniz hizmetlerin vesaire filan, banka size mümkün olduğu kadar piyasa koşullarında davranıyorsa banka değiştirmek için bir şeyiniz olmuyor. Ha kısa vade ayrı bir şey. Yani kısa vadede tabii uz-onun ee eğer bu programa bir akademisyen çağırırsan bence çok daha iyi anlatabilir. Benim duyduğum, anladığım tabi geçmiş yüksek enflasyon, yüksek oynaklık, insanları kısa vadede kalmayı rasyonel olmasa bile kısa vadede kalmalarını sağlıyor."
+        },
+        {
+            "end": 801.931,
+            "speaker": "speaker_1",
+            "start": 757.671,
+            "text": "Programımızın ismi Tecrübe Konuşuyor. Tecrübe içinde yediğin kazıkların toplamıdır gibi böyle bir tanım da vardır amiyane bir şekilde. Herhalde tasarruf sahibi de bundan önce uzun vadeli yatırıp o yatırdıktan sonra faizlerin yükselmesinden veya diğer yatırım araçlarının değerinin artmasından muzdarip ki izleye izleye, gözleye gözleye gidiyor. Şubelerden bahsettik. Şubelerin sayısının artması bir gerçeği dedik. Böyle devam edecek mi? Çünkü bu şubelerde yapılan işlerin yüzde doksanının artık alternatif kanallarda, yani makinalarda veya internette veya cep telefonundan da yapılabildiğini dinledim. Geçenlerde İş Bankası Genel Müdür Dostumuz Adnan bir yerde dinliyordum. Yüzde doksana geldi, dedi işlemlerin."
+        },
+        {
+            "end": 802.4110000000001,
+            "speaker": "speaker_2",
+            "start": 801.931,
+            "text": "Doğrudur."
+        },
+        {
+            "end": 807.931,
+            "speaker": "speaker_1",
+            "start": 802.4110000000001,
+            "text": "şimdi o zaman şubeler ne yapacak? Yani danışmanlık mı yapacaklar?"
+        },
+        {
+            "end": 879.831,
+            "speaker": "speaker_2",
+            "start": 807.931,
+            "text": "Danışmanlık yapacak ilk müşteri temasında tabii aslında bu insansız bankalarda hiç bankaya uğramadan da internetten de başvurup kredi kartı işlemlerinizi, kredi işlemlerinizi vesaire yapabiliyorsunuz. Ama yani bankanın sizi bir tanıması, görmesi hâlâ prosedürler olarak ıslak imzayla ilgili konular vesaire filan var. Dolayısıyla şube tamamen ortadan kalkmayacak. Ama şubenin zaman içerisinde çok daha kompakt, çok daha müşteri ihtiyaçlarına alternatif dağıtım kanallarının sunamadığı hizmetleri danışmanlık onların içerisinde verebilecek bir yapı içerisinde dönüşeceği kesin. Sayılar açısından da çok fazla artar mı bundan sonra bilmiyorum. Ama hâlâ şunu da bilmemiz lazım ki biz her ne kadar bu iş elektronik kısmı ilerlediyse, teknoloji bu işin içerisine girdiyse hâlâ büyük ölçüde nakit bazlı bir toplumuz. Bu bugünden yarına değişmeyecek. Bu eğitimle bu süreç bankaların bu konuya daha fazla yatırım yapması, erişim kolaylıkları zorluklarıyla dolayısıyla şube ortadan kalkmayacak. Ama şubenin şekli muhakkak ki değişecek."
+        },
+        {
+            "end": 923.011,
+            "speaker": "speaker_1",
+            "start": 879.831,
+            "text": "Herhalde demografi de bunda etkili olacaktır. Şubeyi bir sosyalleşme noktası olarak gören bir yaş grubu da var. Dolayısıyla evinden çıkıp Bağdat Caddesi üzerindeki banka şubelerinden birine işe gider gibi giden insanlar tanıyorum. O yüzden de sosyalleşme noktası olduğunun da farkındayım. bankacılık kariyerlerine bakıldığında yirmi dokuz yaşında genel müdür yardımcısı olan pek yoktu o zamanlar. Herhalde o konularda Hüsnü Bey rekortmandır. Ikinci de sen oluyorsun. Hüsnü Bey arkasından, ki senin genel müdür yardımcısı olduğunda genel müdür Hüsnü Arkasından da Hüsnü Bey kendi bankasını kurdu Finans Sen de bir gün ben de kendi bankamı kurarım diye düşündün mü hiç?"
+        },
+        {
+            "end": 1013.947,
+            "speaker": "speaker_2",
+            "start": 923.011,
+            "text": "Valla böyle bir düşüncem olmadı. Doğrusunu söylemek gerekirse.Çevreden teşvik, tahrik.Tahrik her zaman insanın hayatında oluyor. (gülme) Fakat şunu kabul etmemiz lazım. Türkiye seksenler, doksanlarda çok enteresan bir dönem yaşadı. Özellikle yani bankacılık sektörünün, ehm, öneminin, aracılık hizmetinin ne derece doğru ve sermaye gerektiren bir iş olduğu 2001 krizinde anlaşıldı. Daha önceki krizlerde de biz epey banka fire olarak verdik. Ama onların bazıları iç konjonktürlerdeki birtakım gelişmelerden, birtakım dışsal şoklardan açıklamaları vardı. Ama bu işin.Geri dönülmez bir şekilde, eee, değişmesi gerektiği, bankacılık sektörünün, eee, sermaye yeterliliği diye bir gerçekle karşı karşıya olması gerektiği, ayağını yorganına göre uzatması gerektiği ve sermayesinin de güçlü, kuvvetli, muktedir bir rakamda olması gerektiği ortaya çıktı daha fazla. Dolayısıyla 2000 sonrası zaten böyle bir dünya. (gülme) Ben bu işe girişeyim diyenler için artık yok. Bugün baktığımız zaman çok ciddi, uluslararası çapta da çok ciddi bir konsolidasyon var. Ha şu tartışma da var. Hani bankalar çok büyük olursa bu sefer battıkları zaman ekonomiye çok ciddi, ee, olumsuzlukları oluyor. Dolayısıyla çok büyük olmaları da arzu edilmiyor. Ama her halikarda arzu edilen bir şey var ki, ortak anlaşılan bir konu var. Son yirmi yıldır orada kimse bir şey demiyor. Çok ciddi bir sermayen olması lazım."
+        },
+        {
+            "end": 1028.787,
+            "speaker": "speaker_1",
+            "start": 1013.947,
+            "text": "Evet. makine mühendisliği, arkasından Columbia Üniversitesinde finans okudun. Arkasından da bankacılığı seçtin. Ben esasında iş hayatına, ee, başladığımda, ee, o şirketin ilk genel müdürü babandı, Rıfat Bey."
+        },
+        {
+            "end": 1029.627,
+            "speaker": "speaker_2",
+            "start": 1028.787,
+            "text": "Doğru."
+        },
+        {
+            "end": 1047.4470000000001,
+            "speaker": "speaker_1",
+            "start": 1029.627,
+            "text": "Eee, sonra öğrenmiştim, ee, o olduğunu. Kurucu, ee, genel-Müdürdü. Eee, sonra da bir kere de karşılaştım, eee, şirkette. Eee, ailen nasıl etkilemiştir? Hangi mesleği seçeceğini. Amerikaya gidip gitmemeni, ee, nasıl değerlendirirsin geçmişe baktığında?"
+        },
+        {
+            "end": 1094.707,
+            "speaker": "speaker_2",
+            "start": 1047.4470000000001,
+            "text": "Yani Amerikaya gitmem biraz, ee, başladım ben makine mühendisliğine liseden sonra. İkinci sınıfta Amerikaya gittim. O çok karışık olduğu bir dönemdi. Eee, biraz da o karışıklıktan, eee, bir değişiklik gerektiği için oldu. Babam, eee, ilk petrol mühendislerinden. Eee, MEA bursuyla okumuş. Eee, liseyi bitirip kariyer seçimiyle ilgili-- Biliyorsun o zaman üniversite, ee, giriş imtihanları vardı. Puanına göre önemliydi. İşte ben de iyi bir öğrenci. Yüksek puan tutturabileceğim yerler tıp, mühendislik. Mühendislikte de makina, elektrik. Bunları düşünürken, babamla tartışırken babama dedim ki \"Ne yapayım, ben ne düş- yani, ee, bir türlü karar veremiyorum.\" O da dedi ki \"ne olursan ol petrol mühendisi olmayın\"."
+        },
+        {
+            "end": 1095.027,
+            "speaker": "speaker_1",
+            "start": 1094.707,
+            "text": "(güler)"
+        },
+        {
+            "end": 1149.287,
+            "speaker": "speaker_2",
+            "start": 1095.027,
+            "text": "\"Çünkü yeterinden fazla petrol mühendisi var\" dedi. Ben oradan şöyle bir şey anladım. Ben kariyerimle ilgili sonra bankacılığı seçmemde de enteresan bir unsur olmuştur. Eee, yani, ee, arzın fazla olduğu değil, geleceğin işlerine birazcık fazla odaklan. dolayısı ile mühendislik sonrasında hiç aklımda aslında bankacılık yoktu. Eee, son, ee, uluslararası bankacılık dersi aldığımda ondan önce yeniden-- borç yeniden yapılandırmasını yapan bir yatırım bankasının partneri çok şiddetle dedi ki \"Türkiye\\ gideceksin, muhakkak bankacı ol, bankacılığa başla\". O zaman bankacılık çok-- seksenlerin başı çok enteresan bir iş değil yani. Bankacılık. Mevduat topluyorsun. Kredi verdiğin zaman bir sorun yok. Çünkü enflasyonun altında, eee, kredi faizleriyle kredilerde herhangi bir batak yok.Dolayısıyla ha, mev-- yani ne kadar mevduat to--hatırlarsan o apartman çekilişleri, mevduat beyleri vesaire. Dolayısıyla böyle bir sıkıcı bir iş."
+        },
+        {
+            "end": 1151.787,
+            "speaker": "speaker_1",
+            "start": 1149.287,
+            "text": "Ra-mevcutti kayınvalidemin apartmanı çıkmıştı zamanında."
+        },
+        {
+            "end": 1168.6670000000001,
+            "speaker": "speaker_2",
+            "start": 1151.787,
+            "text": "Yani arada sırada çıkıyordu işte. Yani sadece tasa-- dolayısıyla heyecanlı bir şey değil. Dedim biraz daha sorayım. Dedim n-e, yani ne değişecek de bankacılığı tavsiye ediyorsun. Yok, dedi, bankacılık şöyle şöyle gelişecek, işte faizler, ee, reel olarak artı olacak. Eee, kredi veren bankalar-"
+        },
+        {
+            "end": 1171.347,
+            "speaker": "speaker_1",
+            "start": 1168.6670000000001,
+            "text": "Peki bugün sen tavsiye ediyor musun gençlere?"
+        },
+        {
+            "end": 1224.067,
+            "speaker": "speaker_2",
+            "start": 1171.347,
+            "text": "Valla şimdi (boğazını temizler) finans sektörünü kesinlikle, ee, tavsiye ederim. Eee, ama benim başladığım dönemdeki bankacıktan farklı bir bankacılık olduğu çok açık. Bankacılıkta çok ciddi bir rekabet olduğu çok açık. Eee, zaten gençler bankacılık sektörünü tercih etme, bankacılık sektöründe bu zor koşulların içine girme yerine daha fazla bu aralar işte bu Fintechlere, eee, daha teknolojiyle finans sektörünü buluşturan konulara konsantre oluyorlar, ağırlığı. Eee, bankacılık sektörü hep olacak. Ama galiba bankacılık sektörü daha fazla regüle edilen, kurallara daha katı, manevra kabiliyeti daha az, eee, enerji şirketleri gibi, eee, demiryolları şirketleri gibi biraz kamuya mal olan yapılara doğru zaman içerisinde dönüşecek gibi gözüküyor. Eee, bunun dışında tabii, eee-"
+        },
+        {
+            "end": 1225.227,
+            "speaker": "speaker_1",
+            "start": 1224.067,
+            "text": "Ama hep var olacaklar."
+        },
+        {
+            "end": 1225.567,
+            "speaker": "speaker_2",
+            "start": 1225.227,
+            "text": "Efendim?"
+        },
+        {
+            "end": 1226.507,
+            "speaker": "speaker_1",
+            "start": 1225.567,
+            "text": "Hep var olacaklar."
+        },
+        {
+            "end": 1228.507,
+            "speaker": "speaker_2",
+            "start": 1226.507,
+            "text": "Öyle gözüküyor. Var olacaklar."
+        },
+        {
+            "end": 1232.047,
+            "speaker": "speaker_1",
+            "start": 1228.507,
+            "text": "Peki hep var olacak deyince gelelim. İyi bir Galatasaraycısın."
+        },
+        {
+            "end": 1232.787,
+            "speaker": "speaker_2",
+            "start": 1232.047,
+            "text": "(güler)"
+        },
+        {
+            "end": 1255.467,
+            "speaker": "speaker_1",
+            "start": 1232.787,
+            "text": "Hem kulüple hem takımla ilgilisin. Eee, ben zaman zaman bir Fenerbahçeli olarak daha iyi yönetilebilir mi, maddi olarak daha iyi durumda olabilir mi konularında, her halde başka türlü olamıyor ki böyle oluyor konusuna gelmiştim. Galatasaray konusunda aynı şeyi düşünür müsün? daha iyi yönetilmesi mümkün değil, mali durumun da düzelmesi mümkün değil diye düşünür müsün?"
+        },
+        {
+            "end": 1261.247,
+            "speaker": "speaker_2",
+            "start": 1255.467,
+            "text": "Valla ben bu konuyu mümkün olduğu kadar düşünmemeye çalışıyorum. Çünkü bu konuyu düşünüp bir şey söylediğin zaman hadi o zaman gel diyorlar."
+        },
+        {
+            "end": 1261.587,
+            "speaker": "speaker_1",
+            "start": 1261.247,
+            "text": "Evet."
+        },
+        {
+            "end": 1336.227,
+            "speaker": "speaker_2",
+            "start": 1261.587,
+            "text": "Geçmişte böyle talepler de oldu. Dolayısıyla ben, eee, yani tabii, eee, çok detaylarına vakıf değilim. Ama bir bankacı olarak ana hatlarıyla dışarıdan gördüğümde çok ciddi bir gelir gider, eee, dinamikleri ve borçla ilgili ciddi bir sorun var. Eee, bunun insanları cezbettiği yer, çok fazla kitlelere mal olan, içinde çok tutkunun olduğu... Ben, eee, bankayı, Dış Dış Bank satın aldığı zaman buraya geldiğinde Galatasaray Fenerbahçe derbisi vardı Eee, dedim ki seni bir maça götüreyim, biraz anla. Eee, Ali Samiyen o zaman varken maça götürdüm. Gerçekten oradaki ortamı, etrafı görünce ilgili fikirleri çok değişti. Çok tutkulu bir iş. Yani insanların nasıl maç seyrettiğini-- Çünkü Belçikalı da futbol şeydi-Ki onlar da bir takımın sponsoru, eee, idi Dolayısıyla futbola aşina, yabancı değil. Ama burada gerçekten, eee, çok tutkulu, arkasında taraftarın olduğu ama öte yandan da finans dinamiklerini pek tutmayan bir iş var. Zor bir iş. Nasıl düzelecek bilmiyorum. Dolayısıyla ben, yani bu işin zorluğu nedeniyle mümkün olduğu kadar uzak durdum. (güler)"
+        },
+        {
+            "end": 1345.847,
+            "speaker": "speaker_1",
+            "start": 1336.227,
+            "text": "Bundan sonra sırada neler var? Bundan sonra deneyimlerini aktarmak açısından, ileride nasıl anılacağını şekillendirmek açısından neler yapmayı düşünüyorsun?"
+        },
+        {
+            "end": 1405.267,
+            "speaker": "speaker_2",
+            "start": 1345.847,
+            "text": "Eee, epey bir vaktimi sivil toplum örgütlerinde, eee, değerlendiriyorum. Eee, burada gerçekten, eee, hem, eee, üniversite vakıflarında hem eğitim kurumlarında, eee, hem diğer inisiyatiflerde yapılacak çok işler var. Sivil toplumların çok önemli bir gücü olduğuna ve hâlâ potansiyelinin, ee, çok yüksek olduğuna inanıyorum. Eee, burada tecrübemi aktarabileceğim, bilgi, deneyim, kontaklarımı aktarabileceğim belli konular üzerinde, eee, çalışıyorum. Kendi birtakım yatırımlarım var. Onunla ilgili, eee, geliştirmeye çalıştığım konular var. Dünyayı yakından takip ediyorum. Özellikle bu Marsh McLennan dünyanın en büyük risk, insan kaynakları strateji yönetimi şirketi olduğu için orada çok şey öğreniyorum ve müşterilere onları aktarmaya çalışıyoruz. Risk yönetimi konusu başlı başına bir konu. Eskiden, eee, şirketlerde hani risk yönetimi konusu, birisinin bu işi yapması lazım, bir risk haritası çıkarması lazım gibi bir konu iken bugün-"
+        },
+        {
+            "end": 1406.727,
+            "speaker": "speaker_1",
+            "start": 1405.267,
+            "text": "Sertifikasyon gibiydi yani."
+        },
+        {
+            "end": 1435.9470000000001,
+            "speaker": "speaker_2",
+            "start": 1406.727,
+            "text": "Bugün, eee, özellikle belli boyut üzerindeki şirketlerin olmazsa olmaz işlevlerinden bir tanesi. Eee, daha önce hiç hayatımızda, belki beş sene önce duymadığımız bir konu. Siber risk mesela. Şu anda en önemli risklerden bir tanesi. Dünyadaki doğal afetlerden doğan hasarların çok daha fevkinde bir risk aslında bu siber risk. Yani e-maillerinizin çalışmaması, teknolojiye erişemememiz, clouda erişemememiz, verilerinizi doyur saklayıp saklayamamanız-"
+        },
+        {
+            "end": 1438.487,
+            "speaker": "speaker_1",
+            "start": 1435.9470000000001,
+            "text": "Kişisel hayatımız donuyor WhatsApp çalışmayınca."
+        },
+        {
+            "end": 1446.007,
+            "speaker": "speaker_2",
+            "start": 1438.487,
+            "text": "Kesinlikle. Dolayısıyla mesela bu konular çok enteresan, yeni, eee, zengin konular. Dolayısıyla bu konulara daha fazla eğiliyorum."
+        },
+        {
+            "end": 1458.287,
+            "speaker": "speaker_1",
+            "start": 1446.007,
+            "text": "Tayfun iyi ki geldin. Çok keyif aldım. Çok şeyler öğrendim bugün.Umarım bizi izleyenler de keyifli vakit geçirmişlerdir. Efendim, tecrübe haftaya burada konuşmaya devam edecek. Sağlıcakla kalın."
+        },
+        {
+            "end": 1471.087,
+            "speaker": "speaker_unknown",
+            "start": 1458.287,
+            "text": "(outro müziği)"
+        }
+    ],
+    "video_metadata": {
+        "title": "Tecrübe Konuşuyor - Tayfun Bayazit | 07.02.2020",
+        "url": "https://www.youtube.com/watch?v=MMCoPLq4QkQ&list=PLCi3Q_-uGtdlCsFXHLDDHBSLyq4BkQ6gZ&index=8"
+    }
+}

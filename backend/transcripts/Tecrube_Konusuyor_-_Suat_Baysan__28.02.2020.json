@@ -1,0 +1,572 @@
+{
+    "segments": [
+        {
+            "end": 494.77500000000003,
+            "speaker": "speaker_0",
+            "start": 489.095,
+            "text": "İlla bir tanesini seçecek. Onu oraya yetiştirecek, ona erişemiyor, erişemeyeceği oraya israf oluyor."
+        },
+        {
+            "end": 530.775,
+            "speaker": "speaker_1",
+            "start": 494.77500000000003,
+            "text": "Şimdi tabii hem kendi laboratuvarın hem kendi geliştirdiğin ürünün patentin. Ama bir taraftan da birçok şirkete de danışmanlık veya hizmet dolayısıyla yakınsın. Şu anda bu bahsettiğimiz çalışmalarda ve bilhassa da adını çok ettiğimiz makine öğrenmesi, yapay zeka konusunda şirketlerin yaklaşımını nasıl değerlendiriyorsun? Yani böyle kısa bir cevap da istemiyorum aşkası. İyi, kötü gibi. Gerçekte ihtiyacı olanlar bu işe önem veriyorlar mı? Kimlerin gerçekten ihtiyacı olduğunu düşünüyorsun ama fazla bir hareket görmüyorsun?"
+        },
+        {
+            "end": 589.415,
+            "speaker": "speaker_0",
+            "start": 530.775,
+            "text": "Çok güzel, güzel bir soru. Çok ziyaret ediyorum. Hem üniversiteleri geziyorum hem şirketleri geziyorum. Şunu gözlemliyorum, herkes bir değişimin geldiğinin farkında. Yani artık deniz bitti, yol bitti. Bir kırılım noktasına geldiğimizin farkında. Hani vaktimiz olursa belki teknolojide de değinebiliriz onlara. Ancak şöyle bir şey oluyor. Geldiğimiz noktada kırılımı aşabilecek kararları almakta çok zorlanıyorlar. Özellikle bu esen sayısal rüzgarların ilk geldiği yer satış pazarlama ve ön yüzü oluyor şirketin. Orasının etkinliğini arttıracak projelerle başlayın. Sonrasında yavaş yavaş zorluk derecesini artırarak ilave devam edin. Örneğin rekabetçiliğin olduğu arka ofis süreçleri, etkinliğin olduğu ön süreçlerle nasıl beraber çalışacak, uçtan uca proje yapılabilecek mi gibi büyük resmi göremiyorlar. Büyük resmi göremedikleri için de bir kuşku oluyor yatırım yapmakta."
+        },
+        {
+            "end": 597.0550000000001,
+            "speaker": "speaker_1",
+            "start": 589.415,
+            "text": "Bunu ne seviyede görüyorsun? Yani bu bir patronaj konusu mu, üst düzey yönetici konusu mı? Ne seviyede bir sıkıntı görüyorsun?"
+        },
+        {
+            "end": 610.015,
+            "speaker": "speaker_0",
+            "start": 597.0550000000001,
+            "text": "Ben bunu hep üst düzeyde görüyorum. Üst düzeyda görüyorum. Üst düzey yöneticiler aşağıdan gelen fikirleri, mesajları bir teknoloji değişimi gibi algılıyorlar. Halbuki bir konsept değişimi, bir kavram değişimi-"
+        },
+        {
+            "end": 610.975,
+            "speaker": "speaker_1",
+            "start": 610.015,
+            "text": "İş Yapı şekillerinin değişmesi..."
+        },
+        {
+            "end": 630.095,
+            "speaker": "speaker_0",
+            "start": 610.975,
+            "text": "İş Yapı şekillerinin değişmesi şeklinde algılamıyorlar. Ne zaman ki ben gidip bir sunum yapıyorum ve komple büyük resmi gösteriyorum. O zaman diyorlar ki evet, bu sayısal dönüşümün dört ekseni varmış. Dört eksenden bir tanesi de en önemlisi ortadaki eksen kurumsal yönetişim, kültür, inovasyon ortamı."
+        },
+        {
+            "end": 639.7950000000001,
+            "speaker": "speaker_1",
+            "start": 630.095,
+            "text": "Peki nereden başlamak lazım? Ben de çünkü yakın bir zamana kadar icra görevi olan bir yöneticiydim. Şimdi bu şekilde yönetirken nereden başlamakta fayda var?"
+        },
+        {
+            "end": 692.715,
+            "speaker": "speaker_0",
+            "start": 639.7950000000001,
+            "text": "Çok güzel bir soru. Ben hep şuradan başlıyorum. Birinci aşamada hani bir uyandırma sunumu. Hani wake up call diyoruz ona. Bir uyanın bakın böyle bir şey geliyor, rüzgar geliyor. Ve artık her zaman yaptığımız işler bitti, bambaşka şeyler yapacağız. Bir önce onunla başlayalım. Arkasından benim yine kendi özgün olarak bulduğu bu halı eğitimi. Herkese eğitim vermek, herkese eğitim vermek ve farkındalığı yaratmak ki sahip çıksınlar. Tek bir kişinin, tek bir organizasyonun veya üst yönetimin sahip çıkması değil, herkesin sahip çıkması. İkinci aşamada bunu yapmak. Üçüncü aşamada da bir olgunluk testi yapmak. Nerede, hangi boşluklardayız? Kurumsal yönetişimde, iş yönetimi süreçlerinde, işletmede veya teknolojide? Bu boşluklardan acaba en iyisi olabilmek için hangi projeler üretebiliriz?"
+        },
+        {
+            "end": 704.4350000000001,
+            "speaker": "speaker_1",
+            "start": 692.715,
+            "text": "Evet, elektrik mühendisi, elektronik-Elektronik mühendisi okudun ve arkasından da çalışmaya başladın. Adanalısın."
+        },
+        {
+            "end": 705.175,
+            "speaker": "speaker_0",
+            "start": 704.4350000000001,
+            "text": "Adanalıyım."
+        },
+        {
+            "end": 707.395,
+            "speaker": "speaker_1",
+            "start": 705.175,
+            "text": "Adanalısın. meşhur yeni Lisesinden."
+        },
+        {
+            "end": 708.415,
+            "speaker": "speaker_0",
+            "start": 707.395,
+            "text": "Yeni Lisesinden. (gülme)"
+        },
+        {
+            "end": 724.475,
+            "speaker": "speaker_1",
+            "start": 708.415,
+            "text": "Ben de uzun dönem bulunduğum için benim de iyi bildiğim isimler bunlar. kalkıp giderken neler düşünmüştüm. Birisi sana bunu yap git mi dedi? Örnek aldığın kimse var mıydı?"
+        },
+        {
+            "end": 770.7950000000001,
+            "speaker": "speaker_0",
+            "start": 724.475,
+            "text": "Ya açıkçası tamamen tesadüf oldu. yıllar sıkıntılı yıllarıydı. Bir sınav oldu Sınava tesadüfen ailemizin desteğiyle gelip otobüsle gidip sınava girdim. Sınavın sonuçları da yaklaşık üç ay sonra açıklandı. Otuz tane kişi yurt dışında okuyabilecek yetkiyi aldık. benim de en yakın gördüğüm kendime İngiltere olmuştu. Tabii gidince birdenbire Manchester giremedim. Önce bir onların üniversitelerinde sınav yok. Ama öncesinde almanız gereken sertifikalar var. Onları aldım, A-Level diyorlardı o zaman. aldıktan sonra beş tane üniversiteye başvurdum, başvurdum. Aklımda elektrik elektronik mühendisliği hiç yoktu."
+        },
+        {
+            "end": 771.315,
+            "speaker": "speaker_1",
+            "start": 770.7950000000001,
+            "text": "Ne diyorsun?"
+        },
+        {
+            "end": 772.635,
+            "speaker": "speaker_0",
+            "start": 771.315,
+            "text": "Hiç yoktu, hiç yoktu."
+        },
+        {
+            "end": 773.915,
+            "speaker": "speaker_1",
+            "start": 772.635,
+            "text": "Peki fizik mi vardı?"
+        },
+        {
+            "end": 779.815,
+            "speaker": "speaker_0",
+            "start": 773.915,
+            "text": "Fizik de yoktu. Ailem beni gönderirken diyorlardı ki ya en önemli şey inşaat olacaksan inşaat mühendisi ol, gel."
+        },
+        {
+            "end": 781.7750000000001,
+            "speaker": "speaker_1",
+            "start": 779.815,
+            "text": "Çünkü ya tekstil giderdi..."
+        },
+        {
+            "end": 783.635,
+            "speaker": "speaker_0",
+            "start": 781.7750000000001,
+            "text": "Ya da tekstil. Ikisiydi."
+        },
+        {
+            "end": 784.995,
+            "speaker": "speaker_1",
+            "start": 783.635,
+            "text": "O da gidilirdi."
+        },
+        {
+            "end": 806.175,
+            "speaker": "speaker_0",
+            "start": 784.995,
+            "text": "gidilirdi. Manchester (...) otuz kişilik sınıfta, ee tekstil bölümünde otuzu zaten. İngiliz hoca diyordu ki yani ben Türkçe anlatsam daha iyi olurdu. (gülme) Ben gidip de bu aldığımda nelerin geliştiğini fark edip tamamen fikrimi değiştirdim."
+        },
+        {
+            "end": 808.375,
+            "speaker": "speaker_1",
+            "start": 806.175,
+            "text": "Ama epey de bir fizik dokudın okulken."
+        },
+        {
+            "end": 811.415,
+            "speaker": "speaker_0",
+            "start": 808.375,
+            "text": "Şimdi ben o üniversiteye girdiğimde fizik okuyacağımı bilmiyordum açıkçası."
+        },
+        {
+            "end": 813.5550000000001,
+            "speaker": "speaker_1",
+            "start": 811.415,
+            "text": "Bilsen gitmezdim biliyor musun? (gülme)"
+        },
+        {
+            "end": 833.615,
+            "speaker": "speaker_0",
+            "start": 813.5550000000001,
+            "text": "Sonradan fark ettim ki fizik de çok önemliymiş. Bohr atomu orada parlatılmış işte Rutherford Laboratuvarları filan... Dediler ki siz fizik okumadan mezun olamazsınız. Fizik ve matematik. Aman ne fizik okuduk hem de. Yani o kuantum mekaniksin dibine kadar formülleri ezberlemek. O Fourier transformları filan çok zor oldu yani."
+        },
+        {
+            "end": 834.675,
+            "speaker": "speaker_1",
+            "start": 833.615,
+            "text": "Ve döndün."
+        },
+        {
+            "end": 835.5150000000001,
+            "speaker": "speaker_0",
+            "start": 834.675,
+            "text": "Döndüm. Evet."
+        },
+        {
+            "end": 839.095,
+            "speaker": "speaker_1",
+            "start": 835.5150000000001,
+            "text": "EE Nettaş Nortel. Orada çalıştın."
+        },
+        {
+            "end": 840.455,
+            "speaker": "speaker_0",
+            "start": 839.095,
+            "text": "çalıştım."
+        },
+        {
+            "end": 843.455,
+            "speaker": "speaker_1",
+            "start": 840.455,
+            "text": "Bu bir şans mıydı yoksa oradan dönerken ayarlamış mıydın?"
+        },
+        {
+            "end": 848.835,
+            "speaker": "speaker_0",
+            "start": 843.455,
+            "text": "Hiçbir şeyi ayarlamamıştım. Tamamen şans. Birkaç kere müracaat ettim."
+        },
+        {
+            "end": 852.455,
+            "speaker": "speaker_1",
+            "start": 848.835,
+            "text": "Manchester Elektronik Mühendisliğim deyince Kanada firması seni kaptı."
+        },
+        {
+            "end": 858.655,
+            "speaker": "speaker_0",
+            "start": 852.455,
+            "text": "Çok ilginç bir şey oldu. Ben mülakatları yaptıktan sonra genel müdür yardımcımız Roger da burada-"
+        },
+        {
+            "end": 860.915,
+            "speaker": "speaker_1",
+            "start": 858.655,
+            "text": "Oğluyla ben sınıf arkadaşıydım"
+        },
+        {
+            "end": 888.255,
+            "speaker": "speaker_0",
+            "start": 860.915,
+            "text": "Ben bütün mülakatları bitirdim. Demiş ki aşağıya Suat diye birisi gelmiş. Ben onunla görüşmek istiyorum. Ben daha yeni mühendisim ol-- genel müdür yardımcısıyım. Beni çağırdı odasına. Ben tabii elim ayağım titriyor filan. Öyle sorular sordu ki hiçbirisine cevap veremedim. Ondan sonra eve döndüm. Dedim ki annem bile babam ne oldu? Benim buraya girmemin şansı-- imkanı yok. Hiçbir soruya cevap veremedim. Meğerse o da şeyi öğrenmek istiyormuş, neler olduğunu. Onun için zor sorular sormuş bana. Ve kabul aldım."
+        },
+        {
+            "end": 889.635,
+            "speaker": "speaker_1",
+            "start": 888.255,
+            "text": "Arkasından Cisco."
+        },
+        {
+            "end": 890.315,
+            "speaker": "speaker_0",
+            "start": 889.635,
+            "text": "Evet."
+        },
+        {
+            "end": 892.255,
+            "speaker": "speaker_1",
+            "start": 890.315,
+            "text": "Nereden geldi aklına geçmek?"
+        },
+        {
+            "end": 906.895,
+            "speaker": "speaker_0",
+            "start": 892.255,
+            "text": "Ya açıkçası bu yılların yıllara doğru bu sürekli bağlantılı sistemlerin yok olacağı yavaş yavaş ortaya çıkıyordu. IP dünyasına geçiş ortaya çıkıyordu. Ben de bunu hissettim. Buldular beni."
+        },
+        {
+            "end": 907.475,
+            "speaker": "speaker_1",
+            "start": 906.895,
+            "text": "Anladım."
+        },
+        {
+            "end": 918.495,
+            "speaker": "speaker_0",
+            "start": 907.475,
+            "text": "Ben de örtüştüm açıkçası kariyer olarak. Yoksa gerçekten mükemmel seviyordum. Herkesle çok iyi ilişkilerimiz vardı ama o kararı kariyerimde vermem çok doğru oldu."
+        },
+        {
+            "end": 920.595,
+            "speaker": "speaker_1",
+            "start": 918.495,
+            "text": "Cisco da tabii global olarak sektörünün öncüsü."
+        },
+        {
+            "end": 922.1949999999999,
+            "speaker": "speaker_0",
+            "start": 920.595,
+            "text": "Bir numaraydı."
+        },
+        {
+            "end": 947.495,
+            "speaker": "speaker_1",
+            "start": 922.1949999999999,
+            "text": "Fakat ondan sonra iki Türk şirketinde çalıştın. Birisi bizim sevgili Emin Teknology diğeri de Rıdvan Anedim. İkisinin de kulakları çınlasın. Patron şirketleri demek lazım. Çünkü bir girişimcinin enerjisiyle kurulmuş ve bir yere giden. Oralarda yöneticilik yapmayı nasıl kıyaslarsın Nortel ve sonra?"
+        },
+        {
+            "end": 1008.1510000000001,
+            "speaker": "speaker_0",
+            "start": 947.495,
+            "text": "Tabii şimdi çok uslu şirketlerde böyle bir makine gibi çalışıyorsunuz. Böyle bir tornadan geçmiş gibi iş yapıyorsunuz ve her şey belli. Süreçler, sistemler, neyi ne zaman satacağınız belli. Hatta şeyde bu haftalık çalışmayı da içimize altı yıl kolay kolay sindiremedik. Yani Allah korusun deprem bile olsa haftalık tahminleri vermek zorundasınız. Türk şirketleri biraz farklı tabii.O sistemlere erişmek, o sistemde de çalışmak orada da kolay değil. Ancak her iki çalıştığım yerde de Ar-Ge beni her zaman cezbetmişti. Hem Teknoloji yedi sekiz tane Ar-Ge firması vardı ki, büyük çoğunluğu şimdi hep ayrılarak kendi başlarına gittiler. Hem de ANEL Özellikle bu yenilenebilir enerjideki yatırımlar çok değerli ve verimli oldu. Onun için oralarda devam ettim. Çok uluslu şirketlerde Ar-Ge vardı ama Cisco biraz daha satış ağırlıklıydı. Ki ben bile bir Ar-Ge merkezi kurmayı başarmıştım."
+        },
+        {
+            "end": 1012.431,
+            "speaker": "speaker_1",
+            "start": 1008.1510000000001,
+            "text": "Gerek gerek uluslararası görevlerinde oldun."
+        },
+        {
+            "end": 1012.851,
+            "speaker": "speaker_0",
+            "start": 1012.431,
+            "text": "Aynen öyle."
+        },
+        {
+            "end": 1020.311,
+            "speaker": "speaker_1",
+            "start": 1012.851,
+            "text": "Eee, tabii ki yola başlamış olmanın bir avantajı vardır. Bir Türk olarak nasıl hissettin bu ulusal, uluslararası görevlerde?"
+        },
+        {
+            "end": 1030.751,
+            "speaker": "speaker_0",
+            "start": 1020.311,
+            "text": "çok faydası oldu. O networkü kurmak ve onların dilini konuşabilmek önemli. O bana çok büyük bir avantaj oldu.Manchester İngilizcesi de pek anlaşılmaz derler.Manchester (...cümle arasına gülüyor...) biraz daha."
+        },
+        {
+            "end": 1047.431,
+            "speaker": "speaker_1",
+            "start": 1030.751,
+            "text": "Evet. Bu kariyeri değerlendirdğinde Netaş, Cisco, Teknoloji Holding, Anel, yani profesyonel kariyeri değerlendirdiğinde şurada tereddüttün var. Bu hareketi yapmasaydım dediğin bir kariyer ağı var mıdır?"
+        },
+        {
+            "end": 1053.111,
+            "speaker": "speaker_0",
+            "start": 1047.431,
+            "text": "Yok, hiçbirisinde yok. Hepsinden çok keyifle çalıştım, zevkle çalıştım. Çok şey öğrendim."
+        },
+        {
+            "end": 1055.311,
+            "speaker": "speaker_1",
+            "start": 1053.111,
+            "text": "Bugün olsa farklı yapardım dediğin."
+        },
+        {
+            "end": 1073.611,
+            "speaker": "speaker_0",
+            "start": 1055.311,
+            "text": "Kesinlikle yok. Iıı özellikle işte beraber çalıştığımız o şirket satışlarında emele ileride çok şey öğrendim. Kesinlikle farklı yapmazdım. Hepsi çok güzel deneyimler. Sadece multi... Uluslararası şirketlerde kalsaydım böyle bir deneyim kazanamazdım."
+        },
+        {
+            "end": 1076.451,
+            "speaker": "speaker_1",
+            "start": 1073.611,
+            "text": "İTÜ Ar-Ge Vakfı mıydı?"
+        },
+        {
+            "end": 1079.711,
+            "speaker": "speaker_0",
+            "start": 1076.451,
+            "text": "Ar-Ge kurucusuydu."
+        },
+        {
+            "end": 1105.811,
+            "speaker": "speaker_1",
+            "start": 1079.711,
+            "text": "Bilim mütevelli arkasından bu Elektronik Sanayicileri Derneği mi vardı? Elektronik Sanayicileri Derneğinin kurucusuydun. Buralardaki çalışmaları nasıl değerlendirirsin? Ben gelen konuklarım genelde buraları çok aktif görüyorum ama herkesin görüşü de aynı olmuyor. Yani çok başarılı oldu şu dernek veya bu sivil toplum kuruluşu deniyor. Başarı nasıl ölçülmeli? Sen nasıl ölçersin orada?"
+        },
+        {
+            "end": 1160.131,
+            "speaker": "speaker_0",
+            "start": 1105.811,
+            "text": "Şöyle şöyle ölçerim. Sivil toplum örgütleri eğer topluma bir şey kattıysa ve beğenildiyse, herkes onu takdir ettiyse o zaman başarılı addederim. Mesela her gittiğim ülkede mutlaka bir bilim müzesi gezmişimdir. Çocuklarıma da öğretmişimdir. Bizim kurduğumuz bu Deneme Bilim Merkezi içerisinde, daha sonra Şişli Belediyesi ile yapılan Bilim Merkezi benim en keyifle çalıştığım sivil toplum örgütlerinden bir tanesi oldu. Çünkü onu yaptıktan sonra öğrencilerin orada gördüğü olaylardan etkilenmeleri, deneylerin içerisinde olmaları, velilerle beraber bir şeyi paylaşmaları çok keyif aldığım bir dönem oldu. Onun için kattığım değere bakarım. Beğenildi mi, tut-- görüş olarak hoşlarına gitti mi ve bir şeyler öğrendiler mi? Ooo hep sivil toplum örgütleri böyle çalışmaya çalıştım."
+        },
+        {
+            "end": 1175.211,
+            "speaker": "speaker_1",
+            "start": 1160.131,
+            "text": "Evet, benim de bu Şişli yapım merkezinde oradaki Bilim Merkezi ve Mesubaşı. Orada yönetimdeyken bizim kulakları açılmasına, insan kaynakları direktörümüz Zeynep Hanım, yakınımızdaki bir ilkokul çocuklarını oraya götürmüştü."
+        },
+        {
+            "end": 1176.171,
+            "speaker": "speaker_0",
+            "start": 1175.211,
+            "text": "Oraya götürmüştüm."
+        },
+        {
+            "end": 1183.591,
+            "speaker": "speaker_1",
+            "start": 1176.171,
+            "text": "O çocuklardan ve öğretmenlerden duydum ki hayatımızın en güzel günüymüş. Keşke tüm okullar bunu yapabilse."
+        },
+        {
+            "end": 1183.851,
+            "speaker": "speaker_0",
+            "start": 1183.591,
+            "text": "Tabii."
+        },
+        {
+            "end": 1190.091,
+            "speaker": "speaker_1",
+            "start": 1183.851,
+            "text": "O imkanı bulabilseler. iyi bir satranç oyuncususun."
+        },
+        {
+            "end": 1191.451,
+            "speaker": "speaker_0",
+            "start": 1190.091,
+            "text": "Evet."
+        },
+        {
+            "end": 1195.931,
+            "speaker": "speaker_1",
+            "start": 1191.451,
+            "text": "Yarım kalmış bir voleybol kariyerin var. Bunlar hayatı nasıl etkilemiştir?"
+        },
+        {
+            "end": 1248.371,
+            "speaker": "speaker_0",
+            "start": 1195.931,
+            "text": "Şimdi lisedeyken voleybol oynuyordum. Daha sonra da biz hep iletişim, işte birlikte olmak açısından takımlar kurup voleybola devam ediyorduk. Ancak aşrı tendonunda bir şey oldu. Sakatlık oldu. O da tenis maçında oldu. Bizim her sene bir şeyimiz vardı. Sağolsun Genel Müdürümüz Tanju Argun çok destekliyordu Netaş Biz de yöneticiler olarak her zaman çalışanlarla birlikte bir arada olmak istiyorduk. Tabii voleybol maçlarında attıkları servisleri biraz yumuşak atmaları için uyarılarımız olmuyor değildi ama tendonomu kırmam çok şey oldu açıkçası. Ağrıma gitti. Çünkü çok seviyordum sporu. Özellikle kayak yapmayı, tenis oynamayı. Doktorların bana tavsiyesi artık böyle koşulu sporlar değil de yüzme gibi, yürüyüş gibi, bisiklet gibi sporlarla devam ediyorum."
+        },
+        {
+            "end": 1256.471,
+            "speaker": "speaker_1",
+            "start": 1248.371,
+            "text": "Yönetici olarak bu konuda bir tecrüben var mıdır? Mesela takım sporları yapmış olanların liderlik özellikleri daha çok gelişir gibi bir görüşün var mı?"
+        },
+        {
+            "end": 1283.671,
+            "speaker": "speaker_0",
+            "start": 1256.471,
+            "text": "Kesinlikle var. Ama biraz deminki konuya gelirsek, satrancın yöneticilik anlamındaki katma değeri çok yüksek olduğunu düşünüyorum. Hem Manchester Liginde oynadım hem İstanbul Liginde. Yani o taşları orada görüp de orada yokmuşlarmış gibi görmek ve birkaç hamle sonra nereye gideceğini bilebilmek veya her taşın özelliğini anlayabilmek çok önemli. Yöneticilikte çok faydası oldu bana satranç oynamanın."
+        },
+        {
+            "end": 1291.671,
+            "speaker": "speaker_1",
+            "start": 1283.671,
+            "text": "Yine bir hanımın var. Yine teknoloji alanında çalışan bir oğlun ve bir kızınız var."
+        },
+        {
+            "end": 1292.051,
+            "speaker": "speaker_0",
+            "start": 1291.671,
+            "text": "Evet."
+        },
+        {
+            "end": 1296.131,
+            "speaker": "speaker_1",
+            "start": 1292.051,
+            "text": "Onları zorla mı teknoloji alanına yönlendirdin?"
+        },
+        {
+            "end": 1323.171,
+            "speaker": "speaker_0",
+            "start": 1296.131,
+            "text": "Aslında kendileri karar verdiler. İkisi de kendi alanlarında eğitim gördüler. Ama tabii ki eşimin katma değeri burada benden çokça yüksektir. Her şeyi sağ olsun o halletti. Kızım mesleğinde devam ediyor ama oğlum mesleğinde devam etmedi. Oğlum genetik mühendisi olmasına rağmen kendi restoranını açıp şeflik konusunda ilerlemeye devam ediyor."
+        },
+        {
+            "end": 1323.891,
+            "speaker": "speaker_1",
+            "start": 1323.171,
+            "text": "Çok enteresan."
+        },
+        {
+            "end": 1327.751,
+            "speaker": "speaker_0",
+            "start": 1323.891,
+            "text": "Ben kesinlikle devam dedim. Hiçbir şekilde karışmıyorum dedim."
+        },
+        {
+            "end": 1331.091,
+            "speaker": "speaker_1",
+            "start": 1327.751,
+            "text": "Programa devam edersen yirmi beş sene sonra oğlu konuk ederim."
+        },
+        {
+            "end": 1331.931,
+            "speaker": "speaker_0",
+            "start": 1331.091,
+            "text": "İnşallah. (gülüyor)"
+        },
+        {
+            "end": 1341.231,
+            "speaker": "speaker_1",
+            "start": 1331.931,
+            "text": "Sorarım bu tecrübesini. Evet. Peki gençlere tavsiyeni nasıl değerlendiriyorsun? Ne istiyorsanız onu yapın mı diyorsun? Neler tavsiye ediyorsun?"
+        },
+        {
+            "end": 1355.211,
+            "speaker": "speaker_0",
+            "start": 1341.231,
+            "text": "Ben kesinlikle ne istiyorsanız onu yapın diyorum. Çırpınmaya devam edin. Mutlaka biri birisi destek olacaktır. Bu destek bizlerden olabilir, devletten olabilir, başka kuruluşlardan olabilir. Yeni gördüğünüz her şeyi deneyin diyorum."
+        },
+        {
+            "end": 1359.091,
+            "speaker": "speaker_1",
+            "start": 1355.211,
+            "text": "Beş bin kişinin izlediği bir blogun var. Sürekli yazıyorsun."
+        },
+        {
+            "end": 1360.091,
+            "speaker": "speaker_0",
+            "start": 1359.091,
+            "text": "Evet."
+        },
+        {
+            "end": 1385.231,
+            "speaker": "speaker_1",
+            "start": 1360.091,
+            "text": "videoların var. Bu tür görüşmelere katılıyorsun, konferanslar veriyorsun, üniversitelere gidiyorsun. Önümüzdeki dönemde neler yapmayı düşünüyorsun? Bir kitap beklemeli miyiz? Birden fazla kitap beklemeli miyiz? Aklında neler var? Nasıl anılmak istiyorsun diye soruyorum konuklarıma. Bazıları bugüne kadar yaptıklarım yeter diyor. Bazıları bundan sonra şunları yapmaya başlayacağım diyor. Sen nasıl anılmak istiyorsun?"
+        },
+        {
+            "end": 1414.191,
+            "speaker": "speaker_0",
+            "start": 1385.231,
+            "text": "Ben kesinlikle bir eser bırakmak istiyorum. Özellikle fizik alanında veya bu yönetim felsefeleri alanında. Kitabı da yazdım açıkçası. Ama henüz daha yayına almadık. Üzerinde çalışıyorum biraz daha. Topluma bir şeyler vermiş, topluma katma değer sağlamış birisi olarak anılmak isterim her zaman. Ve hiçbir zaman da bırakmak istemiyorum. Sonuna kadar öğrenmeye devam. Ve öğrendiğimi de paylaşıma devam etmek istiyorum her alanda."
+        },
+        {
+            "end": 1434.991,
+            "speaker": "speaker_1",
+            "start": 1414.191,
+            "text": "Soracağım dedim. Bitmeden sorayım. Kuantum bilgisayarlar. Geçen programlarımızdan birinde Eray Yüksek buradaydı ve şimdiye kadar işlenemeyen verinin bundan sonra kuantum bilgisayarlarla işlenebilir hale geleceği için teknolojik değişimin çok hızlanacağından bahsetti."
+        },
+        {
+            "end": 1435.671,
+            "speaker": "speaker_0",
+            "start": 1434.991,
+            "text": "Doğru."
+        },
+        {
+            "end": 1440.691,
+            "speaker": "speaker_1",
+            "start": 1435.671,
+            "text": "Ne değişecek? Bütün yazılım dilleri mi değişecek? Kuantum bilgisayarlarla ne gelecek hayatımıza?"
+        },
+        {
+            "end": 1494.8310000000001,
+            "speaker": "speaker_0",
+            "start": 1440.691,
+            "text": "Birkaç tane konuda yolun sonuna geldik. Bunlardan bir tanesi de mikroelektronikte. Artık daha fazla küçük bir şey yapamıyoruz. Bu nanometre dedikleri on üzeri eksi dokuzla ölçtükleri seviyelerdeyiz. Onun için başka bir şey yapmak lazım. İşte bu başka bir şey de kuantum bilgisayar olacak. Ama kuantum bilgisayar bildiğimiz veri merkezlerindeki raflara takılan kutular gibi olmayacak. Bir kimya laboratuvarı olacak. Bir fizik laboratuvarı olacak, kuantum bilgisayar. Ve bu kuantum bilgisayarlar eksi iki yüz yetmiş üç derecede, yaşamın bittiği noktada, soğuk alanlarda çalıştırılacaklar. Çünkü bunlar kuantum fiziğinde gözlemlenmediği zaman enerji olan, gözlemlendiği zaman maddeye dönüşen elektronlardan oluşacak. Onun için kuantum bilgisayarın çalışma hızı bir anda milyonlarca bilgiyi hiç araştırma yapmadan, hiç üzerinde işlem yapmadan ortaya koyacak ürünler olacaklar."
+        },
+        {
+            "end": 1496.3310000000001,
+            "speaker": "speaker_1",
+            "start": 1494.8310000000001,
+            "text": "Ne zaman görürüz bunu?"
+        },
+        {
+            "end": 1524.991,
+            "speaker": "speaker_0",
+            "start": 1496.3310000000001,
+            "text": "Ya şu anda çalışmalar devam ediyor.Bence kesin var. Kesin var. Çünkü sahadan büyük bir talep var şu anda. Yetişemiyor bilgisayarların gücü şeklinde. Onun için bu bence çok kısa zamanda gelecek. Geldiği zaman da tüm dünyayı değiştirecek. Çünkü hiçbir yazılım dili de burada çalışmayacak. Çünkü bu tamamen istatistik temelli olacak. Bambaşka bir sistem olacak. Bir kimya laboratuvarı olacak. Daha çok elektronik laboratuvarından çok böyle bir fizik laboratuvarı olacak."
+        },
+        {
+            "end": 1528.731,
+            "speaker": "speaker_1",
+            "start": 1524.991,
+            "text": "Suat Baysak. Sektörün dediği gibi Suat Abi."
+        },
+        {
+            "end": 1529.471,
+            "speaker": "speaker_0",
+            "start": 1528.731,
+            "text": "Sağ olun, çok teşekkür ederim."
+        },
+        {
+            "end": 1530.491,
+            "speaker": "speaker_1",
+            "start": 1529.471,
+            "text": "İyi ki geldin."
+        },
+        {
+            "end": 1556.451,
+            "speaker": "speaker_0",
+            "start": 1530.491,
+            "text": "Her zaman seni konuştuğumuzda da beraber iş yaptığımız dönemde de sonra seni dışarıdan izlediğimde de söylediğin her şeyden aa bugüne kadar bunu böyle anlamamıştım diye düşünüyorum. Bugün de yine öyle bir gün oldu. Umarım bizi izleyenler de hem öğrenmiştir, hem keyifli vakit geçirmiştirlerdir. Efendim sürçülisan ettiysek affola. Tecrübe haftaya burada konuşmaya devam edecek. Sağlıcakla kalın."
+        },
+        {
+            "end": 1569.871,
+            "speaker": "speaker_unknown",
+            "start": 1556.451,
+            "text": "(outro müziği)"
+        }
+    ],
+    "video_metadata": {
+        "title": "Tecrübe Konuşuyor - Suat Baysan | 28.02.2020",
+        "url": "https://www.youtube.com/watch?v=rHlebd_URWU&list=PLCi3Q_-uGtdlCsFXHLDDHBSLyq4BkQ6gZ&index=5"
+    }
+}

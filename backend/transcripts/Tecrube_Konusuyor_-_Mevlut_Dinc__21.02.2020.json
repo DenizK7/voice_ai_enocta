@@ -1,0 +1,614 @@
+{
+    "segments": [
+        {
+            "end": 13.659,
+            "speaker": "speaker_0",
+            "start": 0.079,
+            "text": "(ön çalkalanış müziği)"
+        },
+        {
+            "end": 19.579,
+            "speaker": "speaker_1",
+            "start": 13.659,
+            "text": "Merhaba, ben Hilmi Güvenalt. Tecrübe bu bölümünde konuğum Mevlüt Dinç. Hoş geldin Mevlüt."
+        },
+        {
+            "end": 20.559,
+            "speaker": "speaker_2",
+            "start": 19.579,
+            "text": "Hoş bulduk"
+        },
+        {
+            "end": 68.279,
+            "speaker": "speaker_1",
+            "start": 20.559,
+            "text": "Eee, dijital oyun sektörünün dünyadaki öncülerindensin. de herhalde ilk başlatan birkaç kişiden birisisin. Senden önce kim vardı hatırlamıyorum. Herhalde piyasada da o zaman dijital oyun pek bilinmiyordu da. Ee, bildiğim kadarıyla gidiyorsun ve ilk oyununu yazmaya başlıyorsun. Biz senle ee tanışmıştık bir vesileyle. Metin Aktay arkadaşım vesile olmuştu. Ee, o sırada epey başarılı oyunlar çıkarmış, hatta bunları İngiliz Telekom şirketi British Telecom dahi satmış. Çok başarılı programcı olarak dönmüş ve çeşitli şeyler yapıyordun. Ben bir ortak yönümüzü daha fark ettim. Dün akşam kitabını okurken."
+        },
+        {
+            "end": 68.759,
+            "speaker": "speaker_2",
+            "start": 68.279,
+            "text": "Hı hı."
+        },
+        {
+            "end": 97.519,
+            "speaker": "speaker_1",
+            "start": 68.759,
+            "text": "Kitabın Hayat Bir Oyun. Çok güzel bir kitap. Ben dün akşam, ee hızlıca okudum. Ee 1982 yılında aynı anda ZX Spectrum almışız sen de ben de. (gülerek) Ben almıştım. Televizyona bağlayarak çalıştırmıştım. Benim de ilk bilgisayarım seninki gibi ZX Spectrum Kitap yazdın. Ee, nasıl gidiyor? Kitabı yazdıktan sonra ne gibi tepkiler aldın?"
+        },
+        {
+            "end": 149.199,
+            "speaker": "speaker_2",
+            "start": 97.519,
+            "text": "Şimdi şöyle. Tabii kitap benim ilk deneyimim. Hani oyun yazarlığım var, bilgisayar oyun yazarlığı. O terimi de ben yerleştirdim sanıyorum. Bilgisayar oyun yazarı diye. Şimdi bir de kitap yazdım. çok farklı bir şeymiş onu gördüm. Epeydir de sahalardan uzak kalmıştım. Kitabı yazmam çok iyi geldi. Gerçekten her yerden davetler geliyor. İlk tepkiler inanılmaz olumlu. Duygu dolu mesajlar geliyor oyuncularımdan, akrabalarımdan, arkadaşlarımdan. Yani benim yaptıklarımı hem hem ee biliyorlardı ama oralara nasıl geldim? Arka-arkadaki detayları bilmiyordu insanlar. Oyuncularım da benim oyunlarımı oynarken, oyunlarımızı yaparken bilmedikleri bir sürü ilginç detayları okuyorlar. Çok ilgilerini çekiyor."
+        },
+        {
+            "end": 159.279,
+            "speaker": "speaker_1",
+            "start": 149.199,
+            "text": "Dijital oyun deyince bilgisayarda, oyun konsollerinde, cep telefonlarında oynanan tüm eğlenceli oyunları mı kastediyoruz?"
+        },
+        {
+            "end": 174.599,
+            "speaker": "speaker_2",
+            "start": 159.279,
+            "text": "Tabii, aslında artık dijital oyun dediğimizde adı da Dijital Oyunlar güzel bir terim aslında. Ben hatta 2011 yılında dünyanın ilk Dijital Oyunlar kurmayı başardım ülkemizde, ee-"
+        },
+        {
+            "end": 175.879,
+            "speaker": "speaker_1",
+            "start": 174.599,
+            "text": "Gençlik Spor Bakanlığına bağlı."
+        },
+        {
+            "end": 181.219,
+            "speaker": "speaker_2",
+            "start": 175.879,
+            "text": "Aynen ilki. Hatta geçen sene E-Spor Federasyonu diye yeniden-"
+        },
+        {
+            "end": 181.799,
+            "speaker": "speaker_1",
+            "start": 181.219,
+            "text": "Kuruldu."
+        },
+        {
+            "end": 209.239,
+            "speaker": "speaker_2",
+            "start": 181.799,
+            "text": "Kuruldu. Ee, şimdi inanılmaz bir geçmişi var. Ee, yılların başında aslında ilk tohumlarını attı oyun sektörü. İngiltere de öncü ülkelerden biriydi. Ben de tesadüfen o ülkede o yıllarda olduğum için ve bir fabrikada çalışırken işçi olarak, ee bir arkadaşımın aşırı ısrarı üzerine söylediğin gibi ben de ZX Spectrum-Vino Dos Santos her yerde-"
+        },
+        {
+            "end": 210.639,
+            "speaker": "speaker_1",
+            "start": 209.239,
+            "text": "Kitabı okuduğumu..."
+        },
+        {
+            "end": 213.659,
+            "speaker": "speaker_2",
+            "start": 210.639,
+            "text": "Kanıtlandım. Teşekkür ederim gerçekten. (gülerek)"
+        },
+        {
+            "end": 215.159,
+            "speaker": "speaker_1",
+            "start": 213.659,
+            "text": "Futbolcuya mı girmişim ki? (güler)"
+        },
+        {
+            "end": 247.539,
+            "speaker": "speaker_2",
+            "start": 215.159,
+            "text": "Yaşıyorsa kulakları çınlasın. Her zaman, her yerde onun adını zikrettim. Gerçekten hayatımı değiştirmiş oldu, vesile oldu. Ve bütün dergilerde de röportajlarda onun adından bahsettim. Yıllar sonra tekrar görüştük. Çok duygulu dolu anlar yaşamıştık. Çok güzeldi. Şimdi gerçekten oyun sektörü inanılmaz bir boyuta geldi artık. O ilk yıllarda işte yıllardan daha sonra işte konsollarla büyük bir giriş yapması-"
+        },
+        {
+            "end": 249.259,
+            "speaker": "speaker_1",
+            "start": 247.539,
+            "text": "Konsol dedikerken PlayStation, Xbox-"
+        },
+        {
+            "end": 263.379,
+            "speaker": "speaker_2",
+            "start": 249.259,
+            "text": "PlayStation, Xbox ve daha sonra da işte işte Daha sonra çok akıllıca Android sistemiyle birlikte mobil oyunlar da inanılmaz bir ivmeyle büyüyor."
+        },
+        {
+            "end": 268.179,
+            "speaker": "speaker_1",
+            "start": 263.379,
+            "text": "Ve kullananların yüzde doksanı mı oyun oynamak için kullanıyor. Öyle bir şeyde istatistik var."
+        },
+        {
+            "end": 283.979,
+            "speaker": "speaker_2",
+            "start": 268.179,
+            "text": "İlk Facebook, ee, ee büyümeye başladığında yüzde seksen oyun için kullanılıyordu. Ama Facebook biraz oyun tarafında çok geride kaldı. Çünkü mobilin bu inanılmaz büyümesi ve bu akıllıca-"
+        },
+        {
+            "end": 287.759,
+            "speaker": "speaker_1",
+            "start": 283.979,
+            "text": "Dijital oyunlar neyin yerini aldı? Sinemanın yerini mi aldı?"
+        },
+        {
+            "end": 311.299,
+            "speaker": "speaker_2",
+            "start": 287.759,
+            "text": "Aslında sinemanın tam olarak yerini aldı diyemeyiz. Ee, ama sonuçta en önemli eğlence sektörü olmayı başardı. Hem de kısa sürede. İşte sinemayı örnek verelim mesela. Ben döndüğüm 2000 yılında bile otuz küsur yıllık kısa bir geçmişine rağmen çok köklü olan büyük farkla geçmeyi başardı oyun sektörü."
+        },
+        {
+            "end": 331.459,
+            "speaker": "speaker_1",
+            "start": 311.299,
+            "text": "Bu sektörün de yıldızları var. Senin gibi yazılımcı, kurgucu insanlar var. Hatta okuduğum bazılarının senaryo yazarları da varmış ayrı. Yani sen bildiğim kadarıyla kendi hikâyelerini kendin yazıyorsun. Ayrı senaryo yazarları oluyormuş. Bir taraftan da yazılımcılar, kurgucular oluyormuş. Nasıl çalışıyor bu düzen?"
+        },
+        {
+            "end": 395.039,
+            "speaker": "speaker_2",
+            "start": 331.459,
+            "text": "Şimdi ben yıllardır ülkemizdeki oyun sektörünün gelişimine destek ve katkı sağlamaya çalışırken, aynı zamanda oyunun ne kadar geniş kapsamlı olduğunu, çok farklı disiplinleri başarılı bir şekilde bir araya getirdiğini hep anlatmaya çalıştım. Bunun da ülkemiz için çok önemli olduğunu düşünüyorum. Şöyle ki, aslında oyun mühendislik değil, mühendislik hiç değil. Zaten kitabımdan da biliyorsun. Ben iktisat mezunuyum. Ne bilgisayarlara ne oyunlara hiçbir ilgim yokken dünya çapında oyunlara imza atmayı başardım. Bu tamamen doğal yetenek aslında. tabi içinde mühendislik var ama belki yüzde on falandır. İçinde senaryo var dediğin gibi. Ee ses, müzik, işte programlama, görsel, grafik, iki boyut, üç boyut... İnanılmaz geniş bir alanı kapsıyor. Ve şu anda başarılı olanların yüzde sekseni mühendislikten gelmiyor aslında. Dolayısıyla ülkemiz için de müthiş bir fırsat sunuyor."
+        },
+        {
+            "end": 398.819,
+            "speaker": "speaker_1",
+            "start": 395.039,
+            "text": "Milyardan fazla insan oynuyor galiba."
+        },
+        {
+            "end": 401.059,
+            "speaker": "speaker_2",
+            "start": 398.819,
+            "text": "Yanılmıyorsam iki nokta üç milyar-"
+        },
+        {
+            "end": 403.299,
+            "speaker": "speaker_1",
+            "start": 401.059,
+            "text": "İki nokta üç milyar oyuncu var."
+        },
+        {
+            "end": 404.659,
+            "speaker": "speaker_2",
+            "start": 403.299,
+            "text": "Her gün oyun oynuyor."
+        },
+        {
+            "end": 405.899,
+            "speaker": "speaker_1",
+            "start": 404.659,
+            "text": "Her gün oyun oynuyor."
+        },
+        {
+            "end": 430.979,
+            "speaker": "speaker_2",
+            "start": 405.899,
+            "text": "Ve bunun yarısı da para ödüyor. Yani her gün binlerce abartmıyorum oyun çıkıyor. Yani acayip bir sektör oluştu şu anda ve gerçekten de özellikle mobil büyümeye devam ediyor. Şu anda yüz elli milyar dolar oyun sektörünün cirosu. Önümüzdeki dört, beş yıl içerisinde yüz seksen, iki yüz milyar dolar olacak eminim. Ve bunun yarısı mobil."
+        },
+        {
+            "end": 471.419,
+            "speaker": "speaker_1",
+            "start": 430.979,
+            "text": "Bu işte iyi para var diye düşünüyorum. Çünkü, ee bir şirketimiz yüz milyon dolar civarında bir şeye satılmıştı. Sonra iki yüz elli milyon dolar civarında bir şirket satıldı. Yine yakınlarda iki yüz, iki yüz elli milyon dolarlık bir şey daha oldu. İzleyicilerimize bunu söylemek lazım. Bu rakamlar belki yüzde elli kişinin maksimum çalıştığı, ee bir veya iki oyun üreten şirketlerin satışından başka bir şey-- daha büyük bir oyun şirketine satışından elde edilen tutarı ifade ediyor. Ee inanılmaz rakamlar. Peki nereden para kazanılır bu işte?"
+        },
+        {
+            "end": 519.9150000000001,
+            "speaker": "speaker_2",
+            "start": 471.419,
+            "text": "Şimdi şöyle, ee konsol oyunları çok farklı. Onları direkt para verip satın alıyorsunuz oyunu. işte online oyunlar var. Bunlar ücretsiz oynanıyor ama oyun içinde özellikleri var satın alabildiğiniz. Mobildeki iş modeli ağırlıklı olarak oyun içindeki reklam ve oyun içindeki özelliklerin.Ve oradaki, ee satışa sunulan, ee item dediğimiz eşyaların, ee şeyiyle oluyor. Elde edilen geliriyle oluyor ve inanılmaz gelirler dönüyor aslında. Yani günde iki üç milyon dolar gelir elde eden oyunlar var. Mesela bir şirket var Supercell diye. Yıllık cirosu bir milyar dolar. İki tane oyunu var."
+        },
+        {
+            "end": 522.015,
+            "speaker": "speaker_1",
+            "start": 519.9150000000001,
+            "text": "Yani bu şirketi satarak falan değil kendisi..."
+        },
+        {
+            "end": 529.275,
+            "speaker": "speaker_2",
+            "start": 522.015,
+            "text": "Zaten iki tane oyun yapmış ve her yıl o iki oyundan bir milyarı aşkın ciro yapıyor her yıl. Inanılmaz bir şey."
+        },
+        {
+            "end": 565.415,
+            "speaker": "speaker_1",
+            "start": 529.275,
+            "text": "Bu işin pazarlamasının içinde bilhassa E sporda yıldız oyuncuların transfer edilmesi de varmış. Ben E spor, bilhassa bizim de bu işe yatırım yaptı, E spor takımı kurdu, Galatasaray kurdu, başkalarının da var. Orada yabancı oyuncular oynuyor. Allah Allah dedim. Bu arkadaşlar nereden bulunur? Meğersem bunlar yıldızmış.Yani futbolun gibi şey varmış. Onları transfer ettiğin zaman kendi oyununu oynamaya onlarla beraber yüz binlerce kişi o oyunu oynamaya başlıyormuş."
+        },
+        {
+            "end": 614.475,
+            "speaker": "speaker_2",
+            "start": 565.415,
+            "text": "Evet, evet. Şu anda mesela ben Dijital Oyunlar kurmuştum. Hiç unutmuyorum o yıllarda kimi yani nereden çıktı bu şimdi Gençlik ve Spor Bakanlığına bağlı devleti bulaştırdı diye mızmızadanlar oldu. Klasik Türkiye. Kimi de oyunun sporu mu olur falan diyordu. Şu anda herkes esporda yatıp kalkıyor. Ve gerçekten dediğin gibi şu anda espor inanılmaz bir büyüme gösteriyor ve senin de söylediğin gibi oyun sektörünün olmaya başladı. Hatta çok iyi oynayanlar, çok iyi oyuncuların kanalları var. Bunlar bazı oyunları o kadar iyi oynuyorlar ki yüz binlerce, hatta bazılarının milyonlarca izleyicisi var."
+        },
+        {
+            "end": 633.675,
+            "speaker": "speaker_1",
+            "start": 614.475,
+            "text": "Mevlüt, iyi bir oyun nedir? İyi para kazandıran oyun mudur? En son teknolojiye uygun yazılmış oyun mudur? Uzun süreli oynanan mıdır? Mesela senin çok meşhur bir oyunun var. Yani programı seyreden orta yaşlılar bile biliyor olabilir. İstanbul Kıyamet Vakti öyle değil mi? İstanbul Kıyamet vakti. Bu oyunu ne zaman yazmıştın?"
+        },
+        {
+            "end": 636.115,
+            "speaker": "speaker_2",
+            "start": 633.675,
+            "text": "Bu oyunu ilk 2004 yılında biz-"
+        },
+        {
+            "end": 637.5550000000001,
+            "speaker": "speaker_1",
+            "start": 636.115,
+            "text": "On altı yıldır hâlâ oynanıyor."
+        },
+        {
+            "end": 652.395,
+            "speaker": "speaker_2",
+            "start": 637.5550000000001,
+            "text": "Altı yedi kişilik küçük bir ekiple hayata geçirmeye çalıştık. Gerçekten ülkemiz için önemli bir adımdı ve hâlâ oynanıyor. Ben ayrıldıktan sonra maalesef hem Sobe hem oyunların çoğu kapatıldı. Ama ikabe hâlâ devam ediyor."
+        },
+        {
+            "end": 655.9350000000001,
+            "speaker": "speaker_1",
+            "start": 652.395,
+            "text": "Ona da bir değinelim. Sen 2000 yılında döndün."
+        },
+        {
+            "end": 656.875,
+            "speaker": "speaker_2",
+            "start": 655.9350000000001,
+            "text": "2000 yılının sonunda."
+        },
+        {
+            "end": 684.335,
+            "speaker": "speaker_1",
+            "start": 656.875,
+            "text": "2000 yılında döndün ve oyun sektöründe dijital oyun sektörünü başlattın. Sobe diye bir şirket kurdun ve mı bunu Türk Telekom Türk Paul Dogan CEO iken, o sırada Paul Doğan epey bir alışveriş yapıyordu. Teknoloji şirketlerini topluyordu. Türk Telekom çatısı altında, senin şirketi de satın aldı. Neler düşündün şirketi satarken?"
+        },
+        {
+            "end": 724.235,
+            "speaker": "speaker_2",
+            "start": 684.335,
+            "text": "Ben gelmeden önce şirketimi satın almak istedi İngiliz şirketler. Ben satmadım. Çünkü orada yaptığım çalışmaları ülkeme mal etmek istedim. Daha sonra 2009 yılında böyle bir fırsat gelince Paul çok vizyoner birisi onun vizyonuyla şirketi Türk Telekom grubuna kattı ve ilk defa ben şirketimi satmış oldum. İlk defa otuz küsur yıllık kariyerimde ve inanın para filan değildi o. Bu arada ilk satılan şirket oldu tabii oyun şirketi. Ben hem Sobanın hem ülkemizdeki oyun sektörünün önü açılır düşüncesiyle seve seve yaptım bunu."
+        },
+        {
+            "end": 733.175,
+            "speaker": "speaker_1",
+            "start": 724.235,
+            "text": "Esasında dünyada bu bir trenddi. Sen ilk programını da British satmıştı. Daha ortada cep telefonu falan yokken."
+        },
+        {
+            "end": 750.2950000000001,
+            "speaker": "speaker_2",
+            "start": 733.175,
+            "text": "Tabii, tabii o zaman tabi 85 yılından bahsediyoruz. Ve çok ilginç kader kabloları, ağları değil de kabloları örmüşler. 85 yılında ilk oyunumu İngiliz çok sonra ülkeme dönüp burada kurduğum şirketi de Türk sattım. Evet."
+        },
+        {
+            "end": 754.815,
+            "speaker": "speaker_1",
+            "start": 750.2950000000001,
+            "text": "Oyun tasarımcısı olmak nasıl olur? Şimdi ne gibi özelliklerin olması gerekir?"
+        },
+        {
+            "end": 805.235,
+            "speaker": "speaker_2",
+            "start": 754.815,
+            "text": "Şimdi şöyle, kesin ben hep başından beri şunu söylüyorum. Yani gerçekten doğal bir yetenek bu aslında. Oyunlara bir yatkınlık, yetkinlik gerekiyor. Bu da işte ağırlıklı, eğer programcı olmak istiyorsanız mantık aslında logic dediğimiz. Demek ki o konuda iyiymişim. O çıktı ortaya. Çünkü benim matematiğim çok iyi değil mesela. Bir de oyunun bir sürü dedim ya biraz önce farklı disiplinleri var. Hani bu sadece iyi bir tasarımcı olabilirsiniz. Oyun mekanikleri, arayüz. Bunlar programlama gerektirmiyor. Ya oyunda dedim ya, programlama belki yüzde on. Çok iyi bir fikir gerektiriyor ve iyi bir oyun mekaniği gerektiriyor. Arayüz, oyuncu nasıl oynayacak? Oyuncuyu oyunda tutmamız için neler yapmamız gerekiyor vesaire gibi böyle mekanikler önemli."
+        },
+        {
+            "end": 811.135,
+            "speaker": "speaker_1",
+            "start": 805.235,
+            "text": "Bu kafana güzel fikir geldi. Ne yapıyorsun? Bir takım mı kuruyorsun?"
+        },
+        {
+            "end": 842.415,
+            "speaker": "speaker_2",
+            "start": 811.135,
+            "text": "Yok, ben zaten başlangıçta tek başıma yapıyordum. Daha sonra yanıma görsel, ben çöp adam çizemediğim için bir grafiker arkadaşla hep çalıştım. Kodlamayı, tasarımı, oyunun tasarımını ben yaptım. Ama tabii projeler, oyunlar büyüdükçe ekip kuruyorsunuz. Mesela biz İstanbul Kıyamet vaktini altı yedi kişiyle ama çok yetenekli arkadaşlarım vardı ekipte. Normalde öyle bir oyun altmış, yetmiş hatta yüz, yüz elli kişiyle filan yapılıyor. Yani gerçekten çok zor."
+        },
+        {
+            "end": 846.115,
+            "speaker": "speaker_1",
+            "start": 842.415,
+            "text": "ödül aldığın oyunların var. Enduro Racer mıydı?"
+        },
+        {
+            "end": 852.735,
+            "speaker": "speaker_2",
+            "start": 846.115,
+            "text": "Enduro Racer var. Street. Street Racer var. Street Racer var. hocayı bile oyuna getirdim."
+        },
+        {
+            "end": 859.115,
+            "speaker": "speaker_1",
+            "start": 852.735,
+            "text": "Bu yarış oyunları esasında bu arcade lerde en çok oynanan oyunlardır. Onları hep tek başına mı yaptın?"
+        },
+        {
+            "end": 888.0350000000001,
+            "speaker": "speaker_2",
+            "start": 859.115,
+            "text": "Yok. Şimdi bir ara yarış oyunları çok popülerdi. Şimdi Atari bu salonlardaki büyük arcade makineleri. Oradan uyarlanıyordu bayağı oyunlar. Çok zordu tabii. O makineler çok güçlüydü. Commodore bu oyunları uyarlamak bayağı bir beceri gerektiriyordu. O ilk yıllarda gerçekten sektörü kuranlar da liseli gençlerdi aslında. Lise terk. 16-17 yaşında."
+        },
+        {
+            "end": 912.695,
+            "speaker": "speaker_1",
+            "start": 888.0350000000001,
+            "text": "Peki bu oyun oynayan çocukların sosyalleşmesi konusunda çok ciddi bir tartışma var. Anne babalar. Çocuklar, evet, diğer oyuncularla çok oyunculu oyunlarda internette hiç tanımadıkları Koreli ile Meksikalı ile arkadaş oluyor. İngilizcesini bile geliştiriyor. Ama normal iki kişi karşı karşıya gelip de konuşmasını da beceremiyor diyorlar. Ne diyorsun bu konuda?"
+        },
+        {
+            "end": 919.835,
+            "speaker": "speaker_2",
+            "start": 912.695,
+            "text": "Oyun aslında suçlu olan oyun değil, zaman yönetimi. İşte dediğim gibi eskiden-"
+        },
+        {
+            "end": 923.175,
+            "speaker": "speaker_1",
+            "start": 919.835,
+            "text": "Ama cazibesi de başka her şeyden daha fazla oluyor yani."
+        },
+        {
+            "end": 943.155,
+            "speaker": "speaker_2",
+            "start": 923.175,
+            "text": "Öyle değil mi? Şöyle bir şey var, onu söyleyeceğim hemen. Çizgi roman. Sonra televizyon çıktı biliyorsunuz. Akşam sabah dizi izler olduk. Dolayısıyla sorun aslında bizda, zaman yönetiminde. Tabii oyunlarda olup diğerlerinde olmayan bir şey var. Gerçekten oyunda kaptırıp gitmek gibi bir şey var. Onu kabul etmemiz lazım."
+        },
+        {
+            "end": 954.495,
+            "speaker": "speaker_1",
+            "start": 943.155,
+            "text": "Bilhassa filmlerde çok işleniyor bu. Yani adam oyun oynarken sızıp kalıyor. Adam oyun oynarken günlerin geçtiğini nasıl anlamıyor? Yani bu dert çok üniversal bir dert. derdi değildir."
+        },
+        {
+            "end": 961.2550000000001,
+            "speaker": "speaker_2",
+            "start": 954.495,
+            "text": "Sektör bu kadar büyüyünce, bu kadar öne çıkınca böyle haberler için de önemli kaynak oluyor."
+        },
+        {
+            "end": 964.415,
+            "speaker": "speaker_1",
+            "start": 961.2550000000001,
+            "text": "Diyorsun ki bunun esasında bütün gün televizyon seyreden adamdan farkı yok."
+        },
+        {
+            "end": 983.184,
+            "speaker": "speaker_2",
+            "start": 964.415,
+            "text": "Kesinlikle yok. Yani bence çok az farkı var. Yani oyundaki tek şey. Bir daha söylüyorum. Kaptırıp gidebiliyorsunuz orada. Yani ne kadar zaman harcadığınızı unutup-- unutabiliyorsanız. Ben.O yüzden federasyonu kurduğumda, hani ikide bir federasyon derken hani şey yapmak istemiyorum ama sistem-"
+        },
+        {
+            "end": 983.943,
+            "speaker": "speaker_1",
+            "start": 983.184,
+            "text": "Artık zaten-"
+        },
+        {
+            "end": 1001.103,
+            "speaker": "speaker_2",
+            "start": 983.943,
+            "text": "Şey çok önemli. Orada ben mesela federasyon başkanı olarak şunu önermiştim. Ee, bütün oyun yapımcılarının bir uyarı sistemi koymalarını oyunda. Mesela bir saattir oyun oynuyorsun, iki saattir oynuyorsun. En azından oyuncuya şeyi-"
+        },
+        {
+            "end": 1003.9029999999999,
+            "speaker": "speaker_1",
+            "start": 1001.103,
+            "text": "Vay be zaman nasıl geçmiş anlamadım diyen oyuncuya-"
+        },
+        {
+            "end": 1015.6429999999999,
+            "speaker": "speaker_2",
+            "start": 1003.9029999999999,
+            "text": "Bazen hani bir yarım saat oynayayım diye oturup dört, beş, on saat oynayanlar var. Gerçekten kaptırıp gidebiliyorsunuz. Ama onun dışında gerçekten inanılmaz pozitif şeyler var."
+        },
+        {
+            "end": 1023.2629999999999,
+            "speaker": "speaker_1",
+            "start": 1015.6429999999999,
+            "text": "Peki bu oyun kurgucusu, bunu bir iş olarak gören insanlar açısından başarı şansı nedir?"
+        },
+        {
+            "end": 1036.5629999999999,
+            "speaker": "speaker_2",
+            "start": 1023.2629999999999,
+            "text": "Sektör büyüdükçe içerik kalitesi kadar içeriğin sunumu, pazarlanması daha da önemli hale geldi. Şu anda bu işi yapan profesyonel şirketler var. İşi tamamen pazarlama."
+        },
+        {
+            "end": 1078.423,
+            "speaker": "speaker_1",
+            "start": 1036.5629999999999,
+            "text": "Ee, bütün izleyicilerimize kitabını alıp okumalarını tavsiye ederim. Kitabında gelirlerini bırakmışsın. Bence çok güzel bir hareket. Bu kitabın birçok kişi tarafından okunmasını sadece oyun sektörü açısından değil, senin şahsi hikayeni merak edenler açısından da epey de detaylı hatırlayıp yazmışsın. Ordu Gölköy Cihadiye doğuyorsun ve birkaç yıl sonra da baban gurbete iş diye gidiyor. Bir daha da gelmiyor. Annen seni büyütüyor. 79 yılında bir kelime İngilizce bilmez iken tanıştığın bir İngiliz kızla beraber evlenip-"
+        },
+        {
+            "end": 1079.543,
+            "speaker": "speaker_2",
+            "start": 1078.423,
+            "text": "O da bir kelime Türkçe bilmiyordu."
+        },
+        {
+            "end": 1092.923,
+            "speaker": "speaker_1",
+            "start": 1079.543,
+            "text": "O da bir kelime Türkçe bilmiyordu. Bu süreci değerlendirirsen, ee, Ordu Gölköy, annesinin yetiştirdiği çocuk seni ileride nasıl etkilemiştir?"
+        },
+        {
+            "end": 1141.023,
+            "speaker": "speaker_2",
+            "start": 1092.923,
+            "text": "Ee, şimdi aslında hayat bir oyun. Cuk diye oturuyor benim hayatımı ve eminim okurlarım da kitabı okuduktan sonra bana katılacaklar diye düşünüyorum. Çünkü ben hayatı bir nehre benzetiyorum. Yani bir büyük bir gemi gibi. Hep böyle ilerliyoruz ama öyle kolay kolay sağa sola manevra etmek mümkün değil. Biz de düz gitmiyoruz tabii. Nehir kıvrılıyor, bazen önümüze engeller çıkıyor. Sağından solundan, bazen üzerinden, bazen de bekleyerek, hayatı erteleyerek... Ya ben mesela hayatın bu yaşıma geldim. Belki iki kere ciddi bir şekilde oturup karar verdiğimi hatırlıyorum. Onun dışında hayat, işte kader mi deriz adına bilmiyorum. Yani kimi şans, herkes bir şey diyor."
+        },
+        {
+            "end": 1143.023,
+            "speaker": "speaker_1",
+            "start": 1141.023,
+            "text": "Tam olarak anlayamadığımız için bir şey koyuyoruz adına."
+        },
+        {
+            "end": 1178.283,
+            "speaker": "speaker_2",
+            "start": 1143.023,
+            "text": "Ama müthiş bir şey var. Kesinlikle inanıyorum ben buna. Çünkü yani bir o köyden çıkıp tesadüfen o zaman ve orada hiç aklımın ucundan geçmeyen, bilgisayarlarla hiç ilgim yokken dünya çapında işler yapmak, sonra tekrar ülkeme gelip burada profesyonel oyun sektörünün öncülüğünü yapmak çok az insana nasip olur. Ve bu tamamen kaderin bir cilvesi yani. Ben başka türlü tanımlayamıyorum. Onun için dediğim gibi, hani kitap gerçekten çok ilginç. Yaşam öyküsü ve başarı öyküsünü kapsadığı için herkesin ilgisini çekecek diye düşünüyorum."
+        },
+        {
+            "end": 1181.123,
+            "speaker": "speaker_1",
+            "start": 1178.283,
+            "text": "Epey de bir sıkıntılı dönemlerini de anlatıyor."
+        },
+        {
+            "end": 1181.403,
+            "speaker": "speaker_2",
+            "start": 1181.123,
+            "text": "Çok. Tabii, tabii."
+        },
+        {
+            "end": 1192.203,
+            "speaker": "speaker_1",
+            "start": 1181.403,
+            "text": "Hatta bir dönem depresyona girdim diyorsun. Onları da anlatıyorsun.İlk eşin Cennet bir oğlun var, Nejati. J ile yazılan Nejati."
+        },
+        {
+            "end": 1193.123,
+            "speaker": "speaker_2",
+            "start": 1192.203,
+            "text": "Neler çekti çocuk."
+        },
+        {
+            "end": 1194.3429999999998,
+            "speaker": "speaker_1",
+            "start": 1193.123,
+            "text": "Babanın ismi miydi?"
+        },
+        {
+            "end": 1196.8429999999998,
+            "speaker": "speaker_2",
+            "start": 1194.3429999999998,
+            "text": "Babanın ismi. Köyde çok ilginç benim doğum-"
+        },
+        {
+            "end": 1197.943,
+            "speaker": "speaker_1",
+            "start": 1196.8429999999998,
+            "text": "Gürcü kökenli bir aile."
+        },
+        {
+            "end": 1226.103,
+            "speaker": "speaker_2",
+            "start": 1197.943,
+            "text": "Gürcü kökenli bir aile ve ben rahmetli dayım beni nüfusa yazdırıyor. Herhalde iki üç sene sonra filan orada hemen doğunca nüfusa yazdırmak mümkün değil. Zaten belki de martta doğuyorsa eminim kar kış (gülerek) zaten öyle bir şansı yokmuştur. Sonra da işte ekranlarımla aynı yaşta okula, aynı anda okula gideyim diye herhalde işte Mayıs diye yazdırmış. (gülerek) de babamın adı diye koydum çocuğa."
+        },
+        {
+            "end": 1227.663,
+            "speaker": "speaker_1",
+            "start": 1226.103,
+            "text": "Babanın gibi J ile yazdı."
+        },
+        {
+            "end": 1230.603,
+            "speaker": "speaker_2",
+            "start": 1227.663,
+            "text": "J ile evet. Neler çekti çocuk"
+        },
+        {
+            "end": 1232.703,
+            "speaker": "speaker_1",
+            "start": 1230.603,
+            "text": "Sonra Gülsin evleniyorsun."
+        },
+        {
+            "end": 1234.403,
+            "speaker": "speaker_2",
+            "start": 1232.703,
+            "text": "Sonra Gülsin evleniyorum."
+        },
+        {
+            "end": 1235.623,
+            "speaker": "speaker_1",
+            "start": 1234.403,
+            "text": "Oradan da Sıla."
+        },
+        {
+            "end": 1236.763,
+            "speaker": "speaker_2",
+            "start": 1235.623,
+            "text": "Oradan da Sıla, evet."
+        },
+        {
+            "end": 1248.163,
+            "speaker": "speaker_1",
+            "start": 1236.763,
+            "text": "Şimdi çocuklarına neler anlatıyorsun? Bu otuz beş yıllık iş hayatın, işte altmış küsur yıllık hayatın sonucunda neler tavsiye ediyorsun?"
+        },
+        {
+            "end": 1315.143,
+            "speaker": "speaker_2",
+            "start": 1248.163,
+            "text": "Ya çocuklarla çok zor olduğunu öğrendim bunun. Hani aile ve çocuk ilişkisi gerçekten çok kompleks bir şey. Ee, anne baba hep kendilerinin olmak istediği şeyi çocuklara empoze ediyor. Onu çok net görüyorum etrafımdan. Ben onu yapmamaya çalışıyorum. Çok zor bir şey. Tabii oğlum özellikle oyunlarla büyüdü. Hem yaptığım çalışmalarda küçük yaştan beri içinde oldu bir şekilde. Tester oldu. O meşhur oyunların içine adını koydum. Ee, kreditlerde çıkıyor falan. İşte sonra kızım, işte burada yaptığım çalışmalarda İstanbul girdi, işte ismiyle falan. Şimdi kitaptan çocuk oyuncular okuyor, gülüyorlar. İnanılmaz yorumlar alıyorum. Mesela Sıla, Sıla diyemezdi, Dida derdi. Mesela ben takma isim olarak oyun yöneticisi gibi oyuna girdim mesela. Hiçbir oyuncum bilmiyordu Mevlüt Dinç olduğumu. Sobe çalışanı gibi giriyordum yönetici olarak. Inanılmaz sohbetler dönüyordu orada ve gerçekten doktora tezi konular var aslında."
+        },
+        {
+            "end": 1362.663,
+            "speaker": "speaker_1",
+            "start": 1315.143,
+            "text": "Peki nasıl anılmak istiyorsun? Çünkü bir taraftan Teknik Üniversite bir taraftan diğer üniversitelerde konferanslar veriyorsun. Oyun sektörüne girmeye çalışan gençlere akıl veriyorsun, tecrübelerini aktarıyorsun. Mevdinç olarak zaten bir efsanesin. Bütün Türk oyunlarını, işte benim oğlumun jenerasyonu ben senle tanıştığımı söylediğim zaman bana farklı bakmaya başlamıştı. Oğlum oğlu Ahmet keza bir fenomendir Mevdinç demişti. O zaman seni bir Mevdinç olarak biliyorlardı. Mevlüt ziyade. Mevdinç olarak banılacaksın. Neler hatırlayacak o zamanın elli sene sonra, yüz yıl sonra?"
+        },
+        {
+            "end": 1437.503,
+            "speaker": "speaker_2",
+            "start": 1362.663,
+            "text": "Şimdi vallahi çok güzel bir soru. Hilmi ciğim öncelikle teşekkür ederim. Şeyi fark ettim aslında, eee, bir eser yaratmak, geriye eser bırakmak çok değerli bir şey. Mesela, eee, sektöre tanıklık eden sayılı insanlardan biriyim. Seksenli yılların başında tesadüfen bu işe bulaştığım için. Bu çok büyük bir gurur kaynağı benim için. Bir de şansa eseri çok güzel işlere imza attığım için o oyunlar hâlâ anılıyor, sayılıyor. İşte retro dediğimiz bu eski oyunların inanılmaz büyük bir topluluğu var.Korkunç bir şey, yani inanılmaz bir şey. Ben mesela şu anda, eee, benim yıllar önce, otuz küsur yıl önce yaptığım oyunları satın almak için bir büyük oyun şirketiyle görüşmeler yapıyorum mesela. Düşünün ne kadar önemli değer yaratmak, marka yaratmak ve onun sahibi olmak. Telif hakları vesaire. Bunlar çok değerli şeyler. Ben yıllarca bunları da ülkemde anlatmaya çalıştım. Dolayısıyla şimdi kitapla bir eser daha bırakmış oluyorum geriye. Eee, işte ülkeme de dönüp sektöre önayak olmak ayrı bir gurur kaynağı. Eee, çok az insana nasip olur. Umarım bu-"
+        },
+        {
+            "end": 1444.023,
+            "speaker": "speaker_1",
+            "start": 1437.503,
+            "text": "Bu konuda biraz hassas olduğunu düşünüyorum. Çünkü bu Citroen C4 için yaptığın bir robot oyunu vardı galiba."
+        },
+        {
+            "end": 1445.443,
+            "speaker": "speaker_2",
+            "start": 1444.023,
+            "text": "Evet,"
+        },
+        {
+            "end": 1455.703,
+            "speaker": "speaker_1",
+            "start": 1445.443,
+            "text": "O oyun esasında Türk pazarı için yapılmışken yurt dışından da çok talep alıyor. Ve tabii buna hemen İngilizcesini, İspanyolcasını hazırla diyorlar. Ve sen diyorsun ki hayır, onlar Türkçe öğrensin."
+        },
+        {
+            "end": 1537.083,
+            "speaker": "speaker_2",
+            "start": 1455.703,
+            "text": "Bravo! İyi, iyi.Aynen öyle. Şöyle, ben çünkü ilk geldiğimde tanıştığım herkes şundan şikayet ediyordu. Abi hiç Türkçe desteği yok. Bu İngilizce oyunlar oynamakta zorlanıyoruz filan. Tabii bayağı da İngilizce öğrenmişler bu sayede. Ama, ee, son beş altı yıllık bir olay aslında. Türkçe desteği yabancı oyunlarda. Dolayısıyla bu bende ukde kaldı. Ve şeyi de göstermek istedim. Ülkemizde. Oyunun gücünü ve önemini hep buna vurgu yapmaya çalıştım ve C4 müthiş bir fırsat sundu bana. Eee, biz oyunu yaptık dediğin gibi. Yurt dışından da on binlerce insan indirip oyunu oynamaya çalıştı. Tabii Türkçe yarış oyunu olsa bile arayüz Türkçe. Hemen bize mailler geldi. İşte İngilizcesini yap, Fransızcasını filan. Bizim çocuklar da büyük heyecanla, abi yarım saatimizi almaz yabancı dil desteği verelim. Ben de hani ders olsun ve buradaki hassasiyetimi göstereyim diye yok öyle yağma dedim. Siz yıllarca İngilizce oynamak zorunda kaldınız. Madem oyunumuzu çok beğendiler. Onlar da bir yolunu bulup Türkçe oynasınlar. Ne oldu biliyor musun? İki hafta içerisinde İspanya, Japonya abartmıyorum kendi dillerine çevirdiler Türkçe arayüzlerini, menülerini ve oyunumuzu rahatça oynadılar. Bu da oyunun gücünü gösterdi."
+        },
+        {
+            "end": 1541.083,
+            "speaker": "speaker_1",
+            "start": 1537.083,
+            "text": "İyi ki geldin. Seninle sohbet çok güzel. Epey de şey öğrendim."
+        },
+        {
+            "end": 1543.003,
+            "speaker": "speaker_2",
+            "start": 1541.083,
+            "text": "Çok teşekkür ederim davetin için."
+        },
+        {
+            "end": 1550.3029999999999,
+            "speaker": "speaker_1",
+            "start": 1543.003,
+            "text": "Efendim sürçe ihsan ettiysek affola. Tecrübe haftaya yine burada konuşmaya devam edecek. Sağlıcakla kalın."
+        },
+        {
+            "end": 1564.3029999999999,
+            "speaker": "speaker_unknown",
+            "start": 1550.3029999999999,
+            "text": "(jenerik müziği)"
+        }
+    ],
+    "video_metadata": {
+        "title": "Tecrübe Konuşuyor - Mevlüt Dinç | 21.02.2020",
+        "url": "https://www.youtube.com/watch?v=Epkr-oCVQow&list=PLCi3Q_-uGtdlCsFXHLDDHBSLyq4BkQ6gZ&index=6"
+    }
+}
