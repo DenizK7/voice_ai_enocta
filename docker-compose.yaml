@@ -1,0 +1,24 @@
+version: "3.9"
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    ports:
+      - "5000:5000"
+    environment:
+      # These environment variables can be used by your Flask app
+      - FLASK_ENV=production
+      - PORT=5000
+    restart: on-failure
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    ports:
+      - "8501:8501"
+    environment:
+      # Set the backend URL for your Streamlit app (note the service name 'backend')
+      - BACKEND_URL=http://backend:5000/api/chatbot
+    restart: on-failure
