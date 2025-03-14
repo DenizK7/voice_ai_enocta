@@ -2,31 +2,30 @@ import streamlit as st
 import requests
 import json
 from frontend_config import BACKEND_URL
+
 # BACKEND_URL: Backend API address
 BACKEND_URL = BACKEND_URL +("/api/chatbot")
 
-# Streamlit title and page settings
 st.set_page_config(page_title="AI Chatbot", page_icon="🤖")
 st.title("🎙️ Video AI Chatbot")
 
-# Navigation options: First page Chat, last page Video Upload
+# Navigation options: Two Chat pages, Uploaded Files, Edit Prompts, and Upload Video.
 page = st.sidebar.radio(
     "Navigation", 
-    ["💬 Chatbot", "📂 Uploaded Files", "📝 Edit Prompts", "📹 Upload Video"]
+    ["💬 Chatbot (TTS)", "💬 Chatbot (Text)", "📂 Uploaded Files", "📝 Edit Prompts", "📹 Upload Video"]
 )
 
 # ----------------------------
-# 💬 Chatbot Page
+# 💬 Chatbot (TTS) Page
 # ----------------------------
-if page == "💬 Chatbot":
-    st.header("💬 AI Chatbot")
-    st.write("Type your question. The LLM will answer by utilizing relevant transcripts.")
+if page == "💬 Chatbot (TTS)":
+    st.header("💬 AI Chatbot (TTS)")
+    st.write("Type your question. The LLM will answer by utilizing relevant transcripts (audio response).")
 
-    # Chat settings
     with st.sidebar.expander("⚙️ Chat Settings"):
         temperature = st.slider("Temperature", 0.0, 1.0, 0.7, 0.05)
         top_k = st.slider("Top-K (Number of results)", 1, 10, 3)
-        similarity_threshold = st.slider("similarity_threshold", 0.0, 1.0, 0.7, 0.01)
+        similarity_threshold = st.slider("Similarity Threshold", 0.0, 1.0, 0.7, 0.01)
     question = st.chat_input("Enter your question...")
 
     if question:
@@ -58,6 +57,45 @@ if page == "💬 Chatbot":
                 st.error(f"⚠️ Backend error: {response.status_code} {response.text}")
         except Exception as e:
             st.error(f"❌ Error occurred: {e}")
+
+# ----------------------------
+# 💬 Chatbot (Text) Page
+# ----------------------------
+elif page == "💬 Chatbot (Text)":
+    st.header("💬 AI Chatbot (Text)")
+    st.write("Type your question. The LLM will answer by utilizing relevant transcripts (text-only response).")
+
+    with st.sidebar.expander("⚙️ Chat Settings"):
+        temperature = st.slider("Temperature", 0.0, 1.0, 0.7, 0.05, key="text_temp")
+        top_k = st.slider("Top-K (Number of results)", 1, 10, 3, key="text_topk")
+        similarity_threshold = st.slider("Similarity Threshold", 0.0, 1.0, 0.7, 0.01, key="text_thresh")
+    question = st.text_input("Enter your question...", key="text_question")
+
+    if question:
+        with st.spinner("Generating answer..."):
+            try:
+                chat_endpoint = f"{BACKEND_URL}/chat"
+                payload = {
+                    "question": question,
+                    "temperature": temperature,
+                    "top_k": top_k,
+                    "similarity_threshold": similarity_threshold
+                }
+                response = requests.post(chat_endpoint, json=payload)
+                if response.status_code == 200:
+                    result = response.json()
+                    answer = result.get("answer", "No answer returned.")
+                    references = result.get("references", [])
+                    st.markdown("**Answer:**")
+                    st.write(answer)
+                    if references:
+                        st.markdown("### References:")
+                        for ref in references:
+                            st.markdown(f"- {ref}")
+                else:
+                    st.error(f"⚠️ Backend error: {response.status_code} {response.text}")
+            except Exception as e:
+                st.error(f"❌ Error occurred: {e}")
 
 # ----------------------------
 # 📂 Uploaded Files Page
@@ -99,7 +137,7 @@ elif page == "📝 Edit Prompts":
     def fetch_prompt():
         """
         Fetches the current prompt adjustment instructions from the backend.
-
+        
         Returns:
             str: The current prompt adjustment instructions.
         """
@@ -116,12 +154,11 @@ elif page == "📝 Edit Prompts":
         update_response = requests.post(f"{BACKEND_URL}/update-prompts", json=update_payload)
         if update_response.status_code == 200:
             st.success("✅ Prompt updated successfully!")
-            st.experimental_rerun()
         else:
             st.error(f"⚠️ Error updating prompt: {update_response.text}")
 
 # ----------------------------
-# 📹 Upload Video Page (Last)
+# 📹 Upload Video Page
 # ----------------------------
 elif page == "📹 Upload Video":
     st.header("🎥 Video Upload & Transcription")
